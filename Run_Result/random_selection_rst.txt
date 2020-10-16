@@ -1,0 +1,55 @@
+transaction file rolled up into: random_ptypeSelection-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.334            0.334         0.336      0.335
+
+KC Name             Intercept (logit)    Intercept (prob)    Slope
+----------------  -------------------  ------------------  -------
+JCommTable4.R0C0               -0.431               0.394    0.392
+JCommTable4.R1C0               -1.331               0.209    0.343
+JCommTable5.R0C0               -0.953               0.278    0.246
+JCommTable5.R1C0               -0.694               0.333    0.185
+JCommTable6.R0C0               -0.419               0.397    0.073
+JCommTable6.R1C0               -0.278               0.431    0.060
+JCommTable8.R0C0               -0.200               0.450    0.332
+done                           -0.754               0.320    0.326
+
+Anon Student Id          Intercept (logit)    Intercept (prob)
+---------------------  -------------------  ------------------
+Random Controller(1)                 0.306               0.576
+Random Controller(10)                0.180               0.545
+Random Controller(11)               -0.132               0.467
+Random Controller(12)                0.304               0.575
+Random Controller(13)               -1.096               0.250
+Random Controller(14)                0.136               0.534
+Random Controller(15)                0.257               0.564
+Random Controller(16)               -0.341               0.416
+Random Controller(17)               -0.351               0.413
+Random Controller(18)                0.173               0.543
+Random Controller(19)                0.552               0.635
+Random Controller(2)                 0.071               0.518
+Random Controller(20)                0.277               0.569
+Random Controller(21)               -0.282               0.430
+Random Controller(22)               -0.083               0.479
+Random Controller(23)               -0.154               0.462
+Random Controller(24)                0.115               0.529
+Random Controller(25)                0.115               0.529
+Random Controller(26)                0.292               0.573
+Random Controller(27)               -0.078               0.481
+Random Controller(28)               -0.337               0.417
+Random Controller(29)                0.072               0.518
+Random Controller(3)                 0.230               0.557
+Random Controller(30)               -0.233               0.442
+Random Controller(4)                -0.130               0.467
+Random Controller(5)                -0.190               0.453
+Random Controller(6)                -0.364               0.410
+Random Controller(7)                 0.130               0.532
+Random Controller(8)                 0.177               0.544
+Random Controller(9)                 0.380               0.594
