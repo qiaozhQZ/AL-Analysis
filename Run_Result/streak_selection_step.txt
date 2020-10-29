@@ -1,0 +1,55 @@
+transaction file rolled up into: streak_ptypeSelection_step-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.393            0.393         0.395      0.394
+
+KC Name             Intercept (logit)    Intercept (prob)    Slope
+----------------  -------------------  ------------------  -------
+JCommTable4.R0C0               -0.412               0.398    0.120
+JCommTable4.R1C0               -0.755               0.320    0.115
+JCommTable5.R0C0               -0.423               0.396    0.144
+JCommTable5.R1C0               -0.468               0.385    0.132
+JCommTable6.R0C0               -0.352               0.413    0.041
+JCommTable6.R1C0               -0.613               0.351    0.054
+JCommTable8.R0C0                0.182               0.545    0.137
+done                           -1.406               0.197    0.251
+
+Anon Student Id      Intercept (logit)    Intercept (prob)
+-----------------  -------------------  ------------------
+Streak Agent(1)                  0.087               0.522
+Streak Agent(10)                 0.112               0.528
+Streak Agent(11)                 0.510               0.625
+Streak Agent(12)                -0.343               0.415
+Streak Agent(13)                -0.160               0.460
+Streak Agent(14)                 0.389               0.596
+Streak Agent(15)                -0.059               0.485
+Streak Agent(16)                -0.265               0.434
+Streak Agent(17)                -0.064               0.484
+Streak Agent(18)                 0.109               0.527
+Streak Agent(19)                -0.083               0.479
+Streak Agent(2)                  0.263               0.565
+Streak Agent(20)                 0.030               0.507
+Streak Agent(21)                -0.279               0.431
+Streak Agent(22)                -1.018               0.265
+Streak Agent(23)                -0.123               0.469
+Streak Agent(24)                -0.081               0.480
+Streak Agent(25)                -0.189               0.453
+Streak Agent(26)                 0.284               0.571
+Streak Agent(27)                 0.398               0.598
+Streak Agent(28)                 0.090               0.522
+Streak Agent(29)                 0.242               0.560
+Streak Agent(3)                 -0.359               0.411
+Streak Agent(30)                 0.254               0.563
+Streak Agent(4)                  0.234               0.558
+Streak Agent(5)                  0.247               0.561
+Streak Agent(6)                 -0.129               0.468
+Streak Agent(7)                 -0.360               0.411
+Streak Agent(8)                  0.037               0.509
+Streak Agent(9)                  0.226               0.556

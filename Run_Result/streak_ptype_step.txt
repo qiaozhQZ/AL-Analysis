@@ -1,0 +1,71 @@
+transaction file rolled up into: streak_ptypeSelection_step-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.342            0.342         0.344      0.341
+
+KC Name                Intercept (logit)    Intercept (prob)    Slope
+-------------------  -------------------  ------------------  -------
+AD JCommTable4.R0C0               -0.452               0.389    0.195
+AD JCommTable4.R1C0               -0.885               0.292    0.324
+AD JCommTable5.R0C0               -0.421               0.396    0.171
+AD JCommTable5.R1C0               -0.488               0.380    0.169
+AD JCommTable6.R0C0               -0.375               0.407    0.063
+AD JCommTable6.R1C0               -0.805               0.309    0.080
+AD JCommTable8.R0C0                0.322               0.580    0.536
+AD done                           -2.965               0.049    0.776
+AS JCommTable4.R0C0              -44.491               0.000    0.000
+AS JCommTable4.R1C0              -34.973               0.000    0.000
+AS JCommTable5.R0C0              -57.698               0.000    0.000
+AS JCommTable5.R1C0              -30.791               0.000    0.000
+AS JCommTable6.R0C0               -1.530               0.178    0.680
+AS JCommTable6.R1C0               -1.446               0.191    0.874
+AS JCommTable8.R0C0             -237.071               0.000    0.000
+AS done                            0.338               0.584    1.028
+M  JCommTable4.R0C0             -313.838               0.000    0.000
+M  JCommTable4.R1C0             -603.454               0.000    0.000
+M  JCommTable5.R0C0              -20.018               0.000    0.000
+M  JCommTable5.R1C0              -20.803               0.000    0.000
+M  JCommTable6.R0C0               -0.190               0.453    0.167
+M  JCommTable6.R1C0               -0.150               0.463    0.303
+M  JCommTable8.R0C0             -208.346               0.000    0.000
+M  done                           -0.946               0.280    0.922
+
+Anon Student Id      Intercept (logit)    Intercept (prob)
+-----------------  -------------------  ------------------
+Streak Agent(1)                  0.113               0.528
+Streak Agent(10)                 0.142               0.535
+Streak Agent(11)                 0.592               0.644
+Streak Agent(12)                -0.368               0.409
+Streak Agent(13)                -0.269               0.433
+Streak Agent(14)                 0.413               0.602
+Streak Agent(15)                -0.086               0.479
+Streak Agent(16)                -0.334               0.417
+Streak Agent(17)                -0.013               0.497
+Streak Agent(18)                 0.063               0.516
+Streak Agent(19)                -0.005               0.499
+Streak Agent(2)                  0.425               0.605
+Streak Agent(20)                -0.002               0.499
+Streak Agent(21)                -0.188               0.453
+Streak Agent(22)                -1.243               0.224
+Streak Agent(23)                -0.107               0.473
+Streak Agent(24)                -0.121               0.470
+Streak Agent(25)                -0.296               0.426
+Streak Agent(26)                 0.364               0.590
+Streak Agent(27)                 0.340               0.584
+Streak Agent(28)                 0.055               0.514
+Streak Agent(29)                 0.190               0.547
+Streak Agent(3)                 -0.471               0.384
+Streak Agent(30)                 0.301               0.575
+Streak Agent(4)                  0.336               0.583
+Streak Agent(5)                  0.276               0.569
+Streak Agent(6)                 -0.108               0.473
+Streak Agent(7)                 -0.335               0.417
+Streak Agent(8)                  0.133               0.533
+Streak Agent(9)                  0.202               0.550

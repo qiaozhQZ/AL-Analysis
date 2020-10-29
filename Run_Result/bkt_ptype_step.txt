@@ -1,0 +1,71 @@
+transaction file rolled up into: bkt_ptypeSelection_step-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.362            0.360         0.365      0.362
+
+KC Name                Intercept (logit)    Intercept (prob)    Slope
+-------------------  -------------------  ------------------  -------
+AD JCommTable4.R0C0               -1.659               0.160    0.489
+AD JCommTable4.R1C0               -1.979               0.121    0.712
+AD JCommTable5.R0C0               -1.804               0.141    0.317
+AD JCommTable5.R1C0               -1.525               0.179    0.508
+AD JCommTable6.R0C0               -2.923               0.051    0.307
+AD JCommTable6.R1C0               -2.754               0.060    0.318
+AD JCommTable8.R0C0               -1.260               0.221    0.762
+AD done                           -0.602               0.354    0.612
+AS JCommTable4.R0C0              -27.983               0.000    0.000
+AS JCommTable4.R1C0              -31.434               0.000    0.000
+AS JCommTable5.R0C0              -20.215               0.000    0.000
+AS JCommTable5.R1C0              -21.141               0.000    0.000
+AS JCommTable6.R0C0               -2.806               0.057    0.936
+AS JCommTable6.R1C0               -2.500               0.076    1.058
+AS JCommTable8.R0C0              -69.531               0.000    0.000
+AS done                            0.034               0.508    1.103
+M  JCommTable4.R0C0              -32.158               0.000    0.000
+M  JCommTable4.R1C0              -67.428               0.000    0.000
+M  JCommTable5.R0C0              -21.767               0.000    0.000
+M  JCommTable5.R1C0              -52.296               0.000    0.000
+M  JCommTable6.R0C0               -0.574               0.360    0.278
+M  JCommTable6.R1C0               -0.307               0.424    0.263
+M  JCommTable8.R0C0              -68.964               0.000    0.000
+M  done                           -1.415               0.195    0.750
+
+Anon Student Id       Intercept (logit)    Intercept (prob)
+------------------  -------------------  ------------------
+BKT Controller(1)                -0.067               0.483
+BKT Controller(10)                0.110               0.527
+BKT Controller(11)                0.715               0.672
+BKT Controller(12)               -0.119               0.470
+BKT Controller(13)                0.169               0.542
+BKT Controller(14)                0.106               0.526
+BKT Controller(15)                0.074               0.518
+BKT Controller(16)                0.399               0.598
+BKT Controller(17)               -0.009               0.498
+BKT Controller(18)               -0.017               0.496
+BKT Controller(19)                0.528               0.629
+BKT Controller(2)                 0.409               0.601
+BKT Controller(20)               -0.844               0.301
+BKT Controller(21)               -1.125               0.245
+BKT Controller(22)               -0.242               0.440
+BKT Controller(23)               -0.230               0.443
+BKT Controller(24)               -0.214               0.447
+BKT Controller(25)                0.148               0.537
+BKT Controller(26)                0.007               0.502
+BKT Controller(27)               -0.598               0.355
+BKT Controller(28)               -0.543               0.367
+BKT Controller(29)                0.393               0.597
+BKT Controller(3)                 0.665               0.660
+BKT Controller(30)               -0.180               0.455
+BKT Controller(4)                 0.115               0.529
+BKT Controller(5)                 0.035               0.509
+BKT Controller(6)                 0.612               0.648
+BKT Controller(7)                -0.305               0.424
+BKT Controller(8)                -0.355               0.412
+BKT Controller(9)                 0.362               0.590
