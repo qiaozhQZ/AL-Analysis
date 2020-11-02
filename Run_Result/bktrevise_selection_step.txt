@@ -1,0 +1,55 @@
+transaction file rolled up into: outer_loop_test_bkt_revise3_step-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.421            0.421         0.427      0.421
+
+KC Name             Intercept (logit)    Intercept (prob)    Slope
+----------------  -------------------  ------------------  -------
+JCommTable4.R0C0               -2.399               0.083    0.565
+JCommTable4.R1C0               -2.480               0.077    0.437
+JCommTable5.R0C0               -1.279               0.218    0.235
+JCommTable5.R1C0               -1.644               0.162    0.265
+JCommTable6.R0C0               -1.294               0.215    0.079
+JCommTable6.R1C0               -0.748               0.321    0.061
+JCommTable8.R0C0               -2.088               0.110    0.416
+done                           -1.287               0.216    0.339
+
+Anon Student Id       Intercept (logit)    Intercept (prob)
+------------------  -------------------  ------------------
+BKT Controller(1)                -0.439               0.392
+BKT Controller(10)                0.032               0.508
+BKT Controller(11)                0.627               0.652
+BKT Controller(12)               -0.322               0.420
+BKT Controller(13)               -0.295               0.427
+BKT Controller(14)                0.205               0.551
+BKT Controller(15)               -0.342               0.415
+BKT Controller(16)               -0.071               0.482
+BKT Controller(17)               -0.020               0.495
+BKT Controller(18)                0.134               0.534
+BKT Controller(19)                0.084               0.521
+BKT Controller(2)                -0.443               0.391
+BKT Controller(20)                0.023               0.506
+BKT Controller(21)               -1.232               0.226
+BKT Controller(22)                0.120               0.530
+BKT Controller(23)               -0.024               0.494
+BKT Controller(24)                0.286               0.571
+BKT Controller(25)                0.588               0.643
+BKT Controller(26)                0.500               0.622
+BKT Controller(27)               -0.163               0.459
+BKT Controller(28)                0.182               0.545
+BKT Controller(29)               -0.244               0.439
+BKT Controller(3)                 0.144               0.536
+BKT Controller(30)               -0.187               0.453
+BKT Controller(4)                 0.525               0.628
+BKT Controller(5)                -0.287               0.429
+BKT Controller(6)                 0.121               0.530
+BKT Controller(7)                -0.101               0.475
+BKT Controller(8)                 0.359               0.589
+BKT Controller(9)                 0.239               0.559
