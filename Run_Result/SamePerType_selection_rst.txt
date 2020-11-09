@@ -1,0 +1,115 @@
+transaction file rolled up into: SamePerTypeCombine-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.381            0.381         0.386      0.381
+
+KC Name             Intercept (logit)    Intercept (prob)    Slope
+----------------  -------------------  ------------------  -------
+JCommTable4.R0C0               -0.902               0.289    0.108
+JCommTable4.R1C0               -0.813               0.307    0.102
+JCommTable5.R0C0               -0.995               0.270    0.094
+JCommTable5.R1C0               -0.496               0.378    0.076
+JCommTable6.R0C0               -0.547               0.367    0.027
+JCommTable6.R1C0               -0.584               0.358    0.024
+JCommTable8.R0C0               -0.040               0.490    0.044
+done                           -1.187               0.234    0.265
+
+Anon Student Id          Intercept (logit)    Intercept (prob)
+---------------------  -------------------  ------------------
+BKT Controller(1)                   -0.253               0.437
+BKT Controller(10)                  -0.081               0.480
+BKT Controller(11)                  -0.587               0.357
+BKT Controller(12)                  -0.445               0.391
+BKT Controller(13)                  -0.054               0.486
+BKT Controller(14)                  -0.199               0.451
+BKT Controller(15)                  -0.530               0.370
+BKT Controller(16)                  -0.764               0.318
+BKT Controller(17)                  -0.003               0.499
+BKT Controller(18)                  -0.338               0.416
+BKT Controller(19)                  -0.955               0.278
+BKT Controller(2)                   -0.739               0.323
+BKT Controller(20)                  -0.324               0.420
+BKT Controller(21)                  -1.271               0.219
+BKT Controller(22)                  -0.919               0.285
+BKT Controller(23)                  -0.700               0.332
+BKT Controller(24)                  -0.227               0.444
+BKT Controller(25)                  -0.015               0.496
+BKT Controller(26)                  -0.259               0.436
+BKT Controller(27)                  -0.397               0.402
+BKT Controller(28)                  -0.284               0.429
+BKT Controller(29)                  -0.358               0.411
+BKT Controller(3)                   -0.105               0.474
+BKT Controller(30)                   0.041               0.510
+BKT Controller(4)                    0.143               0.536
+BKT Controller(5)                   -0.248               0.438
+BKT Controller(6)                   -1.111               0.248
+BKT Controller(7)                   -0.506               0.376
+BKT Controller(8)                   -0.133               0.467
+BKT Controller(9)                   -0.512               0.375
+Random Controller(1)                 0.505               0.624
+Random Controller(10)                0.173               0.543
+Random Controller(11)                0.261               0.565
+Random Controller(12)               -0.172               0.457
+Random Controller(13)               -0.124               0.469
+Random Controller(14)               -0.186               0.454
+Random Controller(15)                0.217               0.554
+Random Controller(16)                0.493               0.621
+Random Controller(17)                0.224               0.556
+Random Controller(18)               -0.324               0.420
+Random Controller(19)               -0.309               0.423
+Random Controller(2)                -0.034               0.491
+Random Controller(20)               -0.178               0.456
+Random Controller(21)                0.077               0.519
+Random Controller(22)               -0.102               0.475
+Random Controller(23)                0.092               0.523
+Random Controller(24)                0.136               0.534
+Random Controller(25)                0.773               0.684
+Random Controller(26)               -0.083               0.479
+Random Controller(27)                0.838               0.698
+Random Controller(28)                0.272               0.568
+Random Controller(29)                0.022               0.506
+Random Controller(3)                 0.037               0.509
+Random Controller(30)               -0.003               0.499
+Random Controller(4)                 0.182               0.545
+Random Controller(5)                 0.201               0.550
+Random Controller(6)                -0.176               0.456
+Random Controller(7)                 0.162               0.540
+Random Controller(8)                -0.799               0.310
+Random Controller(9)                 0.308               0.576
+Streak Agent(1)                     -0.103               0.474
+Streak Agent(10)                     0.493               0.621
+Streak Agent(11)                     0.549               0.634
+Streak Agent(12)                     0.270               0.567
+Streak Agent(13)                     0.382               0.594
+Streak Agent(14)                     0.622               0.651
+Streak Agent(15)                    -0.237               0.441
+Streak Agent(16)                     0.363               0.590
+Streak Agent(17)                     0.386               0.595
+Streak Agent(18)                     0.141               0.535
+Streak Agent(19)                     0.575               0.640
+Streak Agent(2)                      0.075               0.519
+Streak Agent(20)                     0.532               0.630
+Streak Agent(21)                     0.309               0.577
+Streak Agent(22)                     0.519               0.627
+Streak Agent(23)                     0.242               0.560
+Streak Agent(24)                     0.501               0.623
+Streak Agent(25)                     0.420               0.603
+Streak Agent(26)                    -0.054               0.487
+Streak Agent(27)                     0.186               0.546
+Streak Agent(28)                     0.145               0.536
+Streak Agent(29)                     0.338               0.584
+Streak Agent(3)                      0.087               0.522
+Streak Agent(30)                     0.578               0.641
+Streak Agent(4)                      0.103               0.526
+Streak Agent(5)                      0.487               0.619
+Streak Agent(6)                      0.687               0.665
+Streak Agent(7)                      0.288               0.571
+Streak Agent(8)                      0.413               0.602
+Streak Agent(9)                      0.351               0.587

@@ -1,0 +1,131 @@
+transaction file rolled up into: SamePerTypeCombine-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.352            0.352         0.355      0.352
+
+KC Name                Intercept (logit)    Intercept (prob)    Slope
+-------------------  -------------------  ------------------  -------
+AD JCommTable4.R0C0               -0.768               0.317    0.139
+AD JCommTable4.R1C0               -0.480               0.382    0.134
+AD JCommTable5.R0C0               -0.887               0.292    0.104
+AD JCommTable5.R1C0               -0.294               0.427    0.090
+AD JCommTable6.R0C0               -0.898               0.289    0.058
+AD JCommTable6.R1C0               -1.045               0.260    0.048
+AD JCommTable8.R0C0                0.911               0.713    0.066
+AD done                           -0.971               0.275    0.524
+AS JCommTable4.R0C0              -27.481               0.000    0.000
+AS JCommTable4.R1C0              -36.833               0.000    0.000
+AS JCommTable5.R0C0              -18.878               0.000    0.000
+AS JCommTable5.R1C0              -24.862               0.000    0.000
+AS JCommTable6.R0C0               -0.031               0.492    0.099
+AS JCommTable6.R1C0               -0.282               0.430    0.087
+AS JCommTable8.R0C0             -141.115               0.000    0.000
+AS done                            0.325               0.580    0.446
+M  JCommTable4.R0C0              -29.363               0.000    0.000
+M  JCommTable4.R1C0              -47.483               0.000    0.000
+M  JCommTable5.R0C0              -31.636               0.000    0.000
+M  JCommTable5.R1C0              -35.365               0.000    0.000
+M  JCommTable6.R0C0               -0.588               0.357    0.144
+M  JCommTable6.R1C0               -0.407               0.400    0.191
+M  JCommTable8.R0C0              -55.921               0.000    0.000
+M  done                           -1.079               0.254    0.992
+
+Anon Student Id          Intercept (logit)    Intercept (prob)
+---------------------  -------------------  ------------------
+BKT Controller(1)                   -0.239               0.440
+BKT Controller(10)                   0.008               0.502
+BKT Controller(11)                  -0.556               0.365
+BKT Controller(12)                  -0.348               0.414
+BKT Controller(13)                  -0.028               0.493
+BKT Controller(14)                  -0.111               0.472
+BKT Controller(15)                  -0.436               0.393
+BKT Controller(16)                  -0.613               0.351
+BKT Controller(17)                  -0.026               0.493
+BKT Controller(18)                  -0.259               0.435
+BKT Controller(19)                  -0.803               0.309
+BKT Controller(2)                   -0.602               0.354
+BKT Controller(20)                  -0.167               0.458
+BKT Controller(21)                  -1.250               0.223
+BKT Controller(22)                  -0.838               0.302
+BKT Controller(23)                  -0.742               0.323
+BKT Controller(24)                  -0.141               0.465
+BKT Controller(25)                   0.016               0.504
+BKT Controller(26)                  -0.075               0.481
+BKT Controller(27)                  -0.259               0.436
+BKT Controller(28)                  -0.168               0.458
+BKT Controller(29)                  -0.507               0.376
+BKT Controller(3)                   -0.334               0.417
+BKT Controller(30)                   0.115               0.529
+BKT Controller(4)                    0.285               0.571
+BKT Controller(5)                   -0.104               0.474
+BKT Controller(6)                   -1.061               0.257
+BKT Controller(7)                   -0.519               0.373
+BKT Controller(8)                   -0.346               0.414
+BKT Controller(9)                   -0.388               0.404
+Random Controller(1)                 0.497               0.622
+Random Controller(10)                0.138               0.534
+Random Controller(11)                0.155               0.539
+Random Controller(12)               -0.225               0.444
+Random Controller(13)               -0.193               0.452
+Random Controller(14)               -0.195               0.451
+Random Controller(15)                0.141               0.535
+Random Controller(16)                0.431               0.606
+Random Controller(17)                0.276               0.569
+Random Controller(18)               -0.405               0.400
+Random Controller(19)               -0.330               0.418
+Random Controller(2)                -0.089               0.478
+Random Controller(20)               -0.155               0.461
+Random Controller(21)                0.090               0.522
+Random Controller(22)               -0.108               0.473
+Random Controller(23)                0.107               0.527
+Random Controller(24)                0.033               0.508
+Random Controller(25)                0.606               0.647
+Random Controller(26)               -0.175               0.456
+Random Controller(27)                0.787               0.687
+Random Controller(28)                0.141               0.535
+Random Controller(29)                0.042               0.511
+Random Controller(3)                -0.024               0.494
+Random Controller(30)               -0.141               0.465
+Random Controller(4)                 0.142               0.536
+Random Controller(5)                 0.187               0.547
+Random Controller(6)                -0.021               0.495
+Random Controller(7)                 0.094               0.523
+Random Controller(8)                -0.556               0.364
+Random Controller(9)                 0.249               0.562
+Streak Agent(1)                     -0.127               0.468
+Streak Agent(10)                     0.491               0.620
+Streak Agent(11)                     0.542               0.632
+Streak Agent(12)                     0.220               0.555
+Streak Agent(13)                     0.423               0.604
+Streak Agent(14)                     0.581               0.641
+Streak Agent(15)                    -0.065               0.484
+Streak Agent(16)                     0.301               0.575
+Streak Agent(17)                     0.425               0.605
+Streak Agent(18)                     0.092               0.523
+Streak Agent(19)                     0.584               0.642
+Streak Agent(2)                     -0.003               0.499
+Streak Agent(20)                     0.538               0.631
+Streak Agent(21)                     0.349               0.586
+Streak Agent(22)                     0.542               0.632
+Streak Agent(23)                     0.144               0.536
+Streak Agent(24)                     0.421               0.604
+Streak Agent(25)                     0.378               0.593
+Streak Agent(26)                    -0.160               0.460
+Streak Agent(27)                     0.153               0.538
+Streak Agent(28)                     0.062               0.515
+Streak Agent(29)                     0.329               0.581
+Streak Agent(3)                      0.154               0.538
+Streak Agent(30)                     0.578               0.641
+Streak Agent(4)                      0.095               0.524
+Streak Agent(5)                      0.452               0.611
+Streak Agent(6)                      0.639               0.655
+Streak Agent(7)                      0.221               0.555
+Streak Agent(8)                      0.346               0.586
+Streak Agent(9)                      0.291               0.572
