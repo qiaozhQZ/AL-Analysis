@@ -1,0 +1,71 @@
+transaction file rolled up into: random_80_ptype_step-rollup.txt
+
+Found these KC models:
+  (1) Selected
+  (2) Single-KC
+  (3) ptype_selection
+
+Enter the number of which one you want to use: 
+  Unstratified CV    Stratified CV    Student CV    Item CV
+-----------------  ---------------  ------------  ---------
+            0.289            0.289         0.291      0.289
+
+KC Name                Intercept (logit)    Intercept (prob)    Slope
+-------------------  -------------------  ------------------  -------
+AD JCommTable4.R0C0                0.228               0.557    0.079
+AD JCommTable4.R1C0                0.292               0.572    0.069
+AD JCommTable5.R0C0                0.127               0.532    0.048
+AD JCommTable5.R1C0                0.592               0.644    0.062
+AD JCommTable6.R0C0               -0.413               0.398    0.029
+AD JCommTable6.R1C0               -0.409               0.399    0.024
+AD JCommTable8.R0C0                1.106               0.751    0.030
+AD done                           -0.447               0.390    0.725
+AS JCommTable4.R0C0              -20.001               0.000    0.000
+AS JCommTable4.R1C0              -30.589               0.000    0.000
+AS JCommTable5.R0C0              -20.654               0.000    0.000
+AS JCommTable5.R1C0              -19.761               0.000    0.000
+AS JCommTable6.R0C0                0.947               0.720    0.038
+AS JCommTable6.R1C0                0.764               0.682    0.029
+AS JCommTable8.R0C0             -403.245               0.000    0.000
+AS done                           -0.156               0.461    0.529
+M  JCommTable4.R0C0              -21.269               0.000    0.000
+M  JCommTable4.R1C0              -95.952               0.000    0.000
+M  JCommTable5.R0C0              -22.929               0.000    0.000
+M  JCommTable5.R1C0              -20.795               0.000    0.000
+M  JCommTable6.R0C0                0.312               0.577    0.062
+M  JCommTable6.R1C0                0.393               0.597    0.078
+M  JCommTable8.R0C0              -24.361               0.000    0.000
+M  done                           -1.094               0.251    0.920
+
+Anon Student Id          Intercept (logit)    Intercept (prob)
+---------------------  -------------------  ------------------
+Random Controller(1)                -0.064               0.484
+Random Controller(10)                0.458               0.612
+Random Controller(11)               -0.217               0.446
+Random Controller(12)                0.310               0.577
+Random Controller(13)               -0.507               0.376
+Random Controller(14)               -0.296               0.427
+Random Controller(15)                0.013               0.503
+Random Controller(16)               -0.405               0.400
+Random Controller(17)                0.129               0.532
+Random Controller(18)               -0.094               0.476
+Random Controller(19)                0.145               0.536
+Random Controller(2)                -0.317               0.421
+Random Controller(20)               -0.047               0.488
+Random Controller(21)                0.180               0.545
+Random Controller(22)                0.022               0.505
+Random Controller(23)                0.411               0.601
+Random Controller(24)                0.601               0.646
+Random Controller(25)                0.395               0.598
+Random Controller(26)               -0.652               0.343
+Random Controller(27)               -0.174               0.457
+Random Controller(28)                0.483               0.618
+Random Controller(29)               -0.360               0.411
+Random Controller(3)                -0.082               0.480
+Random Controller(30)                0.285               0.571
+Random Controller(4)                -0.116               0.471
+Random Controller(5)                 0.162               0.540
+Random Controller(6)                -0.232               0.442
+Random Controller(7)                 0.308               0.576
+Random Controller(8)                 0.115               0.529
+Random Controller(9)                -0.453               0.389
