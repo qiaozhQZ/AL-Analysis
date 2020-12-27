@@ -1,0 +1,13 @@
+Single blind
+Change the pdf Info, line 23
+
+
+Figures should be 300 dpi
+Fig 1 330 dpi
+Adding pages?
+
+Questions
+Is there required page limits for each type of publication?
+Are we adding section numbers?
+How to combine multiple figures together without decreasing the resolution?
+The authors?
