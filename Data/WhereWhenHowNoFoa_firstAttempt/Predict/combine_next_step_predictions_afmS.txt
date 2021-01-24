@@ -1,0 +1,2802 @@
+student,kc,opportunity,prediction
+Default BKT Controller(1),AD JCommTable8.R0C0,8,0.919714463555757
+Default BKT Controller(1),AD JCommTable4.R1C0,8,0.9918705383902512
+Default BKT Controller(1),AD JCommTable4.R0C0,8,0.9814750687702647
+Default BKT Controller(1),AD JCommTable5.R1C0,8,0.9939170046991761
+Default BKT Controller(1),AD JCommTable5.R0C0,8,0.9397717708986661
+Default BKT Controller(1),AD JCommTable6.R1C0,8,0.657650436398535
+Default BKT Controller(1),AD JCommTable6.R0C0,8,0.8231363515752327
+Default BKT Controller(1),AD done,8,0.9946198495313284
+Default BKT Controller(1),AS JCommTable8.R0C0,3,7.216128616838417e-14
+Default BKT Controller(1),AS JCommTable4.R1C0,2,1.6362776537287392e-10
+Default BKT Controller(1),AS JCommTable6.R1C0,11,0.8632459305459531
+Default BKT Controller(1),AS JCommTable6.R0C0,11,0.9542201329348511
+Default BKT Controller(1),AS done,11,0.9985715753255332
+Default BKT Controller(1),M  JCommTable8.R0C0,2,2.1471703678193767e-60
+Default BKT Controller(1),M  JCommTable6.R0C0,6,0.9306701492126992
+Default BKT Controller(1),M  JCommTable6.R1C0,6,0.9324919329703659
+Default BKT Controller(1),M  JCommTable4.R1C0,1,3.810360263533093e-11
+Default BKT Controller(1),M  done,6,0.9982904002345173
+Default BKT Controller(2),AD JCommTable8.R0C0,11,0.919714463555757
+Default BKT Controller(2),AD JCommTable4.R1C0,11,0.9920778122009487
+Default BKT Controller(2),AD JCommTable4.R0C0,11,0.9884353175295331
+Default BKT Controller(2),AD JCommTable5.R1C0,11,0.99426845724703
+Default BKT Controller(2),AD JCommTable5.R0C0,11,0.9820659662993801
+Default BKT Controller(2),AD JCommTable6.R1C0,11,0.7815634511256223
+Default BKT Controller(2),AD JCommTable6.R0C0,11,0.8809938964673852
+Default BKT Controller(2),AD done,11,0.9985415459617294
+Default BKT Controller(2),M  JCommTable8.R0C0,2,3.431297777171168e-60
+Default BKT Controller(2),M  JCommTable4.R0C0,2,5.152247519572038e-10
+Default BKT Controller(2),M  JCommTable6.R0C0,3,0.7119934006933887
+Default BKT Controller(2),M  done,3,0.9946219493245444
+Default BKT Controller(2),M  JCommTable6.R1C0,3,0.7512108084490761
+Default BKT Controller(2),AS JCommTable6.R0C0,3,0.8520958542855709
+Default BKT Controller(2),AS JCommTable6.R1C0,3,0.7423398834747975
+Default BKT Controller(2),AS JCommTable8.R0C0,2,1.153177523956053e-13
+Default BKT Controller(2),AS done,3,0.993727756591778
+Default BKT Controller(3),AD JCommTable8.R0C0,13,0.919714463555757
+Default BKT Controller(3),AD JCommTable4.R1C0,13,0.9920798057894832
+Default BKT Controller(3),AD JCommTable4.R0C0,13,0.9886573672614593
+Default BKT Controller(3),AD JCommTable5.R1C0,13,0.9942722502177399
+Default BKT Controller(3),AD JCommTable5.R0C0,13,0.9843058557782085
+Default BKT Controller(3),AD JCommTable6.R1C0,13,0.7944152974613495
+Default BKT Controller(3),AD JCommTable6.R0C0,13,0.8852900895439088
+Default BKT Controller(3),AD done,13,0.9986482132584333
+Default BKT Controller(3),AS JCommTable8.R0C0,3,8.294856258991392e-14
+Default BKT Controller(3),AS JCommTable6.R1C0,5,0.823680752862334
+Default BKT Controller(3),AS JCommTable6.R0C0,5,0.9401769680871994
+Default BKT Controller(3),AS done,5,0.9981154392529102
+Default BKT Controller(3),M  JCommTable8.R0C0,2,2.4681474666440462e-60
+Default BKT Controller(3),M  JCommTable6.R0C0,8,0.9790670974615377
+Default BKT Controller(3),M  JCommTable6.R1C0,8,0.9735063038222801
+Default BKT Controller(3),M  done,8,0.9983113504468492
+Default BKT Controller(4),AD JCommTable8.R0C0,14,0.919714463555757
+Default BKT Controller(4),AD JCommTable4.R1C0,14,0.9920799449098009
+Default BKT Controller(4),AD JCommTable4.R0C0,14,0.988690338228833
+Default BKT Controller(4),AD JCommTable5.R1C0,14,0.9942725346104339
+Default BKT Controller(4),AD JCommTable5.R0C0,14,0.9847638966750167
+Default BKT Controller(4),AD JCommTable6.R1C0,14,0.7994073783041069
+Default BKT Controller(4),AD JCommTable6.R0C0,14,0.8864110697029396
+Default BKT Controller(4),AD done,14,0.9986625212567897
+Default BKT Controller(4),M  JCommTable8.R0C0,2,2.0878271226093043e-60
+Default BKT Controller(4),M  JCommTable4.R0C0,2,3.1349660724671346e-10
+Default BKT Controller(4),M  JCommTable6.R0C0,5,0.8676340389181781
+Default BKT Controller(4),M  done,5,0.99816846957104
+Default BKT Controller(4),M  JCommTable6.R1C0,5,0.8799104979751083
+Default BKT Controller(4),AS JCommTable6.R1C0,7,0.853233656063904
+Default BKT Controller(4),AS JCommTable6.R0C0,7,0.9527215192095895
+Default BKT Controller(4),AS JCommTable8.R0C0,3,7.016690092353228e-14
+Default BKT Controller(4),AS done,7,0.9985353321961039
+Default BKT Controller(5),AD JCommTable8.R0C0,12,0.919714463555757
+Default BKT Controller(5),AD JCommTable4.R1C0,12,0.9920791311592997
+Default BKT Controller(5),AD JCommTable4.R0C0,12,0.9885439445147036
+Default BKT Controller(5),AD JCommTable5.R1C0,12,0.9942709184423343
+Default BKT Controller(5),AD JCommTable5.R0C0,12,0.9828946736027526
+Default BKT Controller(5),AD JCommTable6.R1C0,12,0.7766595016093252
+Default BKT Controller(5),AD JCommTable6.R0C0,12,0.8819835460450065
+Default BKT Controller(5),AD done,12,0.9985969036141907
+Default BKT Controller(5),M  JCommTable8.R0C0,2,2.201783211574465e-60
+Default BKT Controller(5),M  JCommTable4.R1C0,1,3.9072760056807764e-11
+Default BKT Controller(5),M  JCommTable6.R0C0,4,0.769961616124472
+Default BKT Controller(5),M  done,4,0.9974268610135203
+Default BKT Controller(5),M  JCommTable6.R1C0,4,0.7980962332424051
+Default BKT Controller(5),AS JCommTable8.R0C0,2,7.399669387787271e-14
+Default BKT Controller(5),AS JCommTable6.R1C0,3,0.6883242861733202
+Default BKT Controller(5),AS JCommTable6.R0C0,3,0.8040383444424776
+Default BKT Controller(5),AS JCommTable4.R1C0,1,1.67789604468976e-10
+Default BKT Controller(5),AS done,3,0.9910431864313674
+Default BKT Controller(6),AD JCommTable8.R0C0,11,0.919714463555757
+Default BKT Controller(6),AD JCommTable4.R1C0,11,0.9920767341610515
+Default BKT Controller(6),AD JCommTable4.R0C0,11,0.9882957281117859
+Default BKT Controller(6),AD JCommTable5.R1C0,11,0.9942663886313876
+Default BKT Controller(6),AD JCommTable5.R0C0,11,0.9804519304162623
+Default BKT Controller(6),AD JCommTable6.R1C0,11,0.7607332690236354
+Default BKT Controller(6),AD JCommTable6.R0C0,11,0.8773096795801401
+Default BKT Controller(6),AD done,11,0.9984765389367981
+Default BKT Controller(6),M  JCommTable8.R0C0,2,2.3004377330095717e-60
+Default BKT Controller(6),M  JCommTable4.R1C0,2,4.082347939381136e-11
+Default BKT Controller(6),M  JCommTable6.R0C0,6,0.9344808158062278
+Default BKT Controller(6),M  JCommTable6.R1C0,6,0.9357860918099491
+Default BKT Controller(6),M  done,6,0.998291825215344
+Default BKT Controller(6),AS JCommTable8.R0C0,2,7.731223756261216e-14
+Default BKT Controller(6),AS JCommTable4.R1C0,1,1.753076939160692e-10
+Default BKT Controller(6),AS JCommTable6.R1C0,7,0.8541919082534474
+Default BKT Controller(6),AS JCommTable6.R0C0,7,0.9528609173734087
+Default BKT Controller(6),AS done,7,0.9985386966290637
+Default BKT Controller(7),AD JCommTable8.R0C0,9,0.919714463555757
+Default BKT Controller(7),AD JCommTable4.R1C0,9,0.9919883919718716
+Default BKT Controller(7),AD JCommTable4.R0C0,9,0.9837990356823669
+Default BKT Controller(7),AD JCommTable5.R1C0,9,0.9941106338530485
+Default BKT Controller(7),AD JCommTable5.R0C0,9,0.9476212236707128
+Default BKT Controller(7),AD JCommTable6.R1C0,9,0.6290156994838974
+Default BKT Controller(7),AD JCommTable6.R0C0,9,0.8259888005037652
+Default BKT Controller(7),AD done,9,0.9960836983119536
+Default BKT Controller(7),AS JCommTable8.R0C0,3,4.2200816025595827e-14
+Default BKT Controller(7),AS JCommTable4.R1C0,1,9.569154861712693e-11
+Default BKT Controller(7),AS JCommTable5.R1C0,1,5.339764688968685e-14
+Default BKT Controller(7),AS JCommTable6.R1C0,6,0.8271729473113223
+Default BKT Controller(7),AS JCommTable6.R0C0,6,0.9459070641903861
+Default BKT Controller(7),AS done,6,0.9983387367365597
+Default BKT Controller(7),M  JCommTable8.R0C0,2,1.2556918879815418e-60
+Default BKT Controller(7),M  JCommTable4.R1C0,2,2.228345987347875e-11
+Default BKT Controller(7),M  JCommTable6.R1C0,7,0.9411833553164702
+Default BKT Controller(7),M  JCommTable6.R0C0,7,0.9419654792858277
+Default BKT Controller(7),M  done,7,0.9983061760687251
+Default BKT Controller(7),M  JCommTable5.R1C0,1,1.139729385160977e-10
+Default BKT Controller(8),AD JCommTable8.R0C0,13,0.919714463555757
+Default BKT Controller(8),AD JCommTable4.R1C0,13,0.9920796664488476
+Default BKT Controller(8),AD JCommTable4.R0C0,13,0.9886140270027344
+Default BKT Controller(8),AD JCommTable5.R1C0,13,0.9942719601496458
+Default BKT Controller(8),AD JCommTable5.R0C0,13,0.9835665802306042
+Default BKT Controller(8),AD JCommTable6.R1C0,13,0.7727235174389899
+Default BKT Controller(8),AD JCommTable6.R0C0,13,0.8830023079148226
+Default BKT Controller(8),AD done,13,0.9986303264686099
+Default BKT Controller(8),M  JCommTable8.R0C0,1,1.452900289884728e-60
+Default BKT Controller(8),M  JCommTable4.R1C0,2,2.5783112576875346e-11
+Default BKT Controller(8),M  JCommTable6.R0C0,4,0.6904825565766034
+Default BKT Controller(8),M  done,4,0.9969713463637546
+Default BKT Controller(8),M  JCommTable6.R1C0,4,0.7271307442621393
+Default BKT Controller(8),AS JCommTable8.R0C0,2,4.882852109168202e-14
+Default BKT Controller(8),AS JCommTable6.R0C0,7,0.9520629421192022
+Default BKT Controller(8),AS JCommTable6.R1C0,7,0.8487316282599427
+Default BKT Controller(8),AS JCommTable4.R1C0,1,1.1072005804441822e-10
+Default BKT Controller(8),AS done,7,0.9985194241472639
+Default BKT Controller(9),AD JCommTable8.R0C0,13,0.919714463555757
+Default BKT Controller(9),AD JCommTable4.R1C0,13,0.9920795226964285
+Default BKT Controller(9),AD JCommTable4.R0C0,13,0.9885693184801237
+Default BKT Controller(9),AD JCommTable5.R1C0,13,0.9942716608975485
+Default BKT Controller(9),AD JCommTable5.R0C0,13,0.9828050605078307
+Default BKT Controller(9),AD JCommTable6.R1C0,13,0.7515523726554081
+Default BKT Controller(9),AD JCommTable6.R0C0,13,0.8806544489896596
+Default BKT Controller(9),AD done,13,0.9986118740159781
+Default BKT Controller(9),AS JCommTable8.R0C0,4,3.4280937172510313e-14
+Default BKT Controller(9),AS JCommTable5.R0C0,1,1.2863119561501305e-10
+Default BKT Controller(9),AS JCommTable4.R1C0,2,7.773299843666782e-11
+Default BKT Controller(9),AS JCommTable6.R1C0,5,0.7728232545690761
+Default BKT Controller(9),AS JCommTable6.R0C0,5,0.9209200668550951
+Default BKT Controller(9),AS done,5,0.9974683635314895
+Default BKT Controller(9),M  JCommTable8.R0C0,2,1.0200346527379188e-60
+Default BKT Controller(9),M  JCommTable4.R1C0,1,1.8101495654699972e-11
+Default BKT Controller(9),M  JCommTable5.R0C0,1,1.1727341995660185e-10
+Default BKT Controller(9),M  JCommTable6.R1C0,7,0.9317106209949267
+Default BKT Controller(9),M  JCommTable6.R0C0,7,0.9312487349036654
+Default BKT Controller(9),M  done,7,0.9983048794119012
+Default BKT Controller(10),AD JCommTable8.R0C0,9,0.919714463555757
+Default BKT Controller(10),AD JCommTable4.R1C0,9,0.9920398578324591
+Default BKT Controller(10),AD JCommTable4.R0C0,9,0.9865572301919489
+Default BKT Controller(10),AD JCommTable5.R1C0,9,0.9942016559866099
+Default BKT Controller(10),AD JCommTable5.R0C0,9,0.9684621908773474
+Default BKT Controller(10),AD JCommTable6.R1C0,9,0.7270493655698826
+Default BKT Controller(10),AD JCommTable6.R0C0,9,0.8600246960728424
+Default BKT Controller(10),AD done,9,0.9975371575490775
+Default BKT Controller(10),M  JCommTable8.R0C0,1,2.8655418099984533e-60
+Default BKT Controller(10),M  JCommTable4.R0C0,1,4.3027395588617906e-10
+Default BKT Controller(10),M  JCommTable4.R1C0,1,5.08517945749152e-11
+Default BKT Controller(10),M  JCommTable5.R0C0,1,3.294514427649272e-10
+Default BKT Controller(10),M  JCommTable5.R1C0,1,2.6009104908910235e-10
+Default BKT Controller(10),M  JCommTable6.R0C0,5,0.8980499488786136
+Default BKT Controller(10),M  JCommTable6.R1C0,5,0.9060360831024226
+Default BKT Controller(10),M  done,5,0.9982073626308922
+Default BKT Controller(10),AS JCommTable8.R0C0,1,9.630404074026476e-14
+Default BKT Controller(10),AS JCommTable4.R0C0,1,1.2603165974747394e-10
+Default BKT Controller(10),AS JCommTable4.R1C0,1,2.183721468747305e-10
+Default BKT Controller(10),AS JCommTable5.R1C0,1,1.2185568066692368e-13
+Default BKT Controller(10),AS JCommTable5.R0C0,1,3.6135837937310386e-10
+Default BKT Controller(10),AS JCommTable6.R0C0,3,0.8344617180257178
+Default BKT Controller(10),AS JCommTable6.R1C0,3,0.7222994708964008
+Default BKT Controller(10),AS done,3,0.992776939169684
+Default BKT Controller(11),AD JCommTable8.R0C0,11,0.919714463555757
+Default BKT Controller(11),AD JCommTable4.R1C0,11,0.9920776287957773
+Default BKT Controller(11),AD JCommTable4.R0C0,11,0.9884115666471821
+Default BKT Controller(11),AD JCommTable5.R1C0,11,0.9942681053165302
+Default BKT Controller(11),AD JCommTable5.R0C0,11,0.9817909982217428
+Default BKT Controller(11),AD JCommTable6.R1C0,11,0.7779394958440626
+Default BKT Controller(11),AD JCommTable6.R0C0,11,0.8803649244118963
+Default BKT Controller(11),AD done,11,0.9985304858349136
+Default BKT Controller(11),M  JCommTable8.R0C0,2,3.1664775564501764e-60
+Default BKT Controller(11),M  JCommTable6.R0C0,6,0.9493751568349013
+Default BKT Controller(11),M  JCommTable6.R1C0,6,0.9486263242982829
+Default BKT Controller(11),M  done,6,0.9982972851856171
+Default BKT Controller(11),AS JCommTable8.R0C0,2,1.064177750034888e-13
+Default BKT Controller(11),AS JCommTable6.R0C0,5,0.9432409343365
+Default BKT Controller(11),AS JCommTable6.R1C0,5,0.8321880807848538
+Default BKT Controller(11),AS done,5,0.9982160344827962
+Default BKT Controller(12),AD JCommTable8.R0C0,17,0.919714463555757
+Default BKT Controller(12),AD JCommTable4.R1C0,17,0.9920800013449402
+Default BKT Controller(12),AD JCommTable4.R0C0,17,0.988712489765536
+Default BKT Controller(12),AD JCommTable5.R1C0,17,0.9942726558906056
+Default BKT Controller(12),AD JCommTable5.R0C0,17,0.9851112093972383
+Default BKT Controller(12),AD JCommTable6.R1C0,17,0.7888260544093461
+Default BKT Controller(12),AD JCommTable6.R0C0,17,0.8871456176640699
+Default BKT Controller(12),AD done,17,0.9986715718747575
+Default BKT Controller(12),M  JCommTable8.R0C0,2,5.4654969082632174e-61
+Default BKT Controller(12),M  JCommTable4.R1C0,2,9.699049759828887e-12
+Default BKT Controller(12),M  JCommTable5.R0C0,3,6.283683721031349e-11
+Default BKT Controller(12),M  JCommTable4.R0C0,2,8.206688760319061e-11
+Default BKT Controller(12),M  JCommTable6.R0C0,6,0.7892076269669558
+Default BKT Controller(12),M  done,6,0.9982277675951616
+Default BKT Controller(12),M  JCommTable6.R1C0,6,0.8075378632725255
+Default BKT Controller(12),AS JCommTable8.R0C0,4,1.836823441496022e-14
+Default BKT Controller(12),AS JCommTable4.R1C0,2,4.165049309852938e-11
+Default BKT Controller(12),AS JCommTable6.R1C0,5,0.7082533754477551
+Default BKT Controller(12),AS JCommTable5.R0C0,2,6.892250180870447e-11
+Default BKT Controller(12),AS JCommTable4.R0C0,2,2.4038234038708082e-11
+Default BKT Controller(12),AS JCommTable6.R0C0,5,0.893886435507672
+Default BKT Controller(12),AS done,5,0.9965144627975879
+Default BKT Controller(13),AD JCommTable8.R0C0,15,0.919714463555757
+Default BKT Controller(13),AD JCommTable4.R1C0,15,0.992079973770675
+Default BKT Controller(13),AD JCommTable4.R0C0,15,0.9886959261433739
+Default BKT Controller(13),AD JCommTable5.R1C0,15,0.9942725943556479
+Default BKT Controller(13),AD JCommTable5.R0C0,15,0.9847767588008685
+Default BKT Controller(13),AD JCommTable6.R1C0,15,0.7871479836872888
+Default BKT Controller(13),AD JCommTable6.R0C0,15,0.8861160106326342
+Default BKT Controller(13),AD done,15,0.9986652257238693
+Default BKT Controller(13),AS JCommTable8.R0C0,3,3.4424723331940314e-14
+Default BKT Controller(13),AS JCommTable4.R1C0,1,7.805903763591888e-11
+Default BKT Controller(13),AS JCommTable5.R0C0,1,1.2917071953481932e-10
+Default BKT Controller(13),AS JCommTable6.R1C0,6,0.8193421228851688
+Default BKT Controller(13),AS JCommTable6.R0C0,6,0.9440466490059221
+Default BKT Controller(13),AS done,6,0.9982861202230056
+Default BKT Controller(13),M  JCommTable8.R0C0,2,1.0243130324235263e-60
+Default BKT Controller(13),M  JCommTable6.R0C0,9,0.9774560544066462
+Default BKT Controller(13),M  JCommTable6.R1C0,9,0.971737652765284
+Default BKT Controller(13),M  done,9,0.9983116266119365
+Default BKT Controller(13),M  JCommTable4.R1C0,1,1.817741961579189e-11
+Default BKT Controller(14),AD JCommTable8.R0C0,8,0.919714463555757
+Default BKT Controller(14),AD JCommTable4.R1C0,8,0.991918149499239
+Default BKT Controller(14),AD JCommTable4.R0C0,8,0.9831126101848363
+Default BKT Controller(14),AD JCommTable5.R1C0,8,0.9939978360202749
+Default BKT Controller(14),AD JCommTable5.R0C0,8,0.9497623104525178
+Default BKT Controller(14),AD JCommTable6.R1C0,8,0.6898655950806089
+Default BKT Controller(14),AD JCommTable6.R0C0,8,0.8371538206883123
+Default BKT Controller(14),AD done,8,0.9955385587451445
+Default BKT Controller(14),M  JCommTable8.R0C0,1,2.77891057104637e-60
+Default BKT Controller(14),M  JCommTable5.R0C0,1,3.1949144617634397e-10
+Default BKT Controller(14),M  JCommTable6.R0C0,8,0.9804251214419216
+Default BKT Controller(14),M  done,8,0.9983113994500645
+Default BKT Controller(14),M  JCommTable6.R1C0,8,0.9747245327169761
+Default BKT Controller(14),AS JCommTable6.R0C0,8,0.9538916561829786
+Default BKT Controller(14),AS JCommTable6.R1C0,8,0.8600461084888054
+Default BKT Controller(14),AS JCommTable5.R0C0,1,3.5043377028505966e-10
+Default BKT Controller(14),AS done,8,0.9985646323571229
+Default BKT Controller(14),AS JCommTable8.R0C0,3,9.339257096644614e-14
+Default BKT Controller(15),AD JCommTable8.R0C0,6,0.919714463555757
+Default BKT Controller(15),AD JCommTable4.R1C0,6,0.989389973253314
+Default BKT Controller(15),AD JCommTable4.R0C0,6,0.9510748176660324
+Default BKT Controller(15),AD JCommTable5.R1C0,6,0.9900682535143227
+Default BKT Controller(15),AD JCommTable5.R0C0,6,0.8370228814835635
+Default BKT Controller(15),AD JCommTable6.R1C0,6,0.5802005854961217
+Default BKT Controller(15),AD JCommTable6.R0C0,6,0.7310437777764084
+Default BKT Controller(15),AD done,6,0.9746423856308751
+Default BKT Controller(15),AS JCommTable8.R0C0,2,8.5695627933169e-14
+Default BKT Controller(15),AS JCommTable4.R1C0,1,1.943172696197902e-10
+Default BKT Controller(15),AS JCommTable4.R0C0,1,1.1214858835259476e-10
+Default BKT Controller(15),AS JCommTable5.R1C0,1,1.0843261603258732e-13
+Default BKT Controller(15),AS JCommTable6.R1C0,7,0.8551144939874149
+Default BKT Controller(15),AS JCommTable6.R0C0,7,0.9529948703184248
+Default BKT Controller(15),AS done,7,0.9985419287334066
+Default BKT Controller(15),M  JCommTable6.R1C0,5,0.897183403668627
+Default BKT Controller(15),M  JCommTable6.R0C0,5,0.887708048039136
+Default BKT Controller(15),M  done,5,0.998194437070234
+Default BKT Controller(15),M  JCommTable8.R0C0,1,2.549886826024907e-60
+Default BKT Controller(16),AD JCommTable8.R0C0,5,0.919714463555757
+Default BKT Controller(16),AD JCommTable4.R1C0,5,0.9834708557216773
+Default BKT Controller(16),AD JCommTable4.R0C0,5,0.9135807890680387
+Default BKT Controller(16),AD JCommTable5.R1C0,5,0.9813900819002283
+Default BKT Controller(16),AD JCommTable5.R0C0,5,0.7556802849952994
+Default BKT Controller(16),AD JCommTable6.R1C0,5,0.5548888851667502
+Default BKT Controller(16),AD JCommTable6.R0C0,5,0.6740125375706683
+Default BKT Controller(16),AD done,5,0.947133701632786
+Default BKT Controller(16),M  JCommTable8.R0C0,1,3.096735688545238e-60
+Default BKT Controller(16),M  JCommTable4.R0C0,1,4.6498875373170356e-10
+Default BKT Controller(16),M  JCommTable4.R1C0,1,5.4954552237413734e-11
+Default BKT Controller(16),M  JCommTable5.R0C0,1,3.560318111100473e-10
+Default BKT Controller(16),M  JCommTable6.R0C0,7,0.9707117555342052
+Default BKT Controller(16),M  done,7,0.9983095127997176
+Default BKT Controller(16),M  JCommTable6.R1C0,7,0.9664691397654938
+Default BKT Controller(16),AS JCommTable8.R0C0,2,1.0407391679678475e-13
+Default BKT Controller(16),AS JCommTable6.R1C0,5,0.831504486163591
+Default BKT Controller(16),AS JCommTable4.R1C0,1,2.359905614496953e-10
+Default BKT Controller(16),AS JCommTable5.R0C0,1,3.905130212450163e-10
+Default BKT Controller(16),AS JCommTable6.R0C0,5,0.9429963187358694
+Default BKT Controller(16),AS done,5,0.9982080266046433
+Default BKT Controller(17),AD JCommTable8.R0C0,8,0.919714463555757
+Default BKT Controller(17),AD JCommTable4.R1C0,8,0.9919511039138479
+Default BKT Controller(17),AD JCommTable4.R0C0,8,0.9842491590221203
+Default BKT Controller(17),AD JCommTable5.R1C0,8,0.9940537872285599
+Default BKT Controller(17),AD JCommTable5.R0C0,8,0.9568020840160342
+Default BKT Controller(17),AD JCommTable6.R1C0,8,0.7140747060674932
+Default BKT Controller(17),AD JCommTable6.R0C0,8,0.8471382244227618
+Default BKT Controller(17),AD done,8,0.9961753935477702
+Default BKT Controller(17),AS JCommTable8.R0C0,4,1.172728584749738e-13
+Default BKT Controller(17),AS JCommTable4.R1C0,2,2.6591953647250194e-10
+Default BKT Controller(17),AS JCommTable4.R0C0,2,1.5347323832841343e-10
+Default BKT Controller(17),AS JCommTable6.R1C0,7,0.8574140657422367
+Default BKT Controller(17),AS JCommTable6.R0C0,7,0.9533276601332555
+Default BKT Controller(17),AS done,7,0.9985499546630693
+Default BKT Controller(17),M  JCommTable6.R0C0,8,0.9826294099406256
+Default BKT Controller(17),M  JCommTable6.R1C0,8,0.9767012089780924
+Default BKT Controller(17),M  JCommTable8.R0C0,2,3.4894722646624817e-60
+Default BKT Controller(17),M  done,8,0.9983114787017171
+Default BKT Controller(18),AD JCommTable8.R0C0,14,0.919714463555757
+Default BKT Controller(18),AD JCommTable4.R1C0,14,0.9920799630454614
+Default BKT Controller(18),AD JCommTable4.R0C0,14,0.9886990795916402
+Default BKT Controller(18),AD JCommTable5.R1C0,14,0.9942725739331391
+Default BKT Controller(18),AD JCommTable5.R0C0,14,0.9849448700541058
+Default BKT Controller(18),AD JCommTable6.R1C0,14,0.8077028629243367
+Default BKT Controller(18),AD JCommTable6.R0C0,14,0.887063848528435
+Default BKT Controller(18),AD done,14,0.9986659176543743
+Default BKT Controller(18),M  JCommTable8.R0C0,2,2.9861086560445077e-60
+Default BKT Controller(18),M  JCommTable6.R0C0,6,0.946953524320717
+Default BKT Controller(18),M  done,6,0.998296409151655
+Default BKT Controller(18),M  JCommTable6.R1C0,6,0.946542480883254
+Default BKT Controller(18),AS JCommTable8.R0C0,3,1.0035600550763614e-13
+Default BKT Controller(18),AS JCommTable6.R0C0,6,0.9507134674398885
+Default BKT Controller(18),AS JCommTable6.R1C0,6,0.8479638664126682
+Default BKT Controller(18),AS done,6,0.9984737442138093
+Default BKT Controller(19),AD JCommTable8.R0C0,15,0.919714463555757
+Default BKT Controller(19),AD JCommTable4.R1C0,15,0.9920799941418776
+Default BKT Controller(19),AD JCommTable4.R0C0,15,0.9887111403939131
+Default BKT Controller(19),AD JCommTable5.R1C0,15,0.9942726403616337
+Default BKT Controller(19),AD JCommTable5.R0C0,15,0.9851584749666528
+Default BKT Controller(19),AD JCommTable6.R1C0,15,0.812944782218679
+Default BKT Controller(19),AD JCommTable6.R0C0,15,0.887714746688044
+Default BKT Controller(19),AD done,15,0.9986707913509325
+Default BKT Controller(19),AS JCommTable8.R0C0,3,9.785780769194314e-14
+Default BKT Controller(19),AS JCommTable4.R1C0,2,2.2189535755515943e-10
+Default BKT Controller(19),AS JCommTable6.R1C0,5,0.8295392259658383
+Default BKT Controller(19),AS JCommTable6.R0C0,5,0.9422915400052425
+Default BKT Controller(19),AS done,5,0.9981849320330685
+Default BKT Controller(19),M  JCommTable8.R0C0,2,2.911774388910068e-60
+Default BKT Controller(19),M  JCommTable4.R1C0,1,5.167223613928319e-11
+Default BKT Controller(19),M  JCommTable6.R1C0,5,0.907184204044263
+Default BKT Controller(19),M  JCommTable6.R0C0,5,0.8993938855201974
+Default BKT Controller(19),M  done,5,0.9982090205158346
+Default BKT Controller(20),AD JCommTable8.R0C0,15,0.919714463555757
+Default BKT Controller(20),AD JCommTable4.R1C0,15,0.9920799723710102
+Default BKT Controller(20),AD JCommTable4.R0C0,15,0.9886948808196613
+Default BKT Controller(20),AD JCommTable5.R1C0,15,0.994272591194668
+Default BKT Controller(20),AD JCommTable5.R0C0,15,0.9847505427021045
+Default BKT Controller(20),AD JCommTable6.R1C0,15,0.7854355148412769
+Default BKT Controller(20),AD JCommTable6.R0C0,15,0.88600637605119
+Default BKT Controller(20),AD done,15,0.9986648433229777
+Default BKT Controller(20),AS JCommTable8.R0C0,4,3.295689904547051e-14
+Default BKT Controller(20),AS JCommTable4.R1C0,2,7.4730704388126e-11
+Default BKT Controller(20),AS JCommTable4.R0C0,2,4.313020154972031e-11
+Default BKT Controller(20),AS JCommTable6.R1C0,5,0.7695696343686281
+Default BKT Controller(20),AS JCommTable6.R0C0,5,0.9196302949217766
+Default BKT Controller(20),AS done,5,0.9974240866483882
+Default BKT Controller(20),M  JCommTable8.R0C0,2,9.806376909707623e-61
+Default BKT Controller(20),M  JCommTable6.R0C0,8,0.9610112512401655
+Default BKT Controller(20),M  JCommTable6.R1C0,8,0.9572776944971073
+Default BKT Controller(20),M  done,8,0.9983106857545709
+Default BKT Controller(21),AD JCommTable8.R0C0,12,0.919714463555757
+Default BKT Controller(21),AD JCommTable4.R1C0,12,0.9920788066643886
+Default BKT Controller(21),AD JCommTable4.R0C0,12,0.9884788217775633
+Default BKT Controller(21),AD JCommTable5.R1C0,12,0.9942702698948468
+Default BKT Controller(21),AD JCommTable5.R0C0,12,0.9819804122882261
+Default BKT Controller(21),AD JCommTable6.R1C0,12,0.7592875719021885
+Default BKT Controller(21),AD JCommTable6.R0C0,12,0.8795576665567697
+Default BKT Controller(21),AD done,12,0.9985683536944231
+Default BKT Controller(21),M  JCommTable8.R0C0,1,1.605664297271924e-60
+Default BKT Controller(21),M  JCommTable6.R0C0,7,0.9523046639415276
+Default BKT Controller(21),M  JCommTable6.R1C0,7,0.9502985846027489
+Default BKT Controller(21),M  done,7,0.9983073993866817
+Default BKT Controller(21),AS JCommTable8.R0C0,2,5.396255582805578e-14
+Default BKT Controller(21),AS JCommTable6.R1C0,5,0.8036701102468251
+Default BKT Controller(21),AS JCommTable6.R0C0,5,0.9327969067480928
+Default BKT Controller(21),AS done,5,0.9978705111767112
+Default BKT Controller(21),M  JCommTable4.R0C0,1,2.410976963360099e-10
+Default BKT Controller(22),AD JCommTable8.R0C0,11,0.919714463555757
+Default BKT Controller(22),AD JCommTable4.R1C0,11,0.9920763526877029
+Default BKT Controller(22),AD JCommTable4.R0C0,11,0.988246342610878
+Default BKT Controller(22),AD JCommTable5.R1C0,11,0.9942656566355909
+Default BKT Controller(22),AD JCommTable5.R0C0,11,0.9798820597038901
+Default BKT Controller(22),AD JCommTable6.R1C0,11,0.7536258062689586
+Default BKT Controller(22),AD JCommTable6.R0C0,11,0.876013357185496
+Default BKT Controller(22),AD done,11,0.9984535376560918
+Default BKT Controller(22),AS JCommTable8.R0C0,2,6.923760957801768e-14
+Default BKT Controller(22),AS JCommTable4.R1C0,1,1.569982456888416e-10
+Default BKT Controller(22),AS JCommTable5.R0C0,1,2.597979295473099e-10
+Default BKT Controller(22),AS JCommTable6.R1C0,7,0.8530946745707001
+Default BKT Controller(22),AS JCommTable6.R0C0,7,0.9527012787829596
+Default BKT Controller(22),AS done,7,0.9985348436049738
+Default BKT Controller(22),M  JCommTable8.R0C0,1,2.06017591312968e-60
+Default BKT Controller(22),M  JCommTable4.R1C0,1,3.655980239361318e-11
+Default BKT Controller(22),M  JCommTable5.R0C0,1,2.368584972746673e-10
+Default BKT Controller(22),M  JCommTable4.R0C0,1,3.093446541172953e-10
+Default BKT Controller(22),M  JCommTable6.R0C0,5,0.8661832428337991
+Default BKT Controller(22),M  JCommTable6.R1C0,5,0.8786575401634817
+Default BKT Controller(22),M  done,5,0.9981665462551079
+Default BKT Controller(22),AS JCommTable5.R1C0,1,8.760791320932193e-14
+Default BKT Controller(23),AD JCommTable8.R0C0,12,0.919714463555757
+Default BKT Controller(23),AD JCommTable4.R1C0,12,0.9920786821983182
+Default BKT Controller(23),AD JCommTable4.R0C0,12,0.9884538450034882
+Default BKT Controller(23),AD JCommTable5.R1C0,12,0.9942700211324835
+Default BKT Controller(23),AD JCommTable5.R0C0,12,0.9816301813161707
+Default BKT Controller(23),AD JCommTable6.R1C0,12,0.7528286972837199
+Default BKT Controller(23),AD JCommTable6.R0C0,12,0.8786307120857201
+Default BKT Controller(23),AD done,12,0.9985574032688566
+Default BKT Controller(23),AS JCommTable8.R0C0,4,4.888582032098259e-14
+Default BKT Controller(23),AS JCommTable6.R1C0,7,0.8487488888699805
+Default BKT Controller(23),AS done,7,0.9985194854594429
+Default BKT Controller(23),AS JCommTable6.R0C0,7,0.9520654786736543
+Default BKT Controller(23),M  JCommTable8.R0C0,3,1.4546052374235894e-60
+Default BKT Controller(23),M  JCommTable6.R1C0,6,0.9096096539514452
+Default BKT Controller(23),M  JCommTable6.R0C0,6,0.9043172946642557
+Default BKT Controller(23),M  done,6,0.998280217129172
+Default BKT Controller(24),AD JCommTable8.R0C0,10,0.919714463555757
+Default BKT Controller(24),AD JCommTable4.R1C0,10,0.9920531505917113
+Default BKT Controller(24),AD JCommTable4.R0C0,10,0.9864786597953568
+Default BKT Controller(24),AD JCommTable5.R1C0,10,0.9942231923060808
+Default BKT Controller(24),AD JCommTable5.R0C0,10,0.9642320409035999
+Default BKT Controller(24),AD JCommTable6.R1C0,10,0.6576162592684348
+Default BKT Controller(24),AD JCommTable6.R0C0,10,0.8475525949250919
+Default BKT Controller(24),AD done,10,0.997564623520233
+Default BKT Controller(24),AS JCommTable8.R0C0,3,3.6821081516818646e-14
+Default BKT Controller(24),AS JCommTable4.R0C0,1,4.8187199435839554e-11
+Default BKT Controller(24),AS JCommTable4.R1C0,3,8.349284786361488e-11
+Default BKT Controller(24),AS JCommTable6.R1C0,9,0.8594145491021629
+Default BKT Controller(24),AS JCommTable6.R0C0,9,0.9539734146594274
+Default BKT Controller(24),AS done,9,0.9985670564185964
+Default BKT Controller(24),M  JCommTable8.R0C0,3,1.0956170453986433e-60
+Default BKT Controller(24),M  JCommTable6.R1C0,4,0.6700107436055353
+Default BKT Controller(24),M  JCommTable6.R0C0,4,0.6283004392152995
+Default BKT Controller(24),M  done,4,0.9965350030298998
+Default BKT Controller(25),AD JCommTable8.R0C0,12,0.919714463555757
+Default BKT Controller(25),AD JCommTable4.R1C0,12,0.9920792309715918
+Default BKT Controller(25),AD JCommTable4.R0C0,12,0.9885639775156196
+Default BKT Controller(25),AD JCommTable5.R1C0,12,0.9942711179309445
+Default BKT Controller(25),AD JCommTable5.R0C0,12,0.9831762361234273
+Default BKT Controller(25),AD JCommTable6.R1C0,12,0.7821639719058553
+Default BKT Controller(25),AD JCommTable6.R0C0,12,0.8827324220838131
+Default BKT Controller(25),AD done,12,0.9986056856879639
+Default BKT Controller(25),M  JCommTable8.R0C0,2,2.485634870631005e-60
+Default BKT Controller(25),M  JCommTable6.R0C0,8,0.9791524224897793
+Default BKT Controller(25),M  done,8,0.9983113535297367
+Default BKT Controller(25),M  JCommTable6.R1C0,8,0.9735828552061836
+Default BKT Controller(25),AS JCommTable8.R0C0,2,8.35362726209196e-14
+Default BKT Controller(25),AS JCommTable6.R1C0,3,0.7046652657884088
+Default BKT Controller(25),AS JCommTable6.R0C0,3,0.8187548787419621
+Default BKT Controller(25),AS done,3,0.9918971765132669
+Default BKT Controller(26),AD JCommTable8.R0C0,13,0.919714463555757
+Default BKT Controller(26),AD JCommTable4.R1C0,13,0.9920796896644203
+Default BKT Controller(26),AD JCommTable4.R0C0,13,0.9886212476694376
+Default BKT Controller(26),AD JCommTable5.R1C0,13,0.9942720084779462
+Default BKT Controller(26),AD JCommTable5.R0C0,13,0.9836896739945217
+Default BKT Controller(26),AD JCommTable6.R1C0,13,0.7762549722585933
+Default BKT Controller(26),AD JCommTable6.R0C0,13,0.8833826544807785
+Default BKT Controller(26),AD done,13,0.9986333065463083
+Default BKT Controller(26),AS JCommTable8.R0C0,5,5.242111923947146e-14
+Default BKT Controller(26),AS JCommTable4.R1C0,1,1.1886637635413393e-10
+Default BKT Controller(26),AS JCommTable5.R1C0,1,6.632962767861403e-14
+Default BKT Controller(26),AS JCommTable5.R0C0,1,1.9669798433023744e-10
+Default BKT Controller(26),AS JCommTable6.R1C0,9,0.8606905875254448
+Default BKT Controller(26),AS JCommTable6.R0C0,9,0.9540503441658307
+Default BKT Controller(26),AS done,9,0.998568449139421
+Default BKT Controller(26),M  JCommTable8.R0C0,1,1.559798610244702e-60
+Default BKT Controller(26),M  JCommTable4.R1C0,1,2.768012605208193e-11
+Default BKT Controller(26),M  JCommTable6.R1C0,8,0.9672112765667601
+Default BKT Controller(26),M  JCommTable6.R0C0,8,0.9720555583566043
+Default BKT Controller(26),M  done,8,0.9983110952626915
+Default BKT Controller(26),M  JCommTable4.R0C0,1,2.342107577030161e-10
+Default BKT Controller(26),M  JCommTable5.R0C0,2,1.7933010115335938e-10
+Default BKT Controller(27),AD JCommTable8.R0C0,9,0.919714463555757
+Default BKT Controller(27),AD JCommTable4.R1C0,9,0.9920227701681922
+Default BKT Controller(27),AD JCommTable4.R0C0,9,0.9856397744343097
+Default BKT Controller(27),AD JCommTable5.R1C0,9,0.9941714340712665
+Default BKT Controller(27),AD JCommTable5.R0C0,9,0.9614419089554278
+Default BKT Controller(27),AD JCommTable6.R1C0,9,0.6912796142091563
+Default BKT Controller(27),AD JCommTable6.R0C0,9,0.8484176652178795
+Default BKT Controller(27),AD done,9,0.9970541274741248
+Default BKT Controller(27),M  JCommTable8.R0C0,2,2.0099923527930526e-60
+Default BKT Controller(27),M  JCommTable4.R0C0,3,3.018093674405456e-10
+Default BKT Controller(27),M  JCommTable6.R0C0,9,0.9842186199434739
+Default BKT Controller(27),M  done,9,0.9983117060709235
+Default BKT Controller(27),M  JCommTable6.R1C0,9,0.977959077567173
+Default BKT Controller(27),AS JCommTable6.R0C0,11,0.9542193249776708
+Default BKT Controller(27),AS JCommTable8.R0C0,3,6.755105954329389e-14
+Default BKT Controller(27),AS JCommTable6.R1C0,11,0.8632137638196945
+Default BKT Controller(27),AS JCommTable4.R0C0,2,8.840306270458908e-11
+Default BKT Controller(27),AS done,11,0.9985715643310403
+Default BKT Controller(28),AD JCommTable8.R0C0,13,0.919714463555757
+Default BKT Controller(28),AD JCommTable4.R1C0,13,0.9920797959420039
+Default BKT Controller(28),AD JCommTable4.R0C0,13,0.9886543041950135
+Default BKT Controller(28),AD JCommTable5.R1C0,13,0.9942722297180494
+Default BKT Controller(28),AD JCommTable5.R0C0,13,0.9842535732232085
+Default BKT Controller(28),AD JCommTable6.R1C0,13,0.7928423828573079
+Default BKT Controller(28),AD JCommTable6.R0C0,13,0.8851280182710536
+Default BKT Controller(28),AD done,13,0.9986469491426381
+Default BKT Controller(28),AS JCommTable8.R0C0,3,7.904503030727277e-14
+Default BKT Controller(28),AS JCommTable4.R0C0,2,1.0344505057177901e-10
+Default BKT Controller(28),AS JCommTable6.R1C0,7,0.8543984719308259
+Default BKT Controller(28),AS JCommTable6.R0C0,7,0.9528909308236527
+Default BKT Controller(28),AS done,7,0.9985394208904115
+Default BKT Controller(28),M  JCommTable8.R0C0,2,2.3519972524203423e-60
+Default BKT Controller(28),M  JCommTable6.R0C0,8,0.9784685918555918
+Default BKT Controller(28),M  JCommTable6.R1C0,8,0.9729693036033354
+Default BKT Controller(28),M  done,8,0.9983113288070676
+Default BKT Controller(29),AD JCommTable8.R0C0,9,0.919714463555757
+Default BKT Controller(29),AD JCommTable4.R1C0,9,0.9920245690626627
+Default BKT Controller(29),AD JCommTable4.R0C0,9,0.9857362802010023
+Default BKT Controller(29),AD JCommTable5.R1C0,9,0.9941746156293044
+Default BKT Controller(29),AD JCommTable5.R0C0,9,0.9621761795917603
+Default BKT Controller(29),AD JCommTable6.R1C0,9,0.6948786875005147
+Default BKT Controller(29),AD JCommTable6.R0C0,9,0.8496248314841016
+Default BKT Controller(29),AD done,9,0.9971049569513476
+Default BKT Controller(29),AS JCommTable8.R0C0,1,6.974320803055973e-14
+Default BKT Controller(29),AS JCommTable5.R0C0,1,2.616950694387417e-10
+Default BKT Controller(29),AS JCommTable6.R1C0,6,0.8412290601791065
+Default BKT Controller(29),AS JCommTable6.R0C0,6,0.9491772505751094
+Default BKT Controller(29),AS done,6,0.9984307379896261
+Default BKT Controller(29),M  JCommTable8.R0C0,1,2.0752200742437735e-60
+Default BKT Controller(29),M  JCommTable6.R1C0,7,0.9578296067704642
+Default BKT Controller(29),M  JCommTable6.R0C0,7,0.9608668930397682
+Default BKT Controller(29),M  JCommTable5.R0C0,1,2.3858812500725895e-10
+Default BKT Controller(29),M  done,7,0.9983083925315992
+Default BKT Controller(30),AD JCommTable8.R0C0,10,0.919714463555757
+Default BKT Controller(30),AD JCommTable4.R1C0,10,0.9920679926949567
+Default BKT Controller(30),AD JCommTable4.R0C0,10,0.987715836886539
+Default BKT Controller(30),AD JCommTable5.R1C0,10,0.9942505349627648
+Default BKT Controller(30),AD JCommTable5.R0C0,10,0.9757990387342387
+Default BKT Controller(30),AD JCommTable6.R1C0,10,0.7418568010820561
+Default BKT Controller(30),AD JCommTable6.R0C0,10,0.8697500006312263
+Default BKT Controller(30),AD done,10,0.9981773565008747
+Default BKT Controller(30),AS JCommTable8.R0C0,3,8.231677227356465e-14
+Default BKT Controller(30),AS JCommTable4.R0C0,2,1.0772673041690307e-10
+Default BKT Controller(30),AS JCommTable6.R1C0,8,0.8595544967474504
+Default BKT Controller(30),AS done,8,0.9985636765063074
+Default BKT Controller(30),AS JCommTable6.R0C0,8,0.953845884947501
+Default BKT Controller(30),M  JCommTable8.R0C0,2,2.4493484468653528e-60
+Default BKT Controller(30),M  JCommTable6.R0C0,6,0.937751095781129
+Default BKT Controller(30),M  JCommTable6.R1C0,6,0.9386101711614729
+Default BKT Controller(30),M  done,6,0.9982930388902014
+BKT Controller_random(1),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(1),AD JCommTable4.R1C0,8,0.9917664169263659
+BKT Controller_random(1),AD JCommTable4.R0C0,8,0.9779123024190571
+BKT Controller_random(1),AD JCommTable5.R1C0,8,0.9937402522150641
+BKT Controller_random(1),AD JCommTable5.R0C0,8,0.9186361052901664
+BKT Controller_random(1),AD JCommTable6.R1C0,8,0.5967033853598999
+BKT Controller_random(1),AD JCommTable6.R0C0,8,0.7940550808297289
+BKT Controller_random(1),AD done,8,0.9926163013255715
+BKT Controller_random(1),M  JCommTable8.R0C0,1,1.4340896939082494e-60
+BKT Controller_random(1),M  JCommTable4.R1C0,2,2.5449300465291634e-11
+BKT Controller_random(1),M  JCommTable6.R0C0,10,0.9866370102031093
+BKT Controller_random(1),M  JCommTable6.R1C0,10,0.9800691613143062
+BKT Controller_random(1),M  done,10,0.9983117708839626
+BKT Controller_random(1),AS JCommTable8.R0C0,3,4.8196341726877026e-14
+BKT Controller_random(1),AS JCommTable4.R1C0,1,1.0928657338436671e-10
+BKT Controller_random(1),AS JCommTable6.R0C0,7,0.9520345570176939
+BKT Controller_random(1),AS JCommTable6.R1C0,7,0.8485385164430727
+BKT Controller_random(1),AS done,7,0.9985187380166567
+BKT Controller_random(1),M  JCommTable4.R0C0,1,2.1533500006009326e-10
+BKT Controller_random(2),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(2),AD JCommTable4.R1C0,8,0.9919152950704259
+BKT Controller_random(2),AD JCommTable4.R0C0,8,0.9830142851357483
+BKT Controller_random(2),AD JCommTable5.R1C0,8,0.9939929897882833
+BKT Controller_random(2),AD JCommTable5.R0C0,8,0.9491573930124303
+BKT Controller_random(2),AD JCommTable6.R1C0,8,0.6878456132789186
+BKT Controller_random(2),AD JCommTable6.R0C0,8,0.8363000302997805
+BKT Controller_random(2),AD done,8,0.9954834340361579
+BKT Controller_random(2),AS JCommTable8.R0C0,2,9.177381230132817e-14
+BKT Controller_random(2),AS JCommTable4.R1C0,2,2.0809972525845972e-10
+BKT Controller_random(2),AS JCommTable6.R0C0,7,0.9530767044082067
+BKT Controller_random(2),AS JCommTable6.R1C0,7,0.8556789703885812
+BKT Controller_random(2),AS done,7,0.998543902843127
+BKT Controller_random(2),M  JCommTable6.R1C0,5,0.9024851445886054
+BKT Controller_random(2),M  JCommTable8.R0C0,1,2.730744153526001e-60
+BKT Controller_random(2),M  JCommTable6.R0C0,5,0.8938972789693429
+BKT Controller_random(2),M  done,5,0.9982022084179774
+BKT Controller_random(3),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(3),AD JCommTable4.R1C0,8,0.9919394517280697
+BKT Controller_random(3),AD JCommTable4.R0C0,8,0.9838470008729708
+BKT Controller_random(3),AD JCommTable5.R1C0,8,0.99403400342716
+BKT Controller_random(3),AD JCommTable5.R0C0,8,0.9543010842670966
+BKT Controller_random(3),AD JCommTable6.R1C0,8,0.7053231164382816
+BKT Controller_random(3),AD JCommTable6.R0C0,8,0.84358086242552
+BKT Controller_random(3),AD done,8,0.9959501300784249
+BKT Controller_random(3),M  JCommTable8.R0C0,1,3.200149895044054e-60
+BKT Controller_random(3),M  JCommTable4.R1C0,1,5.678973676214464e-11
+BKT Controller_random(3),M  JCommTable6.R0C0,7,0.9713651236907378
+BKT Controller_random(3),M  JCommTable6.R1C0,7,0.9670417726415136
+BKT Controller_random(3),M  done,7,0.9983095863444428
+BKT Controller_random(3),AS JCommTable8.R0C0,2,1.0754942216928702e-13
+BKT Controller_random(3),AS JCommTable6.R0C0,6,0.9509479918273263
+BKT Controller_random(3),AS JCommTable6.R1C0,6,0.8489995911669037
+BKT Controller_random(3),AS done,6,0.9984802977983798
+BKT Controller_random(4),AD JCommTable8.R0C0,9,0.919714463555757
+BKT Controller_random(4),AD JCommTable4.R1C0,9,0.9920243896298663
+BKT Controller_random(4),AD JCommTable4.R0C0,9,0.9857266532896118
+BKT Controller_random(4),AD JCommTable5.R1C0,9,0.994174298280745
+BKT Controller_random(4),AD JCommTable5.R0C0,9,0.9621028886907621
+BKT Controller_random(4),AD JCommTable6.R1C0,9,0.6945180126297668
+BKT Controller_random(4),AD JCommTable6.R0C0,9,0.8495042672801318
+BKT Controller_random(4),AD done,9,0.9970998866823109
+BKT Controller_random(4),AS JCommTable8.R0C0,3,6.951818257860298e-14
+BKT Controller_random(4),AS JCommTable4.R1C0,1,1.5763445293431067e-10
+BKT Controller_random(4),AS JCommTable4.R0C0,1,9.097740724037774e-11
+BKT Controller_random(4),AS JCommTable6.R1C0,7,0.8531370228388331
+BKT Controller_random(4),AS JCommTable6.R0C0,7,0.9527074467368325
+BKT Controller_random(4),AS done,7,0.9985349924976377
+BKT Controller_random(4),M  JCommTable8.R0C0,2,2.0685244066898178e-60
+BKT Controller_random(4),M  JCommTable6.R0C0,6,0.9285094542543835
+BKT Controller_random(4),M  JCommTable6.R1C0,6,0.9306224649172168
+BKT Controller_random(4),M  done,6,0.998289587058404
+BKT Controller_random(4),M  JCommTable4.R1C0,1,3.6707954438730254e-11
+BKT Controller_random(5),AD JCommTable8.R0C0,15,0.919714463555757
+BKT Controller_random(5),AD JCommTable4.R1C0,15,0.992079977752162
+BKT Controller_random(5),AD JCommTable4.R0C0,15,0.9886988996835542
+BKT Controller_random(5),AD JCommTable5.R1C0,15,0.9942726033473713
+BKT Controller_random(5),AD JCommTable5.R0C0,15,0.9848513407553124
+BKT Controller_random(5),AD JCommTable6.R1C0,15,0.7920603604406994
+BKT Controller_random(5),AD JCommTable6.R0C0,15,0.8864280256073821
+BKT Controller_random(5),AD done,15,0.9986663135031421
+BKT Controller_random(5),AS JCommTable8.R0C0,3,3.9418762674752484e-14
+BKT Controller_random(5),AS JCommTable4.R1C0,2,8.938316364911973e-11
+BKT Controller_random(5),AS JCommTable4.R0C0,1,5.158674596910357e-11
+BKT Controller_random(5),AS JCommTable6.R1C0,8,0.8550693846683151
+BKT Controller_random(5),AS JCommTable6.R0C0,8,0.9534260756600673
+BKT Controller_random(5),AS done,8,0.9985549053405957
+BKT Controller_random(5),M  JCommTable6.R0C0,5,0.7906683821981695
+BKT Controller_random(5),M  JCommTable6.R1C0,5,0.8125689577982843
+BKT Controller_random(5),M  JCommTable5.R0C0,1,1.3484967129050185e-10
+BKT Controller_random(5),M  done,5,0.9980567037932113
+BKT Controller_random(5),M  JCommTable8.R0C0,1,1.1729114549570439e-60
+BKT Controller_random(5),M  JCommTable4.R1C0,1,2.0814441497850996e-11
+BKT Controller_random(5),M  JCommTable4.R0C0,1,1.7611791598990105e-10
+BKT Controller_random(6),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_random(6),AD JCommTable4.R1C0,12,0.9920787825645668
+BKT Controller_random(6),AD JCommTable4.R0C0,12,0.9884739855357672
+BKT Controller_random(6),AD JCommTable5.R1C0,12,0.9942702217280712
+BKT Controller_random(6),AD JCommTable5.R0C0,12,0.9819125790918529
+BKT Controller_random(6),AD JCommTable6.R1C0,12,0.7580283306657768
+BKT Controller_random(6),AD JCommTable6.R0C0,12,0.879378031768089
+BKT Controller_random(6),AD done,12,0.9985662333927824
+BKT Controller_random(6),M  JCommTable8.R0C0,2,1.5740143400977438e-60
+BKT Controller_random(6),M  JCommTable4.R1C0,1,2.7932397846440022e-11
+BKT Controller_random(6),M  JCommTable6.R0C0,8,0.9722264210434824
+BKT Controller_random(6),M  done,8,0.9983111015249717
+BKT Controller_random(6),M  JCommTable6.R1C0,8,0.967364783511312
+BKT Controller_random(6),AS JCommTable8.R0C0,3,5.289887608885476e-14
+BKT Controller_random(6),AS JCommTable4.R1C0,1,1.1994970357571078e-10
+BKT Controller_random(6),AS JCommTable6.R0C0,6,0.9475789223493328
+BKT Controller_random(6),AS JCommTable6.R1C0,6,0.8343119622565427
+BKT Controller_random(6),AS done,6,0.9983858489021898
+BKT Controller_random(7),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(7),AD JCommTable4.R1C0,10,0.9920678575311013
+BKT Controller_random(7),AD JCommTable4.R0C0,10,0.9877045563458378
+BKT Controller_random(7),AD JCommTable5.R1C0,10,0.9942502859559522
+BKT Controller_random(7),AD JCommTable5.R0C0,10,0.9756924501424202
+BKT Controller_random(7),AD JCommTable6.R1C0,10,0.7409923885773767
+BKT Controller_random(7),AD JCommTable6.R0C0,10,0.8695426119183862
+BKT Controller_random(7),AD done,10,0.9981717731594386
+BKT Controller_random(7),AS JCommTable8.R0C0,3,8.140084431277581e-14
+BKT Controller_random(7),AS JCommTable5.R0C0,1,3.0543762189034544e-10
+BKT Controller_random(7),AS JCommTable6.R0C0,7,0.9529296887897515
+BKT Controller_random(7),AS JCommTable6.R1C0,7,0.8546653471880155
+BKT Controller_random(7),AS done,7,0.9985403561017038
+BKT Controller_random(7),M  JCommTable8.R0C0,2,2.4220948669904582e-60
+BKT Controller_random(7),M  JCommTable6.R1C0,5,0.8930042413164254
+BKT Controller_random(7),M  JCommTable6.R0C0,5,0.8828385115573031
+BKT Controller_random(7),M  done,5,0.9981882462591699
+BKT Controller_random(8),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(8),AD JCommTable4.R1C0,10,0.9920678320526759
+BKT Controller_random(8),AD JCommTable4.R0C0,10,0.9877024299892031
+BKT Controller_random(8),AD JCommTable5.R1C0,10,0.9942502390181029
+BKT Controller_random(8),AD JCommTable5.R0C0,10,0.975672360767415
+BKT Controller_random(8),AD JCommTable6.R1C0,10,0.7408296721457023
+BKT Controller_random(8),AD JCommTable6.R0C0,10,0.8695035301584445
+BKT Controller_random(8),AD done,10,0.998170720704805
+BKT Controller_random(8),AS JCommTable8.R0C0,2,8.12304700321464e-14
+BKT Controller_random(8),AS JCommTable4.R1C0,1,1.8419239729535458e-10
+BKT Controller_random(8),AS JCommTable6.R0C0,7,0.9529269610932958
+BKT Controller_random(8),AS JCommTable6.R1C0,7,0.854646560378288
+BKT Controller_random(8),AS done,7,0.9985402902861165
+BKT Controller_random(8),M  JCommTable8.R0C0,2,2.4170253535957799e-60
+BKT Controller_random(8),M  JCommTable6.R0C0,6,0.937073603275299
+BKT Controller_random(8),M  JCommTable6.R1C0,6,0.9380253391639436
+BKT Controller_random(8),M  done,6,0.9982927881528577
+BKT Controller_random(8),M  JCommTable4.R1C0,2,4.289243881752091e-11
+BKT Controller_random(9),AD JCommTable8.R0C0,9,0.919714463555757
+BKT Controller_random(9),AD JCommTable4.R1C0,9,0.9920080397560082
+BKT Controller_random(9),AD JCommTable4.R0C0,9,0.98485022530001
+BKT Controller_random(9),AD JCommTable5.R1C0,9,0.9941453819237697
+BKT Controller_random(9),AD JCommTable5.R0C0,9,0.9554710673598206
+BKT Controller_random(9),AD JCommTable6.R1C0,9,0.6631533460452025
+BKT Controller_random(9),AD JCommTable6.R0C0,9,0.8386600808623512
+BKT Controller_random(9),AD done,9,0.9966380935938343
+BKT Controller_random(9),AS JCommTable8.R0C0,3,5.3723417496256713e-14
+BKT Controller_random(9),AS JCommTable4.R1C0,2,1.2181937462931504e-10
+BKT Controller_random(9),AS JCommTable4.R0C0,2,7.030703408389572e-11
+BKT Controller_random(9),AS JCommTable6.R1C0,9,0.8607637119934651
+BKT Controller_random(9),AS JCommTable6.R0C0,9,0.9540547461420295
+BKT Controller_random(9),AS done,9,0.9985685288254948
+BKT Controller_random(9),AS JCommTable5.R0C0,1,2.0158455382303683e-10
+BKT Controller_random(9),M  JCommTable8.R0C0,2,1.5985486987687356e-60
+BKT Controller_random(9),M  JCommTable4.R1C0,2,2.8367783630309343e-11
+BKT Controller_random(9),M  JCommTable4.R0C0,1,2.4002925730447017e-10
+BKT Controller_random(9),M  JCommTable6.R1C0,9,0.9762872172931965
+BKT Controller_random(9),M  JCommTable6.R0C0,9,0.982400659449131
+BKT Controller_random(9),M  done,9,0.9983116848177102
+BKT Controller_random(10),AD JCommTable8.R0C0,7,0.919714463555757
+BKT Controller_random(10),AD JCommTable4.R1C0,7,0.9913791750991461
+BKT Controller_random(10),AD JCommTable4.R0C0,7,0.9732007582713611
+BKT Controller_random(10),AD JCommTable5.R1C0,7,0.9931305312199508
+BKT Controller_random(10),AD JCommTable5.R0C0,7,0.906910912462037
+BKT Controller_random(10),AD JCommTable6.R1C0,7,0.6319089560891887
+BKT Controller_random(10),AD JCommTable6.R0C0,7,0.7918803689870817
+BKT Controller_random(10),AD done,7,0.9894202889185757
+BKT Controller_random(10),M  JCommTable8.R0C0,2,2.508105665871476e-60
+BKT Controller_random(10),M  JCommTable4.R1C0,2,4.4508746530543114e-11
+BKT Controller_random(10),M  JCommTable6.R0C0,9,0.9856259817551896
+BKT Controller_random(10),M  JCommTable6.R1C0,9,0.9792530204857969
+BKT Controller_random(10),M  done,9,0.9983117224701149
+BKT Controller_random(10),AS JCommTable8.R0C0,2,8.429146257234403e-14
+BKT Controller_random(10),AS JCommTable6.R0C0,7,0.952974289286098
+BKT Controller_random(10),AS JCommTable4.R1C0,2,1.9113328479421555e-10
+BKT Controller_random(10),AS JCommTable6.R1C0,7,0.8549726317798625
+BKT Controller_random(10),AS done,7,0.9985414321985039
+BKT Controller_random(11),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(11),AD JCommTable4.R1C0,10,0.9920633432408539
+BKT Controller_random(11),AD JCommTable4.R0C0,10,0.9873279477113625
+BKT Controller_random(11),AD JCommTable5.R1C0,10,0.9942419694973438
+BKT Controller_random(11),AD JCommTable5.R0C0,10,0.9721458460881487
+BKT Controller_random(11),AD JCommTable6.R1C0,10,0.7132358647879231
+BKT Controller_random(11),AD JCommTable6.R0C0,10,0.8626724409422254
+BKT Controller_random(11),AD done,10,0.9979853320948187
+BKT Controller_random(11),AS JCommTable8.R0C0,2,5.934631904585987e-14
+BKT Controller_random(11),AS JCommTable4.R1C0,1,1.3456946355150617e-10
+BKT Controller_random(11),AS JCommTable4.R0C0,1,7.766564135966556e-11
+BKT Controller_random(11),AS JCommTable6.R1C0,4,0.7530765756784816
+BKT Controller_random(11),AS JCommTable6.R0C0,4,0.8920045346247981
+BKT Controller_random(11),AS done,4,0.9961211397478772
+BKT Controller_random(11),M  JCommTable8.R0C0,2,1.765859014722674e-60
+BKT Controller_random(11),M  JCommTable6.R0C0,6,0.9185304308337132
+BKT Controller_random(11),M  JCommTable6.R1C0,6,0.9219730247679182
+BKT Controller_random(11),M  done,6,0.9982857818414557
+BKT Controller_random(11),M  JCommTable4.R1C0,2,3.133686605213629e-11
+BKT Controller_random(11),M  JCommTable5.R0C0,1,2.030208731084098e-10
+BKT Controller_random(12),AD JCommTable8.R0C0,11,0.919714463555757
+BKT Controller_random(12),AD JCommTable4.R1C0,11,0.9920769557195936
+BKT Controller_random(12),AD JCommTable4.R0C0,11,0.98832441330665
+BKT Controller_random(12),AD JCommTable5.R1C0,11,0.9942668137725217
+BKT Controller_random(12),AD JCommTable5.R0C0,11,0.9807832137510744
+BKT Controller_random(12),AD JCommTable6.R1C0,11,0.7649231401410239
+BKT Controller_random(12),AD JCommTable6.R0C0,11,0.8780643419068122
+BKT Controller_random(12),AD done,11,0.9984898984879576
+BKT Controller_random(12),AS JCommTable8.R0C0,2,8.292934493743324e-14
+BKT Controller_random(12),AS JCommTable4.R0C0,2,1.0852839511282626e-10
+BKT Controller_random(12),AS JCommTable4.R1C0,1,1.8804464438103705e-10
+BKT Controller_random(12),AS JCommTable6.R0C0,5,0.9401737590317433
+BKT Controller_random(12),AS JCommTable6.R1C0,5,0.8236719050949849
+BKT Controller_random(12),AS done,5,0.9981153335611008
+BKT Controller_random(12),M  JCommTable6.R0C0,7,0.9655872993882224
+BKT Controller_random(12),M  JCommTable8.R0C0,4,2.4675756423856684e-60
+BKT Controller_random(12),M  JCommTable6.R1C0,7,0.9619747009503148
+BKT Controller_random(12),M  done,7,0.9983089325271723
+BKT Controller_random(13),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_random(13),AD JCommTable4.R1C0,13,0.9920797963230683
+BKT Controller_random(13),AD JCommTable4.R0C0,13,0.9886544227250351
+BKT Controller_random(13),AD JCommTable5.R1C0,13,0.9942722305113186
+BKT Controller_random(13),AD JCommTable5.R0C0,13,0.9842555962790288
+BKT Controller_random(13),AD JCommTable6.R1C0,13,0.7929031335059776
+BKT Controller_random(13),AD JCommTable6.R0C0,13,0.8851342887807605
+BKT Controller_random(13),AD done,13,0.9986469980596104
+BKT Controller_random(13),AS JCommTable8.R0C0,4,7.918923796191084e-14
+BKT Controller_random(13),AS JCommTable6.R1C0,6,0.843849875696305
+BKT Controller_random(13),AS JCommTable6.R0C0,6,0.949777384542909
+BKT Controller_random(13),AS done,6,0.9984475547921713
+BKT Controller_random(13),M  JCommTable8.R0C0,1,2.356288173761906e-60
+BKT Controller_random(13),M  JCommTable6.R0C0,6,0.9357530921554048
+BKT Controller_random(13),M  JCommTable6.R1C0,6,0.9368850996729494
+BKT Controller_random(13),M  done,6,0.9982922983936894
+BKT Controller_random(14),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_random(14),AD JCommTable4.R1C0,13,0.9920795841570461
+BKT Controller_random(14),AD JCommTable4.R0C0,13,0.9885884328889185
+BKT Controller_random(14),AD JCommTable5.R1C0,13,0.9942717888412536
+BKT Controller_random(14),AD JCommTable5.R0C0,13,0.9831305000768521
+BKT Controller_random(14),AD JCommTable6.R1C0,13,0.7604603391672188
+BKT Controller_random(14),AD JCommTable6.R0C0,13,0.8816567345720725
+BKT Controller_random(14),AD done,13,0.9986197631857107
+BKT Controller_random(14),M  JCommTable8.R0C0,2,1.168932543128173e-60
+BKT Controller_random(14),M  JCommTable4.R0C0,2,1.7552046453172076e-10
+BKT Controller_random(14),M  JCommTable6.R0C0,10,0.985575030656916
+BKT Controller_random(14),M  JCommTable6.R1C0,10,0.9790675350574172
+BKT Controller_random(14),M  done,10,0.9983117668552565
+BKT Controller_random(14),AS JCommTable8.R0C0,4,3.928504091730651e-14
+BKT Controller_random(14),AS JCommTable4.R0C0,1,5.141174630235927e-11
+BKT Controller_random(14),AS JCommTable6.R1C0,4,0.7068388995692597
+BKT Controller_random(14),AS JCommTable6.R0C0,4,0.8632570741549358
+BKT Controller_random(14),AS done,4,0.9948743529511523
+BKT Controller_random(15),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(15),AD JCommTable4.R1C0,8,0.9917576158754865
+BKT Controller_random(15),AD JCommTable4.R0C0,8,0.9776123043624105
+BKT Controller_random(15),AD JCommTable5.R1C0,8,0.993725313079418
+BKT Controller_random(15),AD JCommTable5.R0C0,8,0.9168928706696727
+BKT Controller_random(15),AD JCommTable6.R1C0,8,0.592064959114544
+BKT Controller_random(15),AD JCommTable6.R0C0,8,0.7916905728480268
+BKT Controller_random(15),AD done,8,0.9924472985486974
+BKT Controller_random(15),AS JCommTable8.R0C0,2,4.688019212496094e-14
+BKT Controller_random(15),AS JCommTable5.R0C0,1,1.759069518158146e-10
+BKT Controller_random(15),AS JCommTable4.R1C0,2,1.0630216679072541e-10
+BKT Controller_random(15),AS JCommTable5.R1C0,1,5.931856729241994e-14
+BKT Controller_random(15),AS JCommTable6.R1C0,8,0.8564342120795546
+BKT Controller_random(15),AS JCommTable6.R0C0,8,0.9535542505883896
+BKT Controller_random(15),AS done,8,0.9985575841296235
+BKT Controller_random(15),M  JCommTable8.R0C0,2,1.3949274564412488e-60
+BKT Controller_random(15),M  JCommTable6.R1C0,9,0.975098487149004
+BKT Controller_random(15),M  JCommTable6.R0C0,9,0.981108353525676
+BKT Controller_random(15),M  done,9,0.9983116696618677
+BKT Controller_random(15),M  JCommTable5.R0C0,1,1.6037485879717276e-10
+BKT Controller_random(15),M  JCommTable4.R1C0,1,2.475432890779442e-11
+BKT Controller_random(16),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_random(16),AD JCommTable4.R1C0,12,0.9920790870153157
+BKT Controller_random(16),AD JCommTable4.R0C0,12,0.9885350847767378
+BKT Controller_random(16),AD JCommTable5.R1C0,12,0.9942708302145163
+BKT Controller_random(16),AD JCommTable5.R0C0,12,0.9827701983519664
+BKT Controller_random(16),AD JCommTable6.R1C0,12,0.7742496721181402
+BKT Controller_random(16),AD JCommTable6.R0C0,12,0.8816527456792501
+BKT Controller_random(16),AD done,12,0.9985930196149854
+BKT Controller_random(16),M  JCommTable8.R0C0,1,2.0959266591634305e-60
+BKT Controller_random(16),M  JCommTable4.R1C0,1,3.719423375553626e-11
+BKT Controller_random(16),M  JCommTable4.R0C0,1,3.1471278898976976e-10
+BKT Controller_random(16),M  JCommTable6.R0C0,5,0.8680526559830737
+BKT Controller_random(16),M  done,5,0.9981690233366326
+BKT Controller_random(16),M  JCommTable6.R1C0,5,0.8802719144240427
+BKT Controller_random(16),AS JCommTable8.R0C0,4,7.04391070716204e-14
+BKT Controller_random(16),AS JCommTable4.R1C0,1,1.597226753711231e-10
+BKT Controller_random(16),AS JCommTable6.R0C0,6,0.9492269264673321
+BKT Controller_random(16),AS JCommTable6.R1C0,6,0.8414455046507882
+BKT Controller_random(16),AS JCommTable4.R0C0,3,9.218260736965775e-11
+BKT Controller_random(16),AS done,6,0.9984321307806474
+BKT Controller_random(17),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(17),AD JCommTable4.R1C0,8,0.9919350778047467
+BKT Controller_random(17),AD JCommTable4.R0C0,8,0.9836961236913563
+BKT Controller_random(17),AD JCommTable5.R1C0,8,0.9940265771930278
+BKT Controller_random(17),AD JCommTable5.R0C0,8,0.9533656316183419
+BKT Controller_random(17),AD JCommTable6.R1C0,8,0.7020930700217961
+BKT Controller_random(17),AD JCommTable6.R0C0,8,0.8422532013125801
+BKT Controller_random(17),AD done,8,0.9958655970418685
+BKT Controller_random(17),M  JCommTable8.R0C0,2,3.103555363328077e-60
+BKT Controller_random(17),M  JCommTable4.R0C0,1,4.660127584888261e-10
+BKT Controller_random(17),M  JCommTable6.R0C0,6,0.9485609530430541
+BKT Controller_random(17),M  done,6,0.9982969911435281
+BKT Controller_random(17),M  JCommTable6.R1C0,6,0.9479258573543238
+BKT Controller_random(17),AS JCommTable8.R0C0,3,1.0430310983658933e-13
+BKT Controller_random(17),AS JCommTable4.R0C0,1,1.3649992200060008e-10
+BKT Controller_random(17),AS JCommTable6.R1C0,3,0.731484498108957
+BKT Controller_random(17),AS JCommTable6.R0C0,3,0.8425721558572434
+BKT Controller_random(17),AS done,3,0.9932189634948559
+BKT Controller_random(18),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(18),AD JCommTable4.R1C0,8,0.9919753591776822
+BKT Controller_random(18),AD JCommTable4.R0C0,8,0.9850873189967387
+BKT Controller_random(18),AD JCommTable5.R1C0,8,0.9940949703500741
+BKT Controller_random(18),AD JCommTable5.R0C0,8,0.9620502658872317
+BKT Controller_random(18),AD JCommTable6.R1C0,8,0.7330064000459252
+BKT Controller_random(18),AD JCommTable6.R0C0,8,0.8546400587646581
+BKT Controller_random(18),AD done,8,0.9966446134034653
+BKT Controller_random(18),AS JCommTable8.R0C0,1,1.4445835266650978e-13
+BKT Controller_random(18),AS JCommTable6.R1C0,4,0.8145534937181487
+BKT Controller_random(18),AS done,4,0.9975635255567967
+BKT Controller_random(18),AS JCommTable6.R0C0,4,0.9276462547152419
+BKT Controller_random(18),M  JCommTable6.R0C0,7,0.9763932383953904
+BKT Controller_random(18),M  JCommTable6.R1C0,7,0.9714454902479067
+BKT Controller_random(18),M  JCommTable8.R0C0,3,4.298380900608812e-60
+BKT Controller_random(18),M  done,7,0.9983101490284141
+BKT Controller_random(19),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(19),AD JCommTable4.R1C0,8,0.9918893213472
+BKT Controller_random(19),AD JCommTable4.R0C0,8,0.9821204585315715
+BKT Controller_random(19),AD JCommTable5.R1C0,8,0.9939488926476748
+BKT Controller_random(19),AD JCommTable5.R0C0,8,0.9436880239247006
+BKT Controller_random(19),AD JCommTable6.R1C0,8,0.6699938387354202
+BKT Controller_random(19),AD JCommTable6.R0C0,8,0.8286100748954935
+BKT Controller_random(19),AD done,8,0.9949820954823635
+BKT Controller_random(19),M  JCommTable8.R0C0,2,2.358718045612089e-60
+BKT Controller_random(19),M  JCommTable4.R1C0,2,4.1857719576169734e-11
+BKT Controller_random(19),M  JCommTable5.R0C0,1,2.7118189674886387e-10
+BKT Controller_random(19),M  JCommTable6.R0C0,8,0.9785048090098076
+BKT Controller_random(19),M  JCommTable6.R1C0,8,0.9730018007275156
+BKT Controller_random(19),M  done,8,0.9983113301173004
+BKT Controller_random(19),AS JCommTable8.R0C0,3,7.927090017212028e-14
+BKT Controller_random(19),AS JCommTable6.R1C0,7,0.8544247394127541
+BKT Controller_random(19),AS JCommTable4.R0C0,3,1.0374064309035358e-10
+BKT Controller_random(19),AS JCommTable4.R1C0,2,1.7974901699757685e-10
+BKT Controller_random(19),AS JCommTable6.R0C0,7,0.9528947465521512
+BKT Controller_random(19),AS done,7,0.9985395129654242
+BKT Controller_random(20),AD JCommTable8.R0C0,7,0.919714463555757
+BKT Controller_random(20),AD JCommTable4.R1C0,7,0.9915205598236997
+BKT Controller_random(20),AD JCommTable4.R0C0,7,0.9762938717754714
+BKT Controller_random(20),AD JCommTable5.R1C0,7,0.9933608627353329
+BKT Controller_random(20),AD JCommTable5.R0C0,7,0.9217244266806475
+BKT Controller_random(20),AD JCommTable6.R1C0,7,0.6635896870184808
+BKT Controller_random(20),AD JCommTable6.R0C0,7,0.8096667866752092
+BKT Controller_random(20),AD done,7,0.9912742986357039
+BKT Controller_random(20),AS JCommTable8.R0C0,2,1.0560891477046791e-13
+BKT Controller_random(20),AS JCommTable6.R1C0,5,0.8319554765626522
+BKT Controller_random(20),AS JCommTable6.R0C0,5,0.9431577307683388
+BKT Controller_random(20),AS done,5,0.9982133111342736
+BKT Controller_random(20),M  JCommTable8.R0C0,2,3.1424097935780137e-60
+BKT Controller_random(20),M  JCommTable6.R0C0,4,0.8251175366795592
+BKT Controller_random(20),M  JCommTable6.R1C0,4,0.8460481631377377
+BKT Controller_random(20),M  done,4,0.9976915843897483
+BKT Controller_random(21),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(21),AD JCommTable4.R1C0,10,0.9920594333380287
+BKT Controller_random(21),AD JCommTable4.R0C0,10,0.9870019898822159
+BKT Controller_random(21),AD JCommTable5.R1C0,10,0.9942347665237241
+BKT Controller_random(21),AD JCommTable5.R0C0,10,0.9690948179992914
+BKT Controller_random(21),AD JCommTable6.R1C0,10,0.6908229541334548
+BKT Controller_random(21),AD JCommTable6.R0C0,10,0.8568091567081169
+BKT Controller_random(21),AD done,10,0.9978239072536513
+BKT Controller_random(21),AS JCommTable8.R0C0,3,4.8066724151986713e-14
+BKT Controller_random(21),AS JCommTable4.R1C0,1,1.0899266185288868e-10
+BKT Controller_random(21),AS JCommTable5.R0C0,1,1.8035913561897324e-10
+BKT Controller_random(21),AS JCommTable4.R0C0,1,6.290420399103996e-11
+BKT Controller_random(21),AS JCommTable6.R1C0,8,0.8566125224857596
+BKT Controller_random(21),AS JCommTable6.R0C0,8,0.9535709686133582
+BKT Controller_random(21),AS done,8,0.998557933475579
+BKT Controller_random(21),M  JCommTable8.R0C0,2,1.4302329026739173e-60
+BKT Controller_random(21),M  JCommTable4.R1C0,1,2.538085799661685e-11
+BKT Controller_random(21),M  JCommTable4.R0C0,1,2.1475588555698686e-10
+BKT Controller_random(21),M  JCommTable6.R1C0,8,0.9656742151577403
+BKT Controller_random(21),M  JCommTable6.R0C0,8,0.9703450357044945
+BKT Controller_random(21),M  done,8,0.9983110324488566
+BKT Controller_random(22),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(22),AD JCommTable4.R1C0,8,0.9919150936107177
+BKT Controller_random(22),AD JCommTable4.R0C0,8,0.9830073462779046
+BKT Controller_random(22),AD JCommTable5.R1C0,8,0.99399264775194
+BKT Controller_random(22),AD JCommTable5.R0C0,8,0.9491147281638606
+BKT Controller_random(22),AD JCommTable6.R1C0,8,0.6877034935002119
+BKT Controller_random(22),AD JCommTable6.R0C0,8,0.8362398371357838
+BKT Controller_random(22),AD done,8,0.9954795436663528
+BKT Controller_random(22),M  JCommTable8.R0C0,1,2.7274076610275866e-60
+BKT Controller_random(22),M  JCommTable4.R1C0,1,4.8400471288549616e-11
+BKT Controller_random(22),M  JCommTable6.R0C0,5,0.8937897991775333
+BKT Controller_random(22),M  JCommTable4.R0C0,1,4.095324938392564e-10
+BKT Controller_random(22),M  done,5,0.9982020743810208
+BKT Controller_random(22),M  JCommTable6.R1C0,5,0.9023931720945985
+BKT Controller_random(22),AS JCommTable8.R0C0,1,9.166168072873144e-14
+BKT Controller_random(22),AS JCommTable4.R1C0,1,2.07845463733738e-10
+BKT Controller_random(22),AS JCommTable6.R1C0,4,0.7886949790567357
+BKT Controller_random(22),AS JCommTable6.R0C0,4,0.9129947767369406
+BKT Controller_random(22),AS done,4,0.9969837246323477
+BKT Controller_random(22),AS JCommTable4.R0C0,1,1.1995627253806696e-10
+BKT Controller_random(23),AD JCommTable8.R0C0,11,0.919714463555757
+BKT Controller_random(23),AD JCommTable4.R1C0,11,0.9920776959525679
+BKT Controller_random(23),AD JCommTable4.R0C0,11,0.9884202632881443
+BKT Controller_random(23),AD JCommTable5.R1C0,11,0.9942682341816007
+BKT Controller_random(23),AD JCommTable5.R0C0,11,0.9818916644036099
+BKT Controller_random(23),AD JCommTable6.R1C0,11,0.7792625597008371
+BKT Controller_random(23),AD JCommTable6.R0C0,11,0.8805951285554874
+BKT Controller_random(23),AD done,11,0.9985345356525233
+BKT Controller_random(23),M  JCommTable8.R0C0,3,3.2585643700351575e-60
+BKT Controller_random(23),M  JCommTable6.R0C0,8,0.9820175408622678
+BKT Controller_random(23),M  done,8,0.9983114567386187
+BKT Controller_random(23),M  JCommTable6.R1C0,8,0.9761526079394738
+BKT Controller_random(23),AS JCommTable6.R0C0,3,0.8472884934140339
+BKT Controller_random(23),AS JCommTable6.R1C0,3,0.7368508410651284
+BKT Controller_random(23),AS JCommTable8.R0C0,1,1.0951259365739384e-13
+BKT Controller_random(23),AS done,3,0.993472293095854
+BKT Controller_random(24),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(24),AD JCommTable4.R1C0,8,0.991926844288752
+BKT Controller_random(24),AD JCommTable4.R0C0,8,0.9834122329093892
+BKT Controller_random(24),AD JCommTable5.R1C0,8,0.9940125981006994
+BKT Controller_random(24),AD JCommTable5.R0C0,8,0.9516096703735563
+BKT Controller_random(24),AD JCommTable6.R1C0,8,0.6960922975284767
+BKT Controller_random(24),AD JCommTable6.R0C0,8,0.8397652715544788
+BKT Controller_random(24),AD done,8,0.99570650813018
+BKT Controller_random(24),M  JCommTable8.R0C0,1,2.9366922489173243e-60
+BKT Controller_random(24),M  JCommTable6.R0C0,6,0.9462405081194519
+BKT Controller_random(24),M  done,6,0.9982961503613897
+BKT Controller_random(24),M  JCommTable6.R1C0,6,0.9459286400558407
+BKT Controller_random(24),AS JCommTable8.R0C0,3,9.869523766659045e-14
+BKT Controller_random(24),AS JCommTable6.R1C0,6,0.8477036908254677
+BKT Controller_random(24),AS JCommTable6.R0C0,6,0.9506544827175538
+BKT Controller_random(24),AS done,6,0.9984720954405517
+BKT Controller_random(25),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_random(25),AD JCommTable4.R1C0,8,0.9918733084507846
+BKT Controller_random(25),AD JCommTable4.R0C0,8,0.9815701973439112
+BKT Controller_random(25),AD JCommTable5.R1C0,8,0.9939217073963034
+BKT Controller_random(25),AD JCommTable5.R0C0,8,0.9403472941671919
+BKT Controller_random(25),AD JCommTable6.R1C0,8,0.6594421686003477
+BKT Controller_random(25),AD JCommTable6.R0C0,8,0.8239390640893274
+BKT Controller_random(25),AD done,8,0.9946732568805979
+BKT Controller_random(25),AS JCommTable8.R0C0,3,7.312856479299112e-14
+BKT Controller_random(25),AS JCommTable4.R1C0,1,1.6582109711922628e-10
+BKT Controller_random(25),AS JCommTable6.R1C0,6,0.8422442413412782
+BKT Controller_random(25),AS JCommTable6.R0C0,6,0.9494100674505705
+BKT Controller_random(25),AS done,6,0.9984372643821169
+BKT Controller_random(25),M  JCommTable8.R0C0,2,2.1759518947358226e-60
+BKT Controller_random(25),M  JCommTable4.R1C0,2,3.8614358503265795e-11
+BKT Controller_random(25),M  JCommTable6.R0C0,8,0.9774413496593779
+BKT Controller_random(25),M  JCommTable6.R1C0,8,0.9720474763402197
+BKT Controller_random(25),M  done,8,0.9983112916039599
+BKT Controller_random(26),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(26),AD JCommTable4.R1C0,10,0.9920704378988425
+BKT Controller_random(26),AD JCommTable4.R0C0,10,0.9879199533302195
+BKT Controller_random(26),AD JCommTable5.R1C0,10,0.9942550396711487
+BKT Controller_random(26),AD JCommTable5.R0C0,10,0.9777313215180382
+BKT Controller_random(26),AD JCommTable6.R1C0,10,0.7578503230122026
+BKT Controller_random(26),AD JCommTable6.R0C0,10,0.8735189469551248
+BKT Controller_random(26),AD done,10,0.9982783733786897
+BKT Controller_random(26),AS JCommTable8.R0C0,3,1.033554940919293e-13
+BKT Controller_random(26),AS JCommTable5.R0C0,1,3.878173081448605e-10
+BKT Controller_random(26),AS JCommTable6.R1C0,5,0.8312889805981862
+BKT Controller_random(26),AS JCommTable6.R0C0,5,0.9429191457530719
+BKT Controller_random(26),AS done,5,0.9982054993896249
+BKT Controller_random(26),M  JCommTable6.R0C0,5,0.9038533354584543
+BKT Controller_random(26),M  JCommTable6.R1C0,5,0.9109901344620633
+BKT Controller_random(26),M  done,5,0.9982144864262811
+BKT Controller_random(26),M  JCommTable8.R0C0,1,3.0753589084829573e-60
+BKT Controller_random(27),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_random(27),AD JCommTable4.R1C0,10,0.9920658451155108
+BKT Controller_random(27),AD JCommTable4.R0C0,10,0.9875366337431849
+BKT Controller_random(27),AD JCommTable5.R1C0,10,0.9942465785721947
+BKT Controller_random(27),AD JCommTable5.R0C0,10,0.9741082297724641
+BKT Controller_random(27),AD JCommTable6.R1C0,10,0.7283565797071472
+BKT Controller_random(27),AD JCommTable6.R0C0,10,0.8664665115441794
+BKT Controller_random(27),AD done,10,0.9980886516094924
+BKT Controller_random(27),AS JCommTable8.R0C0,4,6.983210215070698e-14
+BKT Controller_random(27),AS JCommTable6.R1C0,7,0.8531840058227246
+BKT Controller_random(27),AS JCommTable6.R0C0,7,0.9527142891061992
+BKT Controller_random(27),AS done,7,0.9985351576682976
+BKT Controller_random(27),M  JCommTable8.R0C0,2,2.0778651327063688e-60
+BKT Controller_random(27),M  JCommTable6.R1C0,6,0.9308515024872283
+BKT Controller_random(27),M  JCommTable6.R0C0,6,0.9287740976911729
+BKT Controller_random(27),M  done,6,0.9982896868600403
+BKT Controller_random(28),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_random(28),AD JCommTable4.R1C0,13,0.9920797187407668
+BKT Controller_random(28),AD JCommTable4.R0C0,13,0.9886302913424737
+BKT Controller_random(28),AD JCommTable5.R1C0,13,0.9942720690067343
+BKT Controller_random(28),AD JCommTable5.R0C0,13,0.9838438862495082
+BKT Controller_random(28),AD JCommTable6.R1C0,13,0.7807237351905456
+BKT Controller_random(28),AD JCommTable6.R0C0,13,0.8838594819812525
+BKT Controller_random(28),AD done,13,0.9986370389698097
+BKT Controller_random(28),M  JCommTable8.R0C0,2,1.7181237664231592e-60
+BKT Controller_random(28),M  JCommTable5.R0C0,3,1.9753274993149702e-10
+BKT Controller_random(28),M  JCommTable4.R0C0,1,2.579839900541308e-10
+BKT Controller_random(28),M  JCommTable6.R0C0,8,0.9738017236575427
+BKT Controller_random(28),M  done,8,0.9983111591577887
+BKT Controller_random(28),M  JCommTable6.R1C0,8,0.9687798246734116
+BKT Controller_random(28),AS JCommTable8.R0C0,3,5.774205095214789e-14
+BKT Controller_random(28),AS JCommTable6.R1C0,3,0.6511042429802041
+BKT Controller_random(28),AS JCommTable6.R0C0,3,0.7699244815733658
+BKT Controller_random(28),AS done,3,0.9889442990909135
+BKT Controller_random(29),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_random(29),AD JCommTable4.R1C0,12,0.992079205164786
+BKT Controller_random(29),AD JCommTable4.R0C0,12,0.9885587978380402
+BKT Controller_random(29),AD JCommTable5.R1C0,12,0.9942710663524856
+BKT Controller_random(29),AD JCommTable5.R0C0,12,0.9831034217257621
+BKT Controller_random(29),AD JCommTable6.R1C0,12,0.780733307504326
+BKT Controller_random(29),AD JCommTable6.R0C0,12,0.8825386757964137
+BKT Controller_random(29),AD done,12,0.9986034150384515
+BKT Controller_random(29),AS JCommTable8.R0C0,2,8.084162424460113e-14
+BKT Controller_random(29),AS JCommTable6.R1C0,6,0.8442468119503764
+BKT Controller_random(29),AS JCommTable6.R0C0,6,0.9498680189935559
+BKT Controller_random(29),AS done,6,0.9984500927301033
+BKT Controller_random(29),AS JCommTable4.R0C0,1,1.057962262239544e-10
+BKT Controller_random(29),AS JCommTable5.R0C0,1,3.0333927943301536e-10
+BKT Controller_random(29),M  JCommTable8.R0C0,2,2.4054551863080122e-60
+BKT Controller_random(29),M  JCommTable6.R1C0,5,0.8924304585623383
+BKT Controller_random(29),M  JCommTable6.R0C0,5,0.8821705751302059
+BKT Controller_random(29),M  JCommTable5.R0C0,1,2.7655526745867e-10
+BKT Controller_random(29),M  done,5,0.9981873917640642
+BKT Controller_random(30),AD JCommTable8.R0C0,20,0.919714463555757
+BKT Controller_random(30),AD JCommTable4.R1C0,20,0.9920800051706413
+BKT Controller_random(30),AD JCommTable4.R0C0,20,0.9887192201250482
+BKT Controller_random(30),AD JCommTable5.R1C0,20,0.9942726652552658
+BKT Controller_random(30),AD JCommTable5.R0C0,20,0.9853541405969085
+BKT Controller_random(30),AD JCommTable6.R1C0,20,0.821586295506848
+BKT Controller_random(30),AD JCommTable6.R0C0,20,0.888481920251968
+BKT Controller_random(30),AD done,20,0.9986737638648059
+BKT Controller_random(30),AS JCommTable8.R0C0,3,4.456970857777957e-14
+BKT Controller_random(30),AS JCommTable4.R1C0,1,1.0106307974262166e-10
+BKT Controller_random(30),AS JCommTable5.R0C0,2,1.67237402918641e-10
+BKT Controller_random(30),AS JCommTable6.R1C0,7,0.8473268404195751
+BKT Controller_random(30),AS JCommTable6.R0C0,7,0.9518561987603581
+BKT Controller_random(30),AS done,7,0.998514425788745
+BKT Controller_random(30),M  JCommTable8.R0C0,1,1.3261786567556761e-60
+BKT Controller_random(30),M  JCommTable6.R1C0,7,0.9433899637731719
+BKT Controller_random(30),M  JCommTable6.R0C0,7,0.9444659582257731
+BKT Controller_random(30),M  done,7,0.9983064743771094
+BKT Controller_human(1),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_human(1),AD JCommTable4.R1C0,13,0.9920798322601632
+BKT Controller_human(1),AD JCommTable4.R0C0,13,0.9886656010818939
+BKT Controller_human(1),AD JCommTable5.R1C0,13,0.9942723053222758
+BKT Controller_human(1),AD JCommTable5.R0C0,13,0.9844464223001409
+BKT Controller_human(1),AD JCommTable6.R1C0,13,0.7986744982625579
+BKT Controller_human(1),AD JCommTable6.R0C0,13,0.8857260422521279
+BKT Controller_human(1),AD done,13,0.9986516113016395
+BKT Controller_human(1),M  JCommTable8.R0C0,2,2.8459355723143894e-60
+BKT Controller_human(1),M  JCommTable6.R0C0,10,0.9889675516702262
+BKT Controller_human(1),M  JCommTable6.R1C0,10,0.9822668738271887
+BKT Controller_human(1),M  done,10,0.9983117796947336
+BKT Controller_human(1),AS JCommTable8.R0C0,5,9.564512175115533e-14
+BKT Controller_human(1),AS JCommTable6.R0C0,8,0.9538996682056332
+BKT Controller_human(1),AS JCommTable6.R1C0,8,0.8601322156140707
+BKT Controller_human(1),AS done,8,0.9985647996647156
+BKT Controller_human(1),M  JCommTable4.R0C0,1,4.273299913572737e-10
+BKT Controller_human(1),AS JCommTable5.R0C0,1,3.588859400431888e-10
+BKT Controller_human(2),AD JCommTable8.R0C0,9,0.919714463555757
+BKT Controller_human(2),AD JCommTable4.R1C0,9,0.9920257004178904
+BKT Controller_human(2),AD JCommTable4.R0C0,9,0.9857969838150428
+BKT Controller_human(2),AD JCommTable5.R1C0,9,0.9941766165696088
+BKT Controller_human(2),AD JCommTable5.R0C0,9,0.9626385482407614
+BKT Controller_human(2),AD JCommTable6.R1C0,9,0.6971614584069327
+BKT Controller_human(2),AD JCommTable6.R0C0,9,0.8503857977503652
+BKT Controller_human(2),AD done,9,0.9971369270315216
+BKT Controller_human(2),M  JCommTable8.R0C0,2,2.1184564580231826e-60
+BKT Controller_human(2),M  JCommTable4.R1C0,1,3.7594046698206514e-11
+BKT Controller_human(2),M  JCommTable6.R0C0,8,0.9770694057567731
+BKT Controller_human(2),M  JCommTable6.R1C0,8,0.9717136544724828
+BKT Controller_human(2),M  done,8,0.9983112781141673
+BKT Controller_human(2),AS JCommTable8.R0C0,3,7.119627999427135e-14
+BKT Controller_human(2),AS JCommTable4.R1C0,1,1.614395864725316e-10
+BKT Controller_human(2),AS JCommTable6.R0C0,6,0.9492798789205796
+BKT Controller_human(2),AS JCommTable6.R1C0,6,0.841676323247127
+BKT Controller_human(2),AS done,6,0.9984336152822278
+BKT Controller_human(2),M  JCommTable4.R0C0,1,3.180957393431262e-10
+BKT Controller_human(3),AD JCommTable8.R0C0,17,0.919714463555757
+BKT Controller_human(3),AD JCommTable4.R1C0,17,0.9920800046097499
+BKT Controller_human(3),AD JCommTable4.R0C0,17,0.988718343903947
+BKT Controller_human(3),AD JCommTable5.R1C0,17,0.9942726638895162
+BKT Controller_human(3),AD JCommTable5.R0C0,17,0.9853269286706869
+BKT Controller_human(3),AD JCommTable6.R1C0,17,0.8214971042020132
+BKT Controller_human(3),AD JCommTable6.R0C0,17,0.8883650206471545
+BKT Controller_human(3),AD done,17,0.9986734702289476
+BKT Controller_human(3),M  JCommTable8.R0C0,2,3.5840646446130474e-60
+BKT Controller_human(3),M  JCommTable4.R1C0,1,6.360267311849701e-11
+BKT Controller_human(3),M  JCommTable6.R0C0,7,0.973466828562784
+BKT Controller_human(3),M  JCommTable6.R1C0,7,0.968883149106952
+BKT Controller_human(3),M  done,7,0.9983098222480393
+BKT Controller_human(3),AS JCommTable8.R0C0,4,1.2045188325161243e-13
+BKT Controller_human(3),AS JCommTable6.R1C0,7,0.8575792474328309
+BKT Controller_human(3),AS JCommTable6.R0C0,7,0.9533515051408672
+BKT Controller_human(3),AS done,7,0.9985505295256442
+BKT Controller_human(3),AS JCommTable4.R1C0,1,2.73128065417708e-10
+BKT Controller_human(4),AD JCommTable8.R0C0,14,0.919714463555757
+BKT Controller_human(4),AD JCommTable4.R1C0,14,0.9920799441444278
+BKT Controller_human(4),AD JCommTable4.R0C0,14,0.9886899693234934
+BKT Controller_human(4),AD JCommTable5.R1C0,14,0.9942725329509112
+BKT Controller_human(4),AD JCommTable5.R0C0,14,0.9847562605800498
+BKT Controller_human(4),AD JCommTable6.R1C0,14,0.7990610325325589
+BKT Controller_human(4),AD JCommTable6.R0C0,14,0.8863835418297337
+BKT Controller_human(4),AD done,14,0.9986623779202946
+BKT Controller_human(4),AS JCommTable8.R0C0,4,6.928727075192106e-14
+BKT Controller_human(4),AS JCommTable4.R0C0,2,9.067521638164877e-11
+BKT Controller_human(4),AS JCommTable6.R1C0,5,0.8162208471529689
+BKT Controller_human(4),AS JCommTable6.R0C0,5,0.9374544830558385
+BKT Controller_human(4),AS done,5,0.9980255208746018
+BKT Controller_human(4),M  JCommTable8.R0C0,2,2.0616535891343772e-60
+BKT Controller_human(4),M  JCommTable6.R0C0,9,0.9843959695490598
+BKT Controller_human(4),M  JCommTable6.R1C0,9,0.9781221498207661
+BKT Controller_human(4),M  done,9,0.9983117081400603
+BKT Controller_human(4),M  JCommTable5.R0C0,1,2.370283857369136e-10
+BKT Controller_human(5),AD JCommTable8.R0C0,11,0.919714463555757
+BKT Controller_human(5),AD JCommTable4.R1C0,11,0.9920747891353195
+BKT Controller_human(5),AD JCommTable4.R0C0,11,0.988043976443914
+BKT Controller_human(5),AD JCommTable5.R1C0,11,0.9942626563952718
+BKT Controller_human(5),AD JCommTable5.R0C0,11,0.9775532203661458
+BKT Controller_human(5),AD JCommTable6.R1C0,11,0.7258308070447965
+BKT Controller_human(5),AD JCommTable6.R0C0,11,0.870739873327718
+BKT Controller_human(5),AD done,11,0.9983592727378277
+BKT Controller_human(5),M  JCommTable8.R0C0,2,1.4426209657382426e-60
+BKT Controller_human(5),M  JCommTable5.R0C0,4,1.6585818323991921e-10
+BKT Controller_human(5),M  JCommTable6.R0C0,11,0.9891392267027492
+BKT Controller_human(5),M  JCommTable6.R1C0,11,0.9823741651229102
+BKT Controller_human(5),M  done,11,0.9983117859349442
+BKT Controller_human(5),AS JCommTable6.R1C0,8,0.8566730369043807
+BKT Controller_human(5),AS JCommTable6.R0C0,8,0.9535766408749675
+BKT Controller_human(5),AS done,8,0.9985580520025017
+BKT Controller_human(5),AS JCommTable8.R0C0,3,4.848305747013234e-14
+BKT Controller_human(5),AS JCommTable5.R0C0,2,1.819213289804101e-10
+BKT Controller_human(6),AD JCommTable8.R0C0,17,0.919714463555757
+BKT Controller_human(6),AD JCommTable4.R1C0,17,0.9920800040156429
+BKT Controller_human(6),AD JCommTable4.R0C0,17,0.9887172786039704
+BKT Controller_human(6),AD JCommTable5.R1C0,17,0.9942726624339308
+BKT Controller_human(6),AD JCommTable5.R0C0,17,0.985287666567311
+BKT Controller_human(6),AD JCommTable6.R1C0,17,0.8153519359626238
+BKT Controller_human(6),AD JCommTable6.R0C0,17,0.8881428728534851
+BKT Controller_human(6),AD done,17,0.9986731247793047
+BKT Controller_human(6),M  JCommTable8.R0C0,2,1.7819320565373984e-60
+BKT Controller_human(6),M  JCommTable4.R1C0,1,3.162209763301758e-11
+BKT Controller_human(6),M  JCommTable4.R0C0,1,2.67565091019861e-10
+BKT Controller_human(6),M  JCommTable6.R0C0,7,0.9560290390281426
+BKT Controller_human(6),M  done,7,0.9983078335679629
+BKT Controller_human(6),M  JCommTable6.R1C0,7,0.9535763650627462
+BKT Controller_human(6),AS JCommTable8.R0C0,3,5.988649573019441e-14
+BKT Controller_human(6),AS JCommTable4.R1C0,2,1.35794329521167e-10
+BKT Controller_human(6),AS JCommTable6.R1C0,6,0.8376394407704109
+BKT Controller_human(6),AS JCommTable6.R0C0,6,0.9483504224285558
+BKT Controller_human(6),AS done,6,0.9984075348879569
+BKT Controller_human(7),AD JCommTable8.R0C0,14,0.919714463555757
+BKT Controller_human(7),AD JCommTable4.R1C0,14,0.9920799463884037
+BKT Controller_human(7),AD JCommTable4.R0C0,14,0.9886910509075849
+BKT Controller_human(7),AD JCommTable5.R1C0,14,0.9942725378164194
+BKT Controller_human(7),AD JCommTable5.R0C0,14,0.9847786489700235
+BKT Controller_human(7),AD JCommTable6.R1C0,14,0.8000773250686208
+BKT Controller_human(7),AD JCommTable6.R0C0,14,0.8864642548785898
+BKT Controller_human(7),AD done,14,0.9986627981646975
+BKT Controller_human(7),M  JCommTable8.R0C0,1,2.140320419718735e-60
+BKT Controller_human(7),M  JCommTable4.R1C0,2,3.7982043720211035e-11
+BKT Controller_human(7),M  JCommTable4.R0C0,1,3.213787112597361e-10
+BKT Controller_human(7),M  JCommTable6.R1C0,7,0.9586197617516089
+BKT Controller_human(7),M  JCommTable6.R0C0,7,0.9617662923408845
+BKT Controller_human(7),M  done,7,0.9983084958279934
+BKT Controller_human(7),AS JCommTable8.R0C0,4,7.193107571441285e-14
+BKT Controller_human(7),AS JCommTable6.R0C0,5,0.9380606842407
+BKT Controller_human(7),AS JCommTable6.R1C0,5,0.8178739152007143
+BKT Controller_human(7),AS done,5,0.9980455862839691
+BKT Controller_human(7),AS JCommTable4.R1C0,2,1.6310575663186192e-10
+BKT Controller_human(8),AD JCommTable8.R0C0,9,0.919714463555757
+BKT Controller_human(8),AD JCommTable4.R1C0,9,0.9920403362352423
+BKT Controller_human(8),AD JCommTable4.R0C0,9,0.9865829402949282
+BKT Controller_human(8),AD JCommTable5.R1C0,9,0.9942025021200537
+BKT Controller_human(8),AD JCommTable5.R0C0,9,0.9686602096065611
+BKT Controller_human(8),AD JCommTable6.R1C0,9,0.7281041385012822
+BKT Controller_human(8),AD JCommTable6.R0C0,9,0.8603542238557618
+BKT Controller_human(8),AD done,9,0.997550687421874
+BKT Controller_human(8),AS JCommTable8.R0C0,3,9.746550258252333e-14
+BKT Controller_human(8),AS JCommTable4.R1C0,2,2.2100579458048168e-10
+BKT Controller_human(8),AS JCommTable6.R1C0,9,0.862086868084079
+BKT Controller_human(8),AS done,9,0.9985699683778843
+BKT Controller_human(8),AS JCommTable6.R0C0,9,0.9541342760133177
+BKT Controller_human(8),M  JCommTable8.R0C0,3,2.9001012889583166e-60
+BKT Controller_human(8),M  JCommTable6.R1C0,7,0.9652698717750379
+BKT Controller_human(8),M  JCommTable6.R0C0,7,0.9693437441323364
+BKT Controller_human(8),M  done,7,0.9983093584919183
+BKT Controller_human(9),AD JCommTable8.R0C0,14,0.919714463555757
+BKT Controller_human(9),AD JCommTable4.R1C0,14,0.9920799713032465
+BKT Controller_human(9),AD JCommTable4.R0C0,14,0.9887030598836379
+BKT Controller_human(9),AD JCommTable5.R1C0,14,0.9942725918381097
+BKT Controller_human(9),AD JCommTable5.R0C0,14,0.9850272954500437
+BKT Controller_human(9),AD JCommTable6.R1C0,14,0.8115373947448884
+BKT Controller_human(9),AD JCommTable6.R0C0,14,0.8873613996694703
+BKT Controller_human(9),AD done,14,0.9986674641577502
+BKT Controller_human(9),M  JCommTable8.R0C0,2,3.7136321426004606e-60
+BKT Controller_human(9),M  JCommTable6.R0C0,7,0.9740797664413777
+BKT Controller_human(9),M  done,7,0.9983098908548782
+BKT Controller_human(9),M  JCommTable6.R1C0,7,0.9694199856073937
+BKT Controller_human(9),AS JCommTable8.R0C0,2,1.2480633851073712e-13
+BKT Controller_human(9),AS JCommTable6.R1C0,5,0.8366881519854068
+BKT Controller_human(9),AS JCommTable6.R0C0,5,0.9448443870880047
+BKT Controller_human(9),AS done,5,0.9982684265410012
+BKT Controller_human(10),AD JCommTable8.R0C0,20,0.919714463555757
+BKT Controller_human(10),AD JCommTable4.R1C0,20,0.992080005182042
+BKT Controller_human(10),AD JCommTable4.R0C0,20,0.9887192961728823
+BKT Controller_human(10),AD JCommTable5.R1C0,20,0.9942726652868286
+BKT Controller_human(10),AD JCommTable5.R0C0,20,0.9853591262005159
+BKT Controller_human(10),AD JCommTable6.R1C0,20,0.8241850327687302
+BKT Controller_human(10),AD JCommTable6.R0C0,20,0.8885260792682156
+BKT Controller_human(10),AD done,20,0.9986737844466685
+BKT Controller_human(10),M  JCommTable8.R0C0,3,2.3238138217751967e-60
+BKT Controller_human(10),M  JCommTable4.R1C0,1,4.1238310564547697e-11
+BKT Controller_human(10),M  JCommTable4.R0C0,2,3.4893106861397664e-10
+BKT Controller_human(10),M  JCommTable6.R0C0,10,0.988434699308984
+BKT Controller_human(10),M  JCommTable6.R1C0,10,0.9817644376149806
+BKT Controller_human(10),M  done,10,0.9983117776839125
+BKT Controller_human(10),AS JCommTable8.R0C0,3,7.809785227497661e-14
+BKT Controller_human(10),AS JCommTable6.R0C0,5,0.9393176464923303
+BKT Controller_human(10),AS JCommTable6.R1C0,5,0.8213161188306264
+BKT Controller_human(10),AS done,5,0.9980871120821384
+BKT Controller_human(11),AD JCommTable8.R0C0,9,0.919714463555757
+BKT Controller_human(11),AD JCommTable4.R1C0,9,0.9920345430165836
+BKT Controller_human(11),AD JCommTable4.R0C0,9,0.9862716922366939
+BKT Controller_human(11),AD JCommTable5.R1C0,9,0.9941922559088214
+BKT Controller_human(11),AD JCommTable5.R0C0,9,0.9662677224163363
+BKT Controller_human(11),AD JCommTable6.R1C0,9,0.7155336063778378
+BKT Controller_human(11),AD JCommTable6.R0C0,9,0.856380693530019
+BKT Controller_human(11),AD done,9,0.9973868712288778
+BKT Controller_human(11),M  JCommTable8.R0C0,2,2.530528327529287e-60
+BKT Controller_human(11),M  JCommTable6.R0C0,10,0.9886718858630243
+BKT Controller_human(11),M  JCommTable6.R1C0,10,0.9819880885321061
+BKT Controller_human(11),M  done,10,0.9983117785792496
+BKT Controller_human(11),AS JCommTable8.R0C0,4,8.504503486860936e-14
+BKT Controller_human(11),AS JCommTable6.R0C0,7,0.9529854188774426
+BKT Controller_human(11),AS JCommTable6.R1C0,7,0.8550493414284965
+BKT Controller_human(11),AS JCommTable5.R0C0,1,3.1911159426895454e-10
+BKT Controller_human(11),AS done,7,0.9985417007119589
+BKT Controller_human(12),AD JCommTable8.R0C0,19,0.919714463555757
+BKT Controller_human(12),AD JCommTable4.R1C0,19,0.9920800051347957
+BKT Controller_human(12),AD JCommTable4.R0C0,19,0.9887191286281534
+BKT Controller_human(12),AD JCommTable5.R1C0,19,0.9942726651629242
+BKT Controller_human(12),AD JCommTable5.R0C0,19,0.9853512180599536
+BKT Controller_human(12),AD JCommTable6.R1C0,19,0.8225457977565855
+BKT Controller_human(12),AD JCommTable6.R0C0,19,0.8884738829743005
+BKT Controller_human(12),AD done,19,0.9986737345857173
+BKT Controller_human(12),M  JCommTable8.R0C0,2,2.2068081128379966e-60
+BKT Controller_human(12),M  JCommTable4.R1C0,2,3.91619317610603e-11
+BKT Controller_human(12),M  JCommTable5.R0C0,1,2.537168064339417e-10
+BKT Controller_human(12),M  JCommTable6.R0C0,8,0.977633080601438
+BKT Controller_human(12),M  JCommTable6.R1C0,8,0.9722195463226118
+BKT Controller_human(12),M  done,8,0.9983112985537159
+BKT Controller_human(12),AS JCommTable8.R0C0,4,7.416556885094402e-14
+BKT Controller_human(12),AS JCommTable6.R1C0,5,0.8191838967813804
+BKT Controller_human(12),AS JCommTable6.R0C0,5,0.9385398878269569
+BKT Controller_human(12),AS done,5,0.9980614302675783
+BKT Controller_human(12),AS JCommTable4.R1C0,1,1.6817253326547362e-10
+BKT Controller_human(12),AS JCommTable5.R0C0,1,2.782889436571383e-10
+BKT Controller_human(13),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_human(13),AD JCommTable4.R1C0,12,0.9920793375180209
+BKT Controller_human(13),AD JCommTable4.R0C0,12,0.9885853629948533
+BKT Controller_human(13),AD JCommTable5.R1C0,12,0.9942713308786989
+BKT Controller_human(13),AD JCommTable5.R0C0,12,0.9834769731067474
+BKT Controller_human(13),AD JCommTable6.R1C0,12,0.7881265711764475
+BKT Controller_human(13),AD JCommTable6.R0C0,12,0.8835332277161393
+BKT Controller_human(13),AD done,12,0.998615060439314
+BKT Controller_human(13),M  JCommTable8.R0C0,2,2.8822860405049144e-60
+BKT Controller_human(13),M  JCommTable4.R0C0,1,4.3278817720027044e-10
+BKT Controller_human(13),M  JCommTable4.R1C0,3,5.114893704445251e-11
+BKT Controller_human(13),M  JCommTable5.R0C0,1,3.3137652753501764e-10
+BKT Controller_human(13),M  JCommTable6.R0C0,10,0.9889974782145853
+BKT Controller_human(13),M  JCommTable6.R1C0,10,0.9822950912980776
+BKT Controller_human(13),M  done,10,0.998311779807603
+BKT Controller_human(13),AS JCommTable4.R1C0,1,2.1964816160600658e-10
+BKT Controller_human(13),AS JCommTable4.R0C0,1,1.2676810098671483e-10
+BKT Controller_human(13),AS JCommTable6.R0C0,8,0.9539038576689712
+BKT Controller_human(13),AS JCommTable6.R1C0,8,0.8601772470687377
+BKT Controller_human(13),AS done,8,0.9985648871482721
+BKT Controller_human(13),AS JCommTable8.R0C0,3,9.686677447921495e-14
+BKT Controller_human(14),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_human(14),AD JCommTable4.R1C0,10,0.9920655169491932
+BKT Controller_human(14),AD JCommTable4.R0C0,10,0.987509255811875
+BKT Controller_human(14),AD JCommTable5.R1C0,10,0.9942459740071762
+BKT Controller_human(14),AD JCommTable5.R0C0,10,0.9738503767417466
+BKT Controller_human(14),AD JCommTable6.R1C0,10,0.7263367967534656
+BKT Controller_human(14),AD JCommTable6.R0C0,10,0.8659669507978071
+BKT Controller_human(14),AD done,10,0.9980750981886559
+BKT Controller_human(14),M  JCommTable8.R0C0,2,2.0307997400278723e-60
+BKT Controller_human(14),M  JCommTable4.R1C0,1,3.603849395737733e-11
+BKT Controller_human(14),M  JCommTable5.R0C0,2,2.334811176195673e-10
+BKT Controller_human(14),M  JCommTable6.R0C0,9,0.9842911278423134
+BKT Controller_human(14),M  JCommTable6.R1C0,9,0.9780257488202391
+BKT Controller_human(14),M  done,9,0.9983117069169626
+BKT Controller_human(14),AS JCommTable8.R0C0,2,6.825034631027505e-14
+BKT Controller_human(14),AS JCommTable4.R1C0,1,1.5475959819669187e-10
+BKT Controller_human(14),AS JCommTable6.R1C0,7,0.852942928487309
+BKT Controller_human(14),AS JCommTable6.R0C0,7,0.9526791728483603
+BKT Controller_human(14),AS done,7,0.9985343099584851
+BKT Controller_human(15),AD JCommTable8.R0C0,8,0.919714463555757
+BKT Controller_human(15),AD JCommTable4.R1C0,8,0.991912919382013
+BKT Controller_human(15),AD JCommTable4.R0C0,8,0.9829324655761101
+BKT Controller_human(15),AD JCommTable5.R1C0,8,0.9939889563736151
+BKT Controller_human(15),AD JCommTable5.R0C0,8,0.9486545159745707
+BKT Controller_human(15),AD JCommTable6.R1C0,8,0.6861734087045817
+BKT Controller_human(15),AD JCommTable6.R0C0,8,0.8355907593389683
+BKT Controller_human(15),AD done,8,0.9954375591710505
+BKT Controller_human(15),AS JCommTable8.R0C0,4,9.046872134528249e-14
+BKT Controller_human(15),AS JCommTable6.R1C0,7,0.8555641018222795
+BKT Controller_human(15),AS JCommTable6.R0C0,7,0.9530600591289062
+BKT Controller_human(15),AS done,7,0.9985435013306043
+BKT Controller_human(15),M  JCommTable8.R0C0,2,2.691910967798225e-60
+BKT Controller_human(15),M  JCommTable6.R0C0,7,0.9676827163434341
+BKT Controller_human(15),M  JCommTable6.R1C0,7,0.9638131869333575
+BKT Controller_human(15),M  done,7,0.998309170546296
+BKT Controller_human(16),AD JCommTable8.R0C0,16,0.919714463555757
+BKT Controller_human(16),AD JCommTable4.R1C0,16,0.9920800008668972
+BKT Controller_human(16),AD JCommTable4.R0C0,16,0.9887143860383995
+BKT Controller_human(16),AD JCommTable5.R1C0,16,0.9942726551427927
+BKT Controller_human(16),AD JCommTable5.R0C0,16,0.9852133244402034
+BKT Controller_human(16),AD JCommTable6.R1C0,16,0.8115853133785943
+BKT Controller_human(16),AD JCommTable6.R0C0,16,0.8878419359673652
+BKT Controller_human(16),AD done,16,0.9986720858544246
+BKT Controller_human(16),AS JCommTable8.R0C0,2,6.389350577216018e-14
+BKT Controller_human(16),AS JCommTable4.R0C0,1,8.36164767126955e-11
+BKT Controller_human(16),AS JCommTable6.R1C0,7,0.8522180002842566
+BKT Controller_human(16),AS JCommTable6.R0C0,7,0.9525734729306343
+BKT Controller_human(16),AS done,7,0.9985317579838854
+BKT Controller_human(16),M  JCommTable8.R0C0,2,1.901161267690718e-60
+BKT Controller_human(16),M  JCommTable6.R1C0,11,0.9828882955475899
+BKT Controller_human(16),M  JCommTable6.R0C0,11,0.9896706042997578
+BKT Controller_human(16),M  done,11,0.9983117865884172
+BKT Controller_human(16),M  JCommTable4.R0C0,1,2.8546789186356906e-10
+BKT Controller_human(17),AD JCommTable8.R0C0,22,0.919714463555757
+BKT Controller_human(17),AD JCommTable4.R1C0,22,0.9920800051963892
+BKT Controller_human(17),AD JCommTable4.R0C0,22,0.9887193843228665
+BKT Controller_human(17),AD JCommTable5.R1C0,22,0.9942726653263582
+BKT Controller_human(17),AD JCommTable5.R0C0,22,0.98536450818245
+BKT Controller_human(17),AD JCommTable6.R1C0,22,0.8262134580489169
+BKT Controller_human(17),AD JCommTable6.R0C0,22,0.8885699161034664
+BKT Controller_human(17),AD done,22,0.9986738087016085
+BKT Controller_human(17),M  JCommTable8.R0C0,2,2.850296515727414e-60
+BKT Controller_human(17),M  JCommTable6.R0C0,6,0.9449373100643489
+BKT Controller_human(17),M  done,6,0.9982956763548761
+BKT Controller_human(17),M  JCommTable6.R1C0,6,0.9448063757021273
+BKT Controller_human(17),AS JCommTable8.R0C0,4,9.579168268097785e-14
+BKT Controller_human(17),AS JCommTable6.R1C0,7,0.8560131306984253
+BKT Controller_human(17),AS JCommTable6.R0C0,7,0.9531251045370507
+BKT Controller_human(17),AS done,7,0.9985450702589334
+BKT Controller_human(17),AS JCommTable5.R0C0,1,3.59435875639388e-10
+BKT Controller_human(18),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_human(18),AD JCommTable4.R1C0,13,0.9920798015241239
+BKT Controller_human(18),AD JCommTable4.R0C0,13,0.9886560405156263
+BKT Controller_human(18),AD JCommTable5.R1C0,13,0.9942722413384577
+BKT Controller_human(18),AD JCommTable5.R0C0,13,0.98428320931265
+BKT Controller_human(18),AD JCommTable6.R1C0,13,0.7937332361679206
+BKT Controller_human(18),AD JCommTable6.R0C0,13,0.8852198823417823
+BKT Controller_human(18),AD done,13,0.9986476657160761
+BKT Controller_human(18),M  JCommTable8.R0C0,2,2.4164590537495796e-60
+BKT Controller_human(18),M  JCommTable6.R0C0,11,0.99002742217458
+BKT Controller_human(18),M  done,11,0.9983117870268281
+BKT Controller_human(18),M  JCommTable6.R1C0,11,0.9832335240249477
+BKT Controller_human(18),AS JCommTable8.R0C0,2,8.121143804201185e-14
+BKT Controller_human(18),AS JCommTable6.R1C0,10,0.8628117934322477
+BKT Controller_human(18),AS JCommTable6.R0C0,10,0.9541968512804125
+BKT Controller_human(18),AS done,10,0.9985711852972468
+BKT Controller_human(19),AD JCommTable8.R0C0,18,0.919714463555757
+BKT Controller_human(19),AD JCommTable4.R1C0,18,0.9920800050685796
+BKT Controller_human(19),AD JCommTable4.R0C0,18,0.988719039918032
+BKT Controller_human(19),AD JCommTable5.R1C0,18,0.9942726650005678
+BKT Controller_human(19),AD JCommTable5.R0C0,18,0.9853497950593436
+BKT Controller_human(19),AD JCommTable6.R1C0,18,0.8238817558309793
+BKT Controller_human(19),AD JCommTable6.R0C0,18,0.8884799048451407
+BKT Controller_human(19),AD done,18,0.9986737027051065
+BKT Controller_human(19),M  JCommTable8.R0C0,3,4.1865054176067974e-60
+BKT Controller_human(19),M  JCommTable6.R0C0,7,0.9759998402546475
+BKT Controller_human(19),M  JCommTable6.R1C0,7,0.9711011414446524
+BKT Controller_human(19),M  done,7,0.9983101052132285
+BKT Controller_human(19),AS JCommTable8.R0C0,2,1.4069848392710642e-13
+BKT Controller_human(19),AS JCommTable6.R1C0,5,0.8396561173831398
+BKT Controller_human(19),AS JCommTable6.R0C0,5,0.9458954680139557
+BKT Controller_human(19),AS done,5,0.9983026767035251
+BKT Controller_human(20),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_human(20),AD JCommTable4.R1C0,13,0.9920798163455845
+BKT Controller_human(20),AD JCommTable4.R0C0,13,0.9886606507664829
+BKT Controller_human(20),AD JCommTable5.R1C0,13,0.9942722721925839
+BKT Controller_human(20),AD JCommTable5.R0C0,13,0.9843619067415359
+BKT Controller_human(20),AD JCommTable6.R1C0,13,0.7961083441779219
+BKT Controller_human(20),AD JCommTable6.R0C0,13,0.885463889350414
+BKT Controller_human(20),AD done,13,0.9986495683432408
+BKT Controller_human(20),M  JCommTable8.R0C0,1,2.6061077414302096e-60
+BKT Controller_human(20),M  JCommTable4.R1C0,2,4.62478875881403e-11
+BKT Controller_human(20),M  JCommTable4.R0C0,2,3.9131876683933104e-10
+BKT Controller_human(20),M  JCommTable6.R1C0,13,0.9842335304702019
+BKT Controller_human(20),M  JCommTable6.R0C0,13,0.9910754503185348
+BKT Controller_human(20),M  done,13,0.9983117886090002
+BKT Controller_human(20),AS JCommTable8.R0C0,4,8.758507910388895e-14
+BKT Controller_human(20),AS JCommTable4.R1C0,1,1.9860165379848498e-10
+BKT Controller_human(20),AS JCommTable6.R1C0,7,0.8552982759893646
+BKT Controller_human(20),AS JCommTable6.R0C0,7,0.953021524144591
+BKT Controller_human(20),AS done,7,0.998542571748486
+BKT Controller_human(20),AS JCommTable4.R0C0,1,1.1462128487916675e-10
+BKT Controller_human(21),AD JCommTable8.R0C0,13,0.919714463555757
+BKT Controller_human(21),AD JCommTable4.R1C0,13,0.9920796904921347
+BKT Controller_human(21),AD JCommTable4.R0C0,13,0.9886215051127871
+BKT Controller_human(21),AD JCommTable5.R1C0,13,0.9942720102010151
+BKT Controller_human(21),AD JCommTable5.R0C0,13,0.9836940632759897
+BKT Controller_human(21),AD JCommTable6.R1C0,13,0.7763814767027899
+BKT Controller_human(21),AD JCommTable6.R0C0,13,0.8833962211829537
+BKT Controller_human(21),AD done,13,0.9986334127965735
+BKT Controller_human(21),M  JCommTable8.R0C0,2,1.5639010805285838e-60
+BKT Controller_human(21),M  JCommTable5.R0C0,2,1.7980176230629072e-10
+BKT Controller_human(21),M  JCommTable6.R0C0,13,0.990895160934191
+BKT Controller_human(21),M  done,13,0.9983117885854625
+BKT Controller_human(21),M  JCommTable6.R1C0,13,0.9840498226568019
+BKT Controller_human(21),AS JCommTable8.R0C0,2,5.2558993502542404e-14
+BKT Controller_human(21),AS JCommTable6.R1C0,3,0.6356733295262946
+BKT Controller_human(21),AS JCommTable6.R0C0,3,0.7555337824928967
+BKT Controller_human(21),AS done,3,0.9880049445666763
+BKT Controller_human(22),AD JCommTable8.R0C0,14,0.919714463555757
+BKT Controller_human(22),AD JCommTable4.R1C0,14,0.9920799639295335
+BKT Controller_human(22),AD JCommTable4.R0C0,14,0.9886995057171365
+BKT Controller_human(22),AD JCommTable5.R1C0,14,0.9942725758500315
+BKT Controller_human(22),AD JCommTable5.R0C0,14,0.9849536937948216
+BKT Controller_human(22),AD JCommTable6.R1C0,14,0.8081116520423209
+BKT Controller_human(22),AD JCommTable6.R0C0,14,0.8870956945882414
+BKT Controller_human(22),AD done,14,0.9986660832216182
+BKT Controller_human(22),M  JCommTable8.R0C0,2,3.050079705057215e-60
+BKT Controller_human(22),M  JCommTable4.R1C0,1,5.412659695174782e-11
+BKT Controller_human(22),M  JCommTable6.R0C0,8,0.9813863035860725
+BKT Controller_human(22),M  JCommTable6.R1C0,8,0.9755865712129229
+BKT Controller_human(22),M  done,8,0.9983114340515968
+BKT Controller_human(22),AS JCommTable8.R0C0,4,1.0250592022492085e-13
+BKT Controller_human(22),AS JCommTable6.R1C0,5,0.8310303827885308
+BKT Controller_human(22),AS JCommTable6.R0C0,5,0.9428265052043812
+BKT Controller_human(22),AS done,5,0.9982024651224385
+BKT Controller_human(22),AS JCommTable4.R1C0,1,2.324350847015629e-10
+BKT Controller_human(23),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_human(23),AD JCommTable4.R1C0,12,0.9920793466708041
+BKT Controller_human(23),AD JCommTable4.R0C0,12,0.9885872001397735
+BKT Controller_human(23),AD JCommTable5.R1C0,12,0.9942713491718024
+BKT Controller_human(23),AD JCommTable5.R0C0,12,0.9835028162479995
+BKT Controller_human(23),AD JCommTable6.R1C0,12,0.7886430262042045
+BKT Controller_human(23),AD JCommTable6.R0C0,12,0.8836020880306013
+BKT Controller_human(23),AD done,12,0.9986158657777228
+BKT Controller_human(23),AS JCommTable8.R0C0,3,9.821311563693163e-14
+BKT Controller_human(23),AS JCommTable5.R0C0,1,3.685217362291658e-10
+BKT Controller_human(23),AS JCommTable6.R1C0,4,0.7932913996607344
+BKT Controller_human(23),AS JCommTable6.R0C0,4,0.915634291789331
+BKT Controller_human(23),AS done,4,0.9970894978063145
+BKT Controller_human(23),M  JCommTable8.R0C0,1,2.92234663244172e-60
+BKT Controller_human(23),M  JCommTable6.R1C0,4,0.8371818399889018
+BKT Controller_human(23),M  JCommTable6.R0C0,4,0.8148287928086462
+BKT Controller_human(23),M  JCommTable4.R0C0,1,4.388034547648524e-10
+BKT Controller_human(23),M  done,4,0.9976449119877431
+BKT Controller_human(24),AD JCommTable8.R0C0,10,0.919714463555757
+BKT Controller_human(24),AD JCommTable4.R1C0,10,0.9920704490588275
+BKT Controller_human(24),AD JCommTable4.R0C0,10,0.987920885114977
+BKT Controller_human(24),AD JCommTable5.R1C0,10,0.9942550602308176
+BKT Controller_human(24),AD JCommTable5.R0C0,10,0.9777401580369413
+BKT Controller_human(24),AD JCommTable6.R1C0,10,0.7579248987676493
+BKT Controller_human(24),AD JCommTable6.R0C0,10,0.8735362233806688
+BKT Controller_human(24),AD done,10,0.9982788344685273
+BKT Controller_human(24),AS JCommTable8.R0C0,2,1.0347619733474597e-13
+BKT Controller_human(24),AS JCommTable4.R1C0,1,2.346352155979794e-10
+BKT Controller_human(24),AS JCommTable6.R1C0,6,0.8484304901652657
+BKT Controller_human(24),AS JCommTable6.R0C0,6,0.9508191839650465
+BKT Controller_human(24),AS done,6,0.9984766987617563
+BKT Controller_human(24),M  JCommTable8.R0C0,2,3.078950452370739e-60
+BKT Controller_human(24),M  JCommTable6.R0C0,11,0.9903108651514648
+BKT Controller_human(24),M  JCommTable6.R1C0,11,0.9835077562350854
+BKT Controller_human(24),M  done,11,0.9983117873748605
+BKT Controller_human(24),M  JCommTable4.R1C0,1,5.463893612139643e-11
+BKT Controller_human(25),AD JCommTable8.R0C0,15,0.919714463555757
+BKT Controller_human(25),AD JCommTable4.R1C0,15,0.992079993496702
+BKT Controller_human(25),AD JCommTable4.R0C0,15,0.9887106585368064
+BKT Controller_human(25),AD JCommTable5.R1C0,15,0.9942726389045796
+BKT Controller_human(25),AD JCommTable5.R0C0,15,0.9851463811115164
+BKT Controller_human(25),AD JCommTable6.R1C0,15,0.8121018722891521
+BKT Controller_human(25),AD JCommTable6.R0C0,15,0.8876640247267211
+BKT Controller_human(25),AD done,15,0.998670615081227
+BKT Controller_human(25),M  JCommTable8.R0C0,1,2.751216597047105e-60
+BKT Controller_human(25),M  JCommTable5.R0C0,1,3.1630746901179097e-10
+BKT Controller_human(25),M  JCommTable6.R0C0,9,0.98612878003027
+BKT Controller_human(25),M  done,9,0.9983117283175905
+BKT Controller_human(25),M  JCommTable6.R1C0,9,0.9797152314633396
+BKT Controller_human(25),AS JCommTable8.R0C0,4,9.246184240719878e-14
+BKT Controller_human(25),AS JCommTable6.R0C0,6,0.9504142681150826
+BKT Controller_human(25),AS JCommTable6.R1C0,6,0.8466454431196438
+BKT Controller_human(25),AS done,6,0.9984653787728984
+BKT Controller_human(26),AD JCommTable8.R0C0,17,0.919714463555757
+BKT Controller_human(26),AD JCommTable4.R1C0,17,0.9920800042848282
+BKT Controller_human(26),AD JCommTable4.R0C0,17,0.9887177612829422
+BKT Controller_human(26),AD JCommTable5.R1C0,17,0.9942726630934453
+BKT Controller_human(26),AD JCommTable5.R0C0,17,0.985305455537819
+BKT Controller_human(26),AD JCommTable6.R1C0,17,0.8181248348543692
+BKT Controller_human(26),AD JCommTable6.R0C0,17,0.8882435125494647
+BKT Controller_human(26),AD done,17,0.9986732812998612
+BKT Controller_human(26),M  JCommTable8.R0C0,1,2.307673144230876e-60
+BKT Controller_human(26),M  JCommTable6.R0C0,9,0.9851322752115026
+BKT Controller_human(26),M  JCommTable6.R1C0,9,0.978799133048823
+BKT Controller_human(26),M  done,9,0.9983117167225672
+BKT Controller_human(26),AS JCommTable8.R0C0,2,7.755540251473397e-14
+BKT Controller_human(26),AS JCommTable6.R1C0,5,0.821034204431372
+BKT Controller_human(26),AS JCommTable6.R0C0,5,0.9392149721060308
+BKT Controller_human(26),AS done,5,0.9980837241056212
+BKT Controller_human(27),AD JCommTable8.R0C0,12,0.919714463555757
+BKT Controller_human(27),AD JCommTable4.R1C0,12,0.9920792104309374
+BKT Controller_human(27),AD JCommTable4.R0C0,12,0.9885598548015899
+BKT Controller_human(27),AD JCommTable5.R1C0,12,0.9942710768776148
+BKT Controller_human(27),AD JCommTable5.R0C0,12,0.983118279397344
+BKT Controller_human(27),AD JCommTable6.R1C0,12,0.781024824511136
+BKT Controller_human(27),AD JCommTable6.R0C0,12,0.8825782048670904
+BKT Controller_human(27),AD done,12,0.9986038783876462
+BKT Controller_human(27),M  JCommTable8.R0C0,3,2.4213938364004265e-60
+BKT Controller_human(27),M  JCommTable6.R0C0,11,0.9900301060824928
+BKT Controller_human(27),M  JCommTable6.R1C0,11,0.9832361207355549
+BKT Controller_human(27),M  done,11,0.9983117870301246
+BKT Controller_human(27),AS JCommTable8.R0C0,2,8.137728434297635e-14
+BKT Controller_human(27),AS JCommTable6.R1C0,5,0.8229441937078856
+BKT Controller_human(27),AS JCommTable6.R0C0,5,0.9399096594362493
+BKT Controller_human(27),AS done,5,0.9981066329148874
+BKT Controller_human(28),AD JCommTable8.R0C0,15,0.919714463555757
+BKT Controller_human(28),AD JCommTable4.R1C0,15,0.992079991910221
+BKT Controller_human(28),AD JCommTable4.R0C0,15,0.9887094736563364
+BKT Controller_human(28),AD JCommTable5.R1C0,15,0.994272635321697
+BKT Controller_human(28),AD JCommTable5.R0C0,15,0.9851166436888384
+BKT Controller_human(28),AD JCommTable6.R1C0,15,0.8100365788875372
+BKT Controller_human(28),AD JCommTable6.R0C0,15,0.8875393245084957
+BKT Controller_human(28),AD done,15,0.9986701816358062
+BKT Controller_human(28),M  JCommTable8.R0C0,3,2.4227179889610576e-60
+BKT Controller_human(28),M  JCommTable6.R0C0,7,0.9651229799780531
+BKT Controller_human(28),M  JCommTable6.R1C0,7,0.9615671857557592
+BKT Controller_human(28),M  done,7,0.9983088796451035
+BKT Controller_human(28),AS JCommTable8.R0C0,2,8.142178595928573e-14
+BKT Controller_human(28),AS JCommTable6.R1C0,5,0.822965427190542
+BKT Controller_human(28),AS JCommTable6.R0C0,5,0.9399173699623029
+BKT Controller_human(28),AS done,5,0.9981068870019527
+BKT Controller_human(29),AD JCommTable8.R0C0,17,0.919714463555757
+BKT Controller_human(29),AD JCommTable4.R1C0,17,0.9920800040623048
+BKT Controller_human(29),AD JCommTable4.R0C0,17,0.9887173622738883
+BKT Controller_human(29),AD JCommTable5.R1C0,17,0.9942726625482542
+BKT Controller_human(29),AD JCommTable5.R0C0,17,0.9852907501491004
+BKT Controller_human(29),AD JCommTable6.R1C0,17,0.8158312563889654
+BKT Controller_human(29),AD JCommTable6.R0C0,17,0.8881603166003421
+BKT Controller_human(29),AD done,17,0.9986731519113459
+BKT Controller_human(29),AS JCommTable8.R0C0,3,6.234877133186629e-14
+BKT Controller_human(29),AS JCommTable6.R1C0,8,0.8582297037629201
+BKT Controller_human(29),AS JCommTable6.R0C0,8,0.953722301732283
+BKT Controller_human(29),AS done,8,0.9985610952416023
+BKT Controller_human(29),M  JCommTable8.R0C0,2,1.8551974525695245e-60
+BKT Controller_human(29),M  JCommTable6.R1C0,11,0.9828482011699973
+BKT Controller_human(29),M  JCommTable6.R0C0,11,0.9896291643750622
+BKT Controller_human(29),M  done,11,0.9983117865374809
+BKT Controller_human(30),AD JCommTable8.R0C0,18,0.919714463555757
+BKT Controller_human(30),AD JCommTable4.R1C0,18,0.992080004844922
+BKT Controller_human(30),AD JCommTable4.R0C0,18,0.9887184185169888
+BKT Controller_human(30),AD JCommTable5.R1C0,18,0.99427266442982
+BKT Controller_human(30),AD JCommTable5.R0C0,18,0.9853220452251736
+BKT Controller_human(30),AD JCommTable6.R1C0,18,0.8173844120236774
+BKT Controller_human(30),AD JCommTable6.R0C0,18,0.88829757987941
+BKT Controller_human(30),AD done,18,0.9986735129852052
+BKT Controller_human(30),M  JCommTable8.R0C0,2,1.528518075377068e-60
+BKT Controller_human(30),M  JCommTable4.R1C0,1,2.7125022885299957e-11
+BKT Controller_human(30),M  JCommTable4.R0C0,3,2.2951384508693842e-10
+BKT Controller_human(30),M  JCommTable6.R0C0,12,0.9903654544399637
+BKT Controller_human(30),M  done,12,0.9983117882519059
+BKT Controller_human(30),M  JCommTable6.R1C0,12,0.9835356537266935
+BKT Controller_human(30),AS JCommTable8.R0C0,6,5.1369854904831543e-14
+BKT Controller_human(30),AS JCommTable6.R1C0,8,0.857065862676276
+BKT Controller_human(30),AS JCommTable6.R0C0,8,0.9536134441888968
+BKT Controller_human(30),AS done,8,0.9985588210067228
+BKT Controller_human(30),AS JCommTable4.R0C0,3,6.722696187266424e-11
+Random Controller(1),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(1),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(1),M  done,80,0.9983117886443197
+Random Controller(1),AD done,80,0.9986738118065986
+Random Controller(1),AD JCommTable6.R1C0,80,0.8276651521470857
+Random Controller(1),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(1),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(1),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(1),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(1),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(1),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(1),M  JCommTable8.R0C0,2,2.1369453739829464e-60
+Random Controller(1),M  JCommTable5.R0C0,1,2.456846848899406e-10
+Random Controller(1),M  JCommTable4.R0C0,1,3.2087193300417597e-10
+Random Controller(1),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(1),AS JCommTable8.R0C0,11,7.181764845925924e-14
+Random Controller(1),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(1),AS JCommTable4.R0C0,4,9.398668389405499e-11
+Random Controller(1),AS done,80,0.9985717364216868
+Random Controller(1),AS JCommTable5.R0C0,1,2.6947892176237766e-10
+Random Controller(2),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(2),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(2),AS done,80,0.9985717364216868
+Random Controller(2),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(2),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(2),M  done,80,0.9983117886443197
+Random Controller(2),AD JCommTable6.R1C0,80,0.8276651521437729
+Random Controller(2),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(2),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(2),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(2),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(2),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(2),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(2),AD done,80,0.9986738118065986
+Random Controller(2),M  JCommTable8.R0C0,2,1.419869063916444e-60
+Random Controller(2),M  JCommTable5.R1C0,2,1.2887448829532612e-10
+Random Controller(2),M  JCommTable4.R1C0,1,2.51969417132591e-11
+Random Controller(2),M  JCommTable5.R0C0,2,1.6324239628658183e-10
+Random Controller(2),M  JCommTable4.R0C0,1,2.1319970868154134e-10
+Random Controller(2),AS JCommTable4.R1C0,1,1.0820287274165241e-10
+Random Controller(2),AS JCommTable4.R0C0,1,6.244838380534274e-11
+Random Controller(2),AS JCommTable8.R0C0,12,4.771842019549241e-14
+Random Controller(2),AS JCommTable5.R0C0,1,1.7905220651941732e-10
+Random Controller(3),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(3),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(3),AS done,80,0.9985717364216868
+Random Controller(3),M  done,80,0.9983117886443197
+Random Controller(3),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(3),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(3),AD JCommTable6.R1C0,80,0.8276651521434983
+Random Controller(3),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(3),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(3),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(3),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(3),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(3),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(3),AD done,80,0.9986738118065986
+Random Controller(3),M  JCommTable5.R0C0,2,1.588253921494461e-10
+Random Controller(3),M  JCommTable5.R1C0,1,1.2538740919737102e-10
+Random Controller(3),M  JCommTable4.R1C0,2,2.4515164195055844e-11
+Random Controller(3),M  JCommTable4.R0C0,2,2.0743096222438453e-10
+Random Controller(3),M  JCommTable8.R0C0,2,1.3814503217686477e-60
+Random Controller(3),AS JCommTable8.R0C0,12,4.6427257701865204e-14
+Random Controller(3),AS JCommTable4.R0C0,1,6.075865873435768e-11
+Random Controller(3),AS JCommTable4.R1C0,2,1.0527512512554412e-10
+Random Controller(4),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(4),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(4),M  done,80,0.9983117886443197
+Random Controller(4),AS done,80,0.9985717364216868
+Random Controller(4),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(4),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(4),AD JCommTable6.R1C0,80,0.8276651521483134
+Random Controller(4),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(4),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(4),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(4),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(4),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(4),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(4),AD done,80,0.9986738118065986
+Random Controller(4),AS JCommTable4.R1C0,1,2.00339829516248e-10
+Random Controller(4),AS JCommTable5.R1C0,2,1.1179331539912565e-13
+Random Controller(4),AS JCommTable4.R0C0,3,1.156244584697304e-10
+Random Controller(4),AS JCommTable5.R0C0,1,3.315188184703463e-10
+Random Controller(4),AS JCommTable8.R0C0,11,8.835162990976579e-14
+Random Controller(4),M  JCommTable8.R0C0,2,2.6289165806735255e-60
+Random Controller(4),M  JCommTable5.R1C0,1,2.3861374804034065e-10
+Random Controller(4),M  JCommTable4.R0C0,1,3.947436163573564e-10
+Random Controller(4),M  JCommTable5.R0C0,1,3.02246631828393e-10
+Random Controller(4),M  JCommTable4.R1C0,1,4.665265237070175e-11
+Random Controller(5),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(5),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(5),M  done,80,0.9983117886443197
+Random Controller(5),AD JCommTable6.R1C0,80,0.8276651521482632
+Random Controller(5),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(5),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(5),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(5),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(5),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(5),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(5),AD done,80,0.9986738118065986
+Random Controller(5),M  JCommTable8.R0C0,2,2.6043551924325813e-60
+Random Controller(5),M  JCommTable4.R0C0,2,3.9105561374653827e-10
+Random Controller(5),M  JCommTable4.R1C0,1,4.621678692114057e-11
+Random Controller(5),M  JCommTable5.R0C0,1,2.9942280815852834e-10
+Random Controller(5),M  JCommTable5.R1C0,1,2.36384432379688e-10
+Random Controller(5),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(5),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(5),AS JCommTable5.R0C0,1,3.284215112119943e-10
+Random Controller(5),AS JCommTable8.R0C0,11,8.75261801028418e-14
+Random Controller(5),AS done,80,0.9985717364216868
+Random Controller(5),AS JCommTable4.R1C0,1,1.9846809864123254e-10
+Random Controller(6),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(6),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(6),AS done,80,0.9985717364216868
+Random Controller(6),M  done,80,0.9983117886443197
+Random Controller(6),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(6),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(6),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(6),AD JCommTable6.R1C0,80,0.8276651521502899
+Random Controller(6),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(6),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(6),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(6),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(6),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(6),AD done,80,0.9986738118065986
+Random Controller(6),M  JCommTable5.R1C0,1,3.7916062986533735e-10
+Random Controller(6),M  JCommTable4.R1C0,1,7.413172629434986e-11
+Random Controller(6),M  JCommTable8.R0C0,1,4.1773857328849446e-60
+Random Controller(6),M  JCommTable5.R0C0,1,4.802741846835772e-10
+Random Controller(6),M  JCommTable4.R0C0,1,6.272532049330668e-10
+Random Controller(6),AS JCommTable4.R0C0,1,1.837289044092957e-10
+Random Controller(6),AS JCommTable8.R0C0,10,1.4039199302687803e-13
+Random Controller(6),AS JCommTable4.R1C0,1,3.183428305035978e-10
+Random Controller(6),AS JCommTable5.R0C0,1,5.267881044104417e-10
+Random Controller(7),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(7),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(7),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(7),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(7),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(7),AD JCommTable6.R1C0,80,0.8276651521393097
+Random Controller(7),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(7),AD done,80,0.9986738118065986
+Random Controller(7),AS done,80,0.9985717364216868
+Random Controller(7),AS JCommTable4.R0C0,2,4.3006313772728986e-11
+Random Controller(7),AS JCommTable5.R1C0,1,4.158132684922198e-14
+Random Controller(7),AS JCommTable4.R1C0,1,7.451604689739595e-11
+Random Controller(7),AS JCommTable5.R0C0,1,1.2330784091322924e-10
+Random Controller(7),AS JCommTable8.R0C0,10,3.2862233200824694e-14
+Random Controller(7),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(7),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(7),M  JCommTable8.R0C0,3,9.778208939420612e-61
+Random Controller(7),M  JCommTable4.R0C0,5,1.4682419319017596e-10
+Random Controller(7),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(7),M  done,80,0.9983117886443197
+Random Controller(7),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(8),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(8),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(8),AS done,80,0.9985717364216868
+Random Controller(8),M  done,80,0.9983117886443197
+Random Controller(8),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(8),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(8),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(8),AD JCommTable6.R1C0,80,0.8276651521447654
+Random Controller(8),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(8),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(8),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(8),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(8),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(8),AD done,80,0.9986738118065986
+Random Controller(8),M  JCommTable8.R0C0,2,1.578594674609129e-60
+Random Controller(8),M  JCommTable4.R1C0,2,2.8013680286236827e-11
+Random Controller(8),M  JCommTable5.R0C0,2,1.8149108533490735e-10
+Random Controller(8),M  JCommTable4.R0C0,2,2.3703307107517663e-10
+Random Controller(8),AS JCommTable8.R0C0,13,5.305281023137884e-14
+Random Controller(8),AS JCommTable4.R0C0,2,6.942942037235851e-11
+Random Controller(8),AS JCommTable4.R1C0,3,1.202987536147451e-10
+Random Controller(8),AS JCommTable5.R0C0,2,1.9906825697235747e-10
+Random Controller(9),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(9),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(9),AS done,80,0.9985717364216868
+Random Controller(9),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(9),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(9),M  done,80,0.9983117886443197
+Random Controller(9),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(9),AD JCommTable6.R1C0,80,0.827665152148163
+Random Controller(9),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(9),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(9),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(9),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(9),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(9),AD done,80,0.9986738118065986
+Random Controller(9),AS JCommTable8.R0C0,13,8.592739223756293e-14
+Random Controller(9),AS JCommTable4.R1C0,1,1.9484280176072242e-10
+Random Controller(9),AS JCommTable4.R0C0,2,1.1245189483616011e-10
+Random Controller(9),AS JCommTable5.R0C0,2,3.224224338384197e-10
+Random Controller(9),M  JCommTable8.R0C0,1,2.5567830091882033e-60
+Random Controller(9),M  JCommTable5.R0C0,1,2.9395343257780264e-10
+Random Controller(10),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(10),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(10),M  done,80,0.9983117886443197
+Random Controller(10),AD done,80,0.9986738118065986
+Random Controller(10),AD JCommTable6.R1C0,80,0.8276651521397371
+Random Controller(10),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(10),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(10),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(10),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(10),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(10),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(10),AS JCommTable4.R1C0,3,7.680675890187863e-11
+Random Controller(10),AS JCommTable5.R0C0,2,1.2709847075972772e-10
+Random Controller(10),AS JCommTable8.R0C0,11,3.387245737705833e-14
+Random Controller(10),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(10),AS JCommTable5.R1C0,1,4.285958634565519e-14
+Random Controller(10),AS JCommTable4.R0C0,4,4.432837906380165e-11
+Random Controller(10),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(10),AS done,80,0.9985717364216868
+Random Controller(10),M  JCommTable8.R0C0,2,1.0078802724708897e-60
+Random Controller(11),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(11),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(11),M  done,80,0.9983117886443197
+Random Controller(11),AD done,80,0.9986738118065986
+Random Controller(11),AD JCommTable6.R1C0,80,0.8276651521487809
+Random Controller(11),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(11),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(11),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(11),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(11),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(11),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(11),AS JCommTable4.R1C0,1,2.1959244695397227e-10
+Random Controller(11),AS JCommTable5.R0C0,1,3.633777104335447e-10
+Random Controller(11),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(11),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(11),AS JCommTable8.R0C0,9,9.68422038267882e-14
+Random Controller(11),AS JCommTable5.R1C0,1,1.2253663059087327e-13
+Random Controller(11),AS JCommTable4.R0C0,1,1.267359457408683e-10
+Random Controller(11),AS done,80,0.9985717364216868
+Random Controller(11),M  JCommTable8.R0C0,3,2.881554936895122e-60
+Random Controller(11),M  JCommTable4.R1C0,1,5.1135962907956195e-11
+Random Controller(12),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(12),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(12),M  done,80,0.9983117886443197
+Random Controller(12),AS done,80,0.9985717364216868
+Random Controller(12),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(12),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(12),AD JCommTable6.R1C0,80,0.8276651521443655
+Random Controller(12),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(12),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(12),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(12),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(12),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(12),AD done,80,0.9986738118065986
+Random Controller(12),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(12),AS JCommTable8.R0C0,12,5.0766571990591634e-14
+Random Controller(12),AS JCommTable4.R1C0,3,1.1511464348746952e-10
+Random Controller(12),AS JCommTable5.R0C0,4,1.9048968291484536e-10
+Random Controller(12),M  JCommTable8.R0C0,2,1.510567297811283e-60
+Random Controller(13),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(13),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(13),M  done,80,0.9983117886443197
+Random Controller(13),AD done,80,0.9986738118065986
+Random Controller(13),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(13),AD JCommTable6.R1C0,80,0.8276651521428334
+Random Controller(13),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(13),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(13),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(13),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(13),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(13),AS JCommTable5.R1C0,1,5.5133446480208296e-14
+Random Controller(13),AS JCommTable4.R1C0,1,9.880219787911478e-11
+Random Controller(13),AS JCommTable4.R0C0,2,5.702286286495539e-11
+Random Controller(13),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(13),AS JCommTable8.R0C0,14,4.3572639756484775e-14
+Random Controller(13),AS JCommTable5.R0C0,2,1.6349613546373242e-10
+Random Controller(13),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(13),AS done,80,0.9985717364216868
+Random Controller(13),M  JCommTable5.R0C0,3,1.4905988289936933e-10
+Random Controller(13),M  JCommTable8.R0C0,4,1.2965107178727018e-60
+Random Controller(14),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(14),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(14),AS done,80,0.9985717364216868
+Random Controller(14),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(14),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(14),M  done,80,0.9983117886443197
+Random Controller(14),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(14),AD JCommTable6.R1C0,80,0.8276651521486034
+Random Controller(14),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(14),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(14),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(14),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(14),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(14),AD done,80,0.9986738118065986
+Random Controller(14),AS JCommTable4.R0C0,1,1.222734005500577e-10
+Random Controller(14),AS JCommTable5.R1C0,1,1.1822194900300388e-13
+Random Controller(14),AS JCommTable8.R0C0,14,9.343225798638682e-14
+Random Controller(14),AS JCommTable4.R1C0,1,2.1186029793914387e-10
+Random Controller(14),AS JCommTable5.R0C0,1,3.5058268654124925e-10
+Random Controller(14),M  JCommTable8.R0C0,1,2.780091464538255e-60
+Random Controller(15),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(15),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(15),M  done,80,0.9983117886443197
+Random Controller(15),AD done,80,0.9986738118065986
+Random Controller(15),AD JCommTable6.R1C0,80,0.8276651521341238
+Random Controller(15),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(15),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(15),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(15),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(15),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(15),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(15),AS JCommTable4.R1C0,2,5.4721402317614964e-11
+Random Controller(15),AS JCommTable4.R0C0,7,3.158200006738844e-11
+Random Controller(15),AS JCommTable5.R1C0,1,3.053555053053024e-14
+Random Controller(15),AS JCommTable8.R0C0,17,2.4132620541151023e-14
+Random Controller(15),AS JCommTable5.R0C0,3,9.05520119835278e-11
+Random Controller(15),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(15),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(15),AS done,80,0.9985717364216868
+Random Controller(15),M  JCommTable8.R0C0,3,7.180699025080185e-61
+Random Controller(15),M  JCommTable5.R0C0,5,8.255652198869716e-11
+Random Controller(15),M  JCommTable4.R1C0,3,1.2742840829183586e-11
+Random Controller(15),M  JCommTable4.R0C0,3,1.078214167310636e-10
+Random Controller(16),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(16),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(16),M  done,80,0.9983117886443197
+Random Controller(16),AS done,80,0.9985717364216868
+Random Controller(16),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(16),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(16),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(16),AD JCommTable6.R1C0,80,0.8276651521394534
+Random Controller(16),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(16),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(16),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(16),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(16),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(16),AD done,80,0.9986738118065986
+Random Controller(16),M  JCommTable5.R1C0,1,8.96514520870147e-11
+Random Controller(16),M  JCommTable4.R1C0,1,1.7528235747455306e-11
+Random Controller(16),M  JCommTable4.R0C0,1,1.4831223558014447e-10
+Random Controller(16),M  JCommTable8.R0C0,2,9.877309701262748e-61
+Random Controller(16),M  JCommTable5.R0C0,1,1.1355946442925444e-10
+Random Controller(16),AS JCommTable8.R0C0,11,3.319528727710954e-14
+Random Controller(17),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(17),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(17),AS done,80,0.9985717364216868
+Random Controller(17),M  done,80,0.9983117886443197
+Random Controller(17),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(17),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(17),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(17),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(17),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(17),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(17),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(17),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(17),AD JCommTable6.R1C0,80,0.8276651521492812
+Random Controller(17),AD done,80,0.9986738118065986
+Random Controller(17),AS JCommTable8.R0C0,13,1.0794271166414024e-13
+Random Controller(17),AS JCommTable4.R1C0,1,2.4476316366122496e-10
+Random Controller(17),AS JCommTable4.R0C0,1,1.4126301455154176e-10
+Random Controller(17),M  JCommTable8.R0C0,2,3.211852285538473e-60
+Random Controller(17),M  JCommTable4.R1C0,1,5.699740693305067e-11
+Random Controller(18),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(18),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(18),M  done,80,0.9983117886443197
+Random Controller(18),AD done,80,0.9986738118065986
+Random Controller(18),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(18),AD JCommTable6.R1C0,80,0.827665152143771
+Random Controller(18),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(18),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(18),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(18),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(18),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(18),M  JCommTable5.R1C0,1,1.2885175649060558e-10
+Random Controller(18),M  JCommTable4.R1C0,1,2.5192497296321214e-11
+Random Controller(18),M  JCommTable5.R0C0,1,1.6321360242424762e-10
+Random Controller(18),M  JCommTable8.R0C0,3,1.4196186172475996e-60
+Random Controller(18),M  JCommTable4.R0C0,1,2.13162102990858e-10
+Random Controller(18),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(18),AS JCommTable8.R0C0,12,4.7710003278971955e-14
+Random Controller(18),AS JCommTable4.R1C0,2,1.0818378714444889e-10
+Random Controller(18),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(18),AS done,80,0.9985717364216868
+Random Controller(19),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(19),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(19),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(19),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(19),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(19),AD JCommTable6.R1C0,80,0.8276651521488196
+Random Controller(19),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(19),AD done,80,0.9986738118065986
+Random Controller(19),AS JCommTable8.R0C0,10,9.761934414818051e-14
+Random Controller(19),AS JCommTable5.R0C0,1,3.6629374765088413e-10
+Random Controller(19),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(19),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(19),AS done,80,0.9985717364216868
+Random Controller(19),M  JCommTable8.R0C0,2,2.9046788688305604e-60
+Random Controller(19),M  JCommTable5.R0C0,2,3.339510317949787e-10
+Random Controller(19),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(19),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(19),M  done,80,0.9983117886443197
+Random Controller(20),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(20),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(20),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(20),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(20),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(20),AD JCommTable6.R1C0,80,0.8276651521495485
+Random Controller(20),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(20),AD done,80,0.9986738118065986
+Random Controller(20),AS JCommTable8.R0C0,10,1.149842211943126e-13
+Random Controller(20),AS JCommTable5.R0C0,2,4.3145138565224754e-10
+Random Controller(20),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(20),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(20),AS done,80,0.9985717364216868
+Random Controller(20),M  JCommTable8.R0C0,2,3.4213735040575463e-60
+Random Controller(20),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(20),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(20),M  done,80,0.9983117886443197
+Random Controller(21),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(21),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(21),AS done,80,0.9985717364216868
+Random Controller(21),M  done,80,0.9983117886443197
+Random Controller(21),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(21),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(21),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(21),AD JCommTable6.R1C0,80,0.8276651521398731
+Random Controller(21),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(21),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(21),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(21),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(21),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(21),AD done,80,0.9986738118065986
+Random Controller(21),AS JCommTable8.R0C0,11,3.420701703140087e-14
+Random Controller(21),AS JCommTable4.R1C0,1,7.756538241777308e-11
+Random Controller(21),AS JCommTable4.R0C0,1,4.4766212286570023e-11
+Random Controller(21),AS JCommTable5.R1C0,1,4.328291224236967e-14
+Random Controller(21),M  JCommTable8.R0C0,1,1.0178351473659544e-60
+Random Controller(21),M  JCommTable4.R0C0,2,1.5283251282269386e-10
+Random Controller(21),M  JCommTable4.R1C0,2,1.8062463317097084e-11
+Random Controller(21),M  JCommTable5.R1C0,2,9.238385927560693e-11
+Random Controller(21),M  JCommTable5.R0C0,1,1.1702054274653825e-10
+Random Controller(22),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(22),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(22),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(22),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(22),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(22),AD JCommTable6.R1C0,80,0.8276651521443869
+Random Controller(22),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(22),AD done,80,0.9986738118065986
+Random Controller(22),M  done,80,0.9983117886443197
+Random Controller(22),M  JCommTable5.R0C0,1,1.740692494013612e-10
+Random Controller(22),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(22),M  JCommTable4.R0C0,1,2.2733991969530005e-10
+Random Controller(22),M  JCommTable8.R0C0,2,1.5140401502865504e-60
+Random Controller(22),M  JCommTable4.R1C0,1,2.6868098184357327e-11
+Random Controller(22),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(22),M  JCommTable5.R1C0,2,1.3742193177084484e-10
+Random Controller(22),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(22),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(22),AS JCommTable4.R1C0,1,1.1537929649240548e-10
+Random Controller(22),AS done,80,0.9985717364216868
+Random Controller(22),AS JCommTable8.R0C0,13,5.0883286297495996e-14
+Random Controller(22),AS JCommTable5.R1C0,1,6.43837728790024e-14
+Random Controller(22),AS JCommTable4.R0C0,4,6.659019680349708e-11
+Random Controller(23),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(23),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(23),AS done,80,0.9985717364216868
+Random Controller(23),AD done,80,0.9986738118065986
+Random Controller(23),AD JCommTable6.R1C0,80,0.8276651521401879
+Random Controller(23),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(23),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(23),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(23),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(23),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(23),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(23),M  JCommTable4.R0C0,2,1.5640679378987273e-10
+Random Controller(23),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(23),M  JCommTable5.R1C0,1,9.454443272824077e-11
+Random Controller(23),M  JCommTable5.R0C0,3,1.1975729221822107e-10
+Random Controller(23),M  JCommTable8.R0C0,3,1.0416391713156913e-60
+Random Controller(23),M  JCommTable4.R1C0,3,1.8484888609146034e-11
+Random Controller(23),M  done,80,0.9983117886443197
+Random Controller(23),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(23),AS JCommTable8.R0C0,10,3.500701362689339e-14
+Random Controller(23),AS JCommTable4.R1C0,1,7.937939741359455e-11
+Random Controller(23),AS JCommTable5.R0C0,2,1.3135562762084627e-10
+Random Controller(24),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(24),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(24),AS done,80,0.9985717364216868
+Random Controller(24),AD done,80,0.9986738118065986
+Random Controller(24),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(24),AD JCommTable6.R1C0,80,0.8276651521458162
+Random Controller(24),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(24),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(24),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(24),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(24),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(24),AS JCommTable8.R0C0,14,6.017101059141643e-14
+Random Controller(24),AS JCommTable4.R1C0,2,1.3643947504758357e-10
+Random Controller(24),AS JCommTable5.R0C0,1,2.2577763828406955e-10
+Random Controller(24),AS JCommTable4.R0C0,1,7.874490286794766e-11
+Random Controller(24),M  JCommTable8.R0C0,1,1.7903978407778964e-60
+Random Controller(24),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(24),M  JCommTable4.R1C0,1,3.177233111403225e-11
+Random Controller(24),M  JCommTable4.R0C0,1,2.688362664959075e-10
+Random Controller(24),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(24),M  done,80,0.9983117886443197
+Random Controller(25),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(25),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(25),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(25),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(25),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(25),AD JCommTable6.R1C0,80,0.8276651521454058
+Random Controller(25),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(25),AD done,80,0.9986738118065986
+Random Controller(25),AS done,80,0.9985717364216868
+Random Controller(25),AS JCommTable5.R0C0,2,2.145373705663151e-10
+Random Controller(25),AS JCommTable4.R0C0,1,7.482461299116092e-11
+Random Controller(25),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(25),AS JCommTable4.R1C0,1,1.2964687929455646e-10
+Random Controller(25),AS JCommTable5.R1C0,1,7.234534691102458e-14
+Random Controller(25),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(25),AS JCommTable8.R0C0,13,5.717541601799921e-14
+Random Controller(25),M  JCommTable8.R0C0,1,1.7012634552428294e-60
+Random Controller(25),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(25),M  JCommTable5.R0C0,2,1.9559431936171764e-10
+Random Controller(25),M  JCommTable4.R1C0,2,3.0190555741945226e-11
+Random Controller(25),M  JCommTable4.R0C0,1,2.5545233870529066e-10
+Random Controller(25),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(25),M  done,80,0.9983117886443197
+Random Controller(25),M  JCommTable5.R1C0,1,1.5441526462975853e-10
+Random Controller(26),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(26),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(26),AS done,80,0.9985717364216868
+Random Controller(26),M  done,80,0.9983117886443197
+Random Controller(26),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(26),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(26),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(26),AD JCommTable6.R1C0,80,0.8276651521495003
+Random Controller(26),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(26),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(26),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(26),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(26),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(26),AD done,80,0.9986738118065986
+Random Controller(26),M  JCommTable4.R0C0,1,5.077823646409068e-10
+Random Controller(26),M  JCommTable5.R0C0,1,3.887979515285203e-10
+Random Controller(26),M  JCommTable4.R1C0,1,6.001210192723683e-11
+Random Controller(26),M  JCommTable5.R1C0,2,3.069431605743011e-10
+Random Controller(26),M  JCommTable8.R0C0,3,3.381732908691076e-60
+Random Controller(26),AS JCommTable4.R1C0,1,2.5770912600946306e-10
+Random Controller(26),AS JCommTable8.R0C0,11,1.1365199512180343e-13
+Random Controller(26),AS JCommTable4.R0C0,1,1.4873466853913494e-10
+Random Controller(26),AS JCommTable5.R1C0,1,1.4380643967030186e-13
+Random Controller(27),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(27),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(27),M  done,80,0.9983117886443197
+Random Controller(27),AS done,80,0.9985717364216868
+Random Controller(27),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(27),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(27),AD JCommTable6.R1C0,80,0.8276651521489459
+Random Controller(27),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(27),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(27),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(27),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(27),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(27),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(27),AD done,80,0.9986738118065986
+Random Controller(27),AS JCommTable5.R0C0,1,3.76142790059695e-10
+Random Controller(27),AS JCommTable4.R0C0,2,1.311880472122271e-10
+Random Controller(27),AS JCommTable4.R1C0,1,2.2730650037719421e-10
+Random Controller(27),AS JCommTable5.R1C0,1,1.2684121450534585e-13
+Random Controller(27),AS JCommTable8.R0C0,12,1.0024416935191115e-13
+Random Controller(27),M  JCommTable5.R1C0,1,2.707322659683741e-10
+Random Controller(27),M  JCommTable8.R0C0,2,2.982780953721407e-60
+Random Controller(28),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(28),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(28),M  done,80,0.9983117886443197
+Random Controller(28),AD JCommTable6.R1C0,80,0.8276651521492653
+Random Controller(28),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(28),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(28),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(28),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(28),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(28),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(28),AD done,80,0.9986738118065986
+Random Controller(28),M  JCommTable8.R0C0,3,3.200270310304006e-60
+Random Controller(28),M  JCommTable5.R1C0,2,2.904726985471656e-10
+Random Controller(28),M  JCommTable4.R1C0,3,5.679187364670963e-11
+Random Controller(28),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(28),AS JCommTable8.R0C0,12,1.0755346903960766e-13
+Random Controller(28),AS done,80,0.9985717364216868
+Random Controller(28),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(28),AS JCommTable4.R1C0,1,2.4388054495802584e-10
+Random Controller(28),AS JCommTable5.R1C0,1,1.360898367001814e-13
+Random Controller(29),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(29),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(29),AS done,80,0.9985717364216868
+Random Controller(29),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(29),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(29),M  done,80,0.9983117886443197
+Random Controller(29),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(29),AD JCommTable6.R1C0,80,0.8276651521417548
+Random Controller(29),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(29),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(29),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(29),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(29),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(29),AD done,80,0.9986738118065986
+Random Controller(29),M  JCommTable8.R0C0,2,1.1788920824967152e-60
+Random Controller(29),M  JCommTable5.R1C0,1,1.0700220023914047e-10
+Random Controller(29),M  JCommTable4.R1C0,1,2.0920573483787734e-11
+Random Controller(29),M  JCommTable5.R0C0,1,1.3553726424930397e-10
+Random Controller(29),M  JCommTable4.R0C0,3,1.7701593404059086e-10
+Random Controller(29),AS JCommTable8.R0C0,12,3.961975733350247e-14
+Random Controller(29),AS JCommTable5.R0C0,1,1.4866386907788948e-10
+Random Controller(29),AS JCommTable4.R1C0,3,8.983892474497736e-11
+Random Controller(29),AS JCommTable4.R0C0,2,5.184978467701742e-11
+Random Controller(29),AS JCommTable5.R1C0,1,5.013177495587487e-14
+Random Controller(30),AS JCommTable6.R1C0,80,0.8637175265645024
+Random Controller(30),AS JCommTable6.R0C0,80,0.954231971634199
+Random Controller(30),AS done,80,0.9985717364216868
+Random Controller(30),M  done,80,0.9983117886443197
+Random Controller(30),M  JCommTable6.R1C0,80,0.9845093251027862
+Random Controller(30),M  JCommTable6.R0C0,80,0.9913461097654832
+Random Controller(30),AD JCommTable6.R1C0,80,0.8276651521452064
+Random Controller(30),AD JCommTable6.R0C0,80,0.8885847876289766
+Random Controller(30),AD JCommTable8.R0C0,80,0.919714463555757
+Random Controller(30),AD JCommTable4.R1C0,80,0.9920800051971974
+Random Controller(30),AD JCommTable4.R0C0,80,0.9887193972649808
+Random Controller(30),AD JCommTable5.R1C0,80,0.9942726653287853
+Random Controller(30),AD JCommTable5.R0C0,80,0.985365753752603
+Random Controller(30),AD done,80,0.9986738118065986
+Random Controller(30),M  JCommTable8.R0C0,3,1.6610663342105448e-60
+Random Controller(30),M  JCommTable5.R0C0,1,1.909728549419361e-10
+Random Controller(30),M  JCommTable4.R0C0,1,2.494165606823965e-10
+Random Controller(30),M  JCommTable5.R1C0,1,1.507667708814963e-10
+Random Controller(30),M  JCommTable4.R1C0,1,2.947721918057141e-11
+Random Controller(30),AS JCommTable8.R0C0,10,5.582448644229934e-14
+Streak Agent(1),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(1),AD JCommTable4.R1C0,16,0.992080001342692
+Streak Agent(1),AD JCommTable4.R0C0,16,0.9887149366481154
+Streak Agent(1),AD JCommTable5.R1C0,16,0.9942726562619862
+Streak Agent(1),AD JCommTable5.R0C0,16,0.9852300704166109
+Streak Agent(1),AD JCommTable6.R1C0,16,0.8133214785974127
+Streak Agent(1),AD JCommTable6.R0C0,16,0.8879234965959208
+Streak Agent(1),AD done,16,0.9986722754943954
+Streak Agent(1),M  JCommTable8.R0C0,3,2.1358380406282058e-60
+Streak Agent(1),M  JCommTable4.R1C0,2,3.790249959354185e-11
+Streak Agent(1),M  JCommTable6.R0C0,8,0.9771839306683022
+Streak Agent(1),M  JCommTable6.R1C0,8,0.9718164439033116
+Streak Agent(1),M  done,8,0.9983112822688913
+Streak Agent(1),AS JCommTable8.R0C0,4,7.17804336204685e-14
+Streak Agent(1),AS JCommTable6.R1C0,7,0.8534665231447801
+Streak Agent(1),AS JCommTable4.R1C0,1,1.6276417140648738e-10
+Streak Agent(1),AS JCommTable6.R0C0,7,0.9527554197177284
+Streak Agent(1),AS done,7,0.9985361504875522
+Streak Agent(1),AS JCommTable5.R0C0,1,2.693392817874787e-10
+Streak Agent(2),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(2),AD JCommTable4.R1C0,16,0.9920800016601213
+Streak Agent(2),AD JCommTable4.R0C0,16,0.9887153039908819
+Streak Agent(2),AD JCommTable5.R1C0,16,0.9942726570086625
+Streak Agent(2),AD JCommTable5.R0C0,16,0.9852412429072684
+Streak Agent(2),AD JCommTable6.R1C0,16,0.8144839080335351
+Streak Agent(2),AD JCommTable6.R0C0,16,0.8879779185704061
+Streak Agent(2),AD done,16,0.9986724020138279
+Streak Agent(2),M  JCommTable8.R0C0,2,2.3275154546766823e-60
+Streak Agent(2),M  JCommTable4.R0C0,1,3.494868853973102e-10
+Streak Agent(2),M  JCommTable6.R0C0,10,0.9884393159798699
+Streak Agent(2),M  JCommTable6.R1C0,10,0.981768790876011
+Streak Agent(2),M  done,10,0.9983117777013438
+Streak Agent(2),AS JCommTable8.R0C0,3,7.822225534755071e-14
+Streak Agent(2),AS JCommTable6.R0C0,8,0.9538256839780218
+Streak Agent(2),AS JCommTable4.R0C0,2,1.0236829727080686e-10
+Streak Agent(2),AS JCommTable6.R1C0,8,0.859337689405024
+Streak Agent(2),AS done,8,0.9985632546164056
+Streak Agent(3),AD JCommTable8.R0C0,12,0.919714463555757
+Streak Agent(3),AD JCommTable4.R1C0,12,0.9920791387562692
+Streak Agent(3),AD JCommTable4.R0C0,12,0.9885454692493599
+Streak Agent(3),AD JCommTable5.R1C0,12,0.9942709336259224
+Streak Agent(3),AD JCommTable5.R0C0,12,0.9829160983798205
+Streak Agent(3),AD JCommTable6.R1C0,12,0.7770757355253709
+Streak Agent(3),AD JCommTable6.R0C0,12,0.8820405002475844
+Streak Agent(3),AD done,12,0.9985975720349729
+Streak Agent(3),AS JCommTable8.R0C0,2,7.464549877642837e-14
+Streak Agent(3),AS JCommTable4.R1C0,1,1.6926078799870438e-10
+Streak Agent(3),AS JCommTable4.R0C0,1,9.768744936793285e-11
+Streak Agent(3),AS JCommTable6.R1C0,10,0.8627322145610961
+Streak Agent(3),AS JCommTable6.R0C0,10,0.9541937621607726
+Streak Agent(3),AS done,10,0.9985711368194754
+Streak Agent(3),M  JCommTable8.R0C0,3,2.221088502910624e-60
+Streak Agent(3),M  JCommTable4.R1C0,1,3.941535101317906e-11
+Streak Agent(3),M  JCommTable6.R0C0,6,0.932569730163286
+Streak Agent(3),M  JCommTable6.R1C0,6,0.9341345007171254
+Streak Agent(3),M  done,6,0.9982911120290353
+Streak Agent(3),M  JCommTable4.R0C0,1,3.335064012257851e-10
+Streak Agent(4),AD JCommTable8.R0C0,13,0.919714463555757
+Streak Agent(4),AD JCommTable4.R1C0,13,0.9920798467402098
+Streak Agent(4),AD JCommTable4.R0C0,13,0.9886701052213943
+Streak Agent(4),AD JCommTable5.R1C0,13,0.9942723354656754
+Streak Agent(4),AD JCommTable5.R0C0,13,0.9845233322784943
+Streak Agent(4),AD JCommTable6.R1C0,13,0.8010237565052188
+Streak Agent(4),AD JCommTable6.R0C0,13,0.8859646997271472
+Streak Agent(4),AD done,13,0.9986534701160409
+Streak Agent(4),AS JCommTable8.R0C0,4,1.0438532362923956e-13
+Streak Agent(4),AS JCommTable4.R1C0,1,2.3669668528431675e-10
+Streak Agent(4),AS JCommTable6.R1C0,7,0.8566422081061874
+Streak Agent(4),AS JCommTable6.R0C0,7,0.9532161316272351
+Streak Agent(4),AS done,7,0.9985472655274295
+Streak Agent(4),M  JCommTable8.R0C0,2,3.106001647600072e-60
+Streak Agent(4),M  JCommTable6.R0C0,6,0.948593197351557
+Streak Agent(4),M  JCommTable6.R1C0,6,0.947953600605745
+Streak Agent(4),M  done,6,0.9982970027978547
+Streak Agent(5),AD JCommTable8.R0C0,14,0.919714463555757
+Streak Agent(5),AD JCommTable4.R1C0,14,0.9920799072555938
+Streak Agent(5),AD JCommTable4.R0C0,14,0.9886721894467397
+Streak Agent(5),AD JCommTable5.R1C0,14,0.9942724529665816
+Streak Agent(5),AD JCommTable5.R0C0,14,0.9843883625601194
+Streak Agent(5),AD JCommTable6.R1C0,14,0.7827166659125361
+Streak Agent(5),AD JCommTable6.R0C0,14,0.8850587995737418
+Streak Agent(5),AD done,14,0.9986554695518518
+Streak Agent(5),M  JCommTable8.R0C0,1,1.2851500535354474e-60
+Streak Agent(5),M  JCommTable4.R0C0,1,1.9297104500304582e-10
+Streak Agent(5),M  JCommTable6.R0C0,8,0.968029949160814
+Streak Agent(5),M  JCommTable6.R1C0,8,0.9635930611170875
+Streak Agent(5),M  done,8,0.9983109470806932
+Streak Agent(5),AS JCommTable8.R0C0,2,4.319083486452574e-14
+Streak Agent(5),AS JCommTable6.R1C0,12,0.8633531292257592
+Streak Agent(5),AS JCommTable6.R0C0,12,0.9542260472812087
+Streak Agent(5),AS done,12,0.99857166651475
+Streak Agent(5),AS JCommTable4.R0C0,1,5.652320050536977e-11
+Streak Agent(6),AD JCommTable8.R0C0,12,0.919714463555757
+Streak Agent(6),AD JCommTable4.R1C0,12,0.9920795849891695
+Streak Agent(6),AD JCommTable4.R0C0,12,0.9886350377486584
+Streak Agent(6),AD JCommTable5.R1C0,12,0.9942718254841442
+Streak Agent(6),AD JCommTable5.R0C0,12,0.9841761931050365
+Streak Agent(6),AD JCommTable6.R1C0,12,0.8023327692202603
+Streak Agent(6),AD JCommTable6.R0C0,12,0.8853988448055479
+Streak Agent(6),AD done,12,0.9986368354724184
+Streak Agent(6),AS JCommTable8.R0C0,2,1.5391410928339212e-13
+Streak Agent(6),AS JCommTable4.R1C0,1,3.490046130537459e-10
+Streak Agent(6),AS JCommTable6.R1C0,5,0.8416693786514116
+Streak Agent(6),AS JCommTable6.R0C0,5,0.9466055496987983
+Streak Agent(6),AS done,5,0.9983257734592812
+Streak Agent(6),M  JCommTable8.R0C0,1,4.5797384191778563e-60
+Streak Agent(6),M  JCommTable6.R0C0,7,0.9772988553252429
+Streak Agent(6),M  JCommTable6.R1C0,7,0.9722380669845883
+Streak Agent(6),M  done,7,0.9983102497585236
+Streak Agent(7),AD JCommTable8.R0C0,14,0.919714463555757
+Streak Agent(7),AD JCommTable4.R1C0,14,0.9920799574130653
+Streak Agent(7),AD JCommTable4.R0C0,14,0.9886963647682423
+Streak Agent(7),AD JCommTable5.R1C0,14,0.994272561720678
+Streak Agent(7),AD JCommTable5.R0C0,14,0.9848886579937434
+Streak Agent(7),AD JCommTable6.R1C0,14,0.8051081600735244
+Streak Agent(7),AD JCommTable6.R0C0,14,0.8868610119663654
+Streak Agent(7),AD done,14,0.9986648628320027
+Streak Agent(7),AS JCommTable8.R0C0,2,8.852687409561056e-14
+Streak Agent(7),AS JCommTable6.R1C0,6,0.8459022510223372
+Streak Agent(7),AS JCommTable6.R0C0,6,0.9502452823716167
+Streak Agent(7),AS done,6,0.9984606517628805
+Streak Agent(7),M  JCommTable8.R0C0,2,2.6341309988603716e-60
+Streak Agent(7),M  JCommTable6.R0C0,8,0.9798318436313838
+Streak Agent(7),M  JCommTable6.R1C0,8,0.9741923675752778
+Streak Agent(7),M  done,8,0.9983113780588148
+Streak Agent(8),AD JCommTable8.R0C0,11,0.919714463555757
+Streak Agent(8),AD JCommTable4.R1C0,11,0.9920777814318018
+Streak Agent(8),AD JCommTable4.R0C0,11,0.9884313328605671
+Streak Agent(8),AD JCommTable5.R1C0,11,0.9942683982050589
+Streak Agent(8),AD JCommTable5.R0C0,11,0.9820198252676613
+Streak Agent(8),AD JCommTable6.R1C0,11,0.7809531196227946
+Streak Agent(8),AD JCommTable6.R0C0,11,0.8808883136413561
+Streak Agent(8),AD done,11,0.9985396904319699
+Streak Agent(8),M  JCommTable8.R0C0,1,3.3838204939492963e-60
+Streak Agent(8),M  JCommTable6.R0C0,8,0.9823597187294094
+Streak Agent(8),M  done,8,0.9983114690244974
+Streak Agent(8),M  JCommTable6.R1C0,8,0.9764594124339194
+Streak Agent(8),AS JCommTable8.R0C0,2,1.1372215389424207e-13
+Streak Agent(8),AS JCommTable6.R1C0,7,0.8572187359698272
+Streak Agent(8),AS JCommTable6.R0C0,7,0.9532994527435833
+Streak Agent(8),AS done,7,0.9985492745946062
+Streak Agent(9),AD JCommTable8.R0C0,13,0.919714463555757
+Streak Agent(9),AD JCommTable4.R1C0,13,0.9920798623151738
+Streak Agent(9),AD JCommTable4.R0C0,13,0.9886749499897742
+Streak Agent(9),AD JCommTable5.R1C0,13,0.9942723678883875
+Streak Agent(9),AD JCommTable5.R0C0,13,0.9846060712642732
+Streak Agent(9),AD JCommTable6.R1C0,13,0.8035661317152955
+Streak Agent(9),AD JCommTable6.R0C0,13,0.8862215470313736
+Streak Agent(9),AD done,13,0.998655469493474
+Streak Agent(9),AS JCommTable8.R0C0,4,1.157639273046038e-13
+Streak Agent(9),AS JCommTable4.R1C0,1,2.6249799219955836e-10
+Streak Agent(9),AS JCommTable5.R0C0,1,4.3437705039167094e-10
+Streak Agent(9),AS JCommTable6.R1C0,11,0.8634234973612671
+Streak Agent(9),AS JCommTable6.R0C0,11,0.9542245919626252
+Streak Agent(9),AS done,11,0.9985716360026132
+Streak Agent(9),M  JCommTable8.R0C0,2,3.444573781443358e-60
+Streak Agent(9),M  JCommTable5.R0C0,1,3.9602276887756655e-10
+Streak Agent(9),M  JCommTable6.R1C0,11,0.9836139708009427
+Streak Agent(9),M  JCommTable6.R0C0,11,0.9904206483212459
+Streak Agent(9),M  done,11,0.9983117875096069
+Streak Agent(10),AD JCommTable8.R0C0,20,0.919714463555757
+Streak Agent(10),AD JCommTable4.R1C0,20,0.9920800051874297
+Streak Agent(10),AD JCommTable4.R0C0,20,0.988719332110747
+Streak Agent(10),AD JCommTable5.R1C0,20,0.994272665301744
+Streak Agent(10),AD JCommTable5.R0C0,20,0.9853614822605601
+Streak Agent(10),AD JCommTable6.R1C0,20,0.8254188446256374
+Streak Agent(10),AD JCommTable6.R0C0,20,0.8885469489846219
+Streak Agent(10),AD done,20,0.9986737941730225
+Streak Agent(10),M  JCommTable8.R0C0,3,3.6055864823903263e-60
+Streak Agent(10),M  JCommTable6.R0C0,8,0.9829077328909684
+Streak Agent(10),M  done,8,0.9983114886830979
+Streak Agent(10),M  JCommTable6.R1C0,8,0.9769507308245302
+Streak Agent(10),AS JCommTable6.R0C0,8,0.9539696610378529
+Streak Agent(10),AS JCommTable8.R0C0,3,1.2117518100105462e-13
+Streak Agent(10),AS JCommTable6.R1C0,8,0.8608851175968517
+Streak Agent(10),AS done,8,0.9985662611425856
+Streak Agent(11),AD JCommTable8.R0C0,18,0.919714463555757
+Streak Agent(11),AD JCommTable4.R1C0,18,0.9920800049863593
+Streak Agent(11),AD JCommTable4.R0C0,18,0.9887188114802611
+Streak Agent(11),AD JCommTable5.R1C0,18,0.9942726647907513
+Streak Agent(11),AD JCommTable5.R0C0,18,0.9853395935627286
+Streak Agent(11),AD JCommTable6.R1C0,18,0.8214812491736088
+Streak Agent(11),AD JCommTable6.R0C0,18,0.8884128703618329
+Streak Agent(11),AD done,18,0.9986736329608089
+Streak Agent(11),M  JCommTable8.R0C0,1,2.5538982859324935e-60
+Streak Agent(11),M  JCommTable4.R1C0,3,4.532138060210903e-11
+Streak Agent(11),M  JCommTable6.R0C0,9,0.9857279651383637
+Streak Agent(11),M  done,9,0.9983117236566501
+Streak Agent(11),M  JCommTable6.R1C0,9,0.9793467743301918
+Streak Agent(11),AS JCommTable8.R0C0,4,8.583044355408296e-14
+Streak Agent(11),AS JCommTable6.R1C0,9,0.8618662920059413
+Streak Agent(11),AS JCommTable6.R0C0,9,0.9541210340665404
+Streak Agent(11),AS done,9,0.9985697287047358
+Streak Agent(11),AS JCommTable5.R0C0,1,3.22058656588106e-10
+Streak Agent(11),AS JCommTable4.R1C0,1,1.9462296786816939e-10
+Streak Agent(12),AD JCommTable8.R0C0,17,0.919714463555757
+Streak Agent(12),AD JCommTable4.R1C0,17,0.992080004406182
+Streak Agent(12),AD JCommTable4.R0C0,17,0.9887179788838636
+Streak Agent(12),AD JCommTable5.R1C0,17,0.9942726633907668
+Streak Agent(12),AD JCommTable5.R0C0,17,0.9853134753506665
+Streak Agent(12),AD JCommTable6.R1C0,17,0.8193810872576159
+Streak Agent(12),AD JCommTable6.R0C0,17,0.8882888902781634
+Streak Agent(12),AD done,17,0.9986733518622908
+Streak Agent(12),M  JCommTable8.R0C0,2,2.6617053761503127e-60
+Streak Agent(12),M  JCommTable6.R0C0,12,0.9907827187354704
+Streak Agent(12),M  JCommTable6.R1C0,12,0.9839499464375466
+Streak Agent(12),M  done,12,0.9983117884189711
+Streak Agent(12),AS JCommTable8.R0C0,5,8.945358329407863e-14
+Streak Agent(12),AS JCommTable6.R1C0,11,0.8633370547454289
+Streak Agent(12),AS JCommTable6.R0C0,11,0.9542224214542183
+Streak Agent(12),AS done,11,0.9985716064670717
+Streak Agent(13),AD JCommTable8.R0C0,24,0.919714463555757
+Streak Agent(13),AD JCommTable4.R1C0,24,0.9920800051970998
+Streak Agent(13),AD JCommTable4.R0C0,24,0.9887193935087943
+Streak Agent(13),AD JCommTable5.R1C0,24,0.994272665328467
+Streak Agent(13),AD JCommTable5.R0C0,24,0.9853652230696998
+Streak Agent(13),AD JCommTable6.R1C0,24,0.826295577773452
+Streak Agent(13),AD JCommTable6.R0C0,24,0.8885762478491763
+Streak Agent(13),AD done,24,0.9986738110077595
+Streak Agent(13),M  JCommTable8.R0C0,1,1.542143671527026e-60
+Streak Agent(13),M  JCommTable4.R1C0,2,2.7366822189696062e-11
+Streak Agent(13),M  JCommTable6.R0C0,14,0.991131013723542
+Streak Agent(13),M  done,14,0.9983117886351601
+Streak Agent(13),M  JCommTable6.R1C0,14,0.9842843870526099
+Streak Agent(13),AS JCommTable6.R0C0,6,0.947442405601391
+Streak Agent(13),AS JCommTable8.R0C0,3,5.182777876486995e-14
+Streak Agent(13),AS JCommTable6.R1C0,6,0.8337253554021447
+Streak Agent(13),AS done,6,0.9983820079929363
+Streak Agent(14),AD JCommTable8.R0C0,20,0.919714463555757
+Streak Agent(14),AD JCommTable4.R1C0,20,0.9920800051822039
+Streak Agent(14),AD JCommTable4.R0C0,20,0.988719297252939
+Streak Agent(14),AD JCommTable5.R1C0,20,0.9942726652872768
+Streak Agent(14),AD JCommTable5.R0C0,20,0.9853591970080796
+Streak Agent(14),AD JCommTable6.R1C0,20,0.8242220593058607
+Streak Agent(14),AD JCommTable6.R0C0,20,0.8885267064608611
+Streak Agent(14),AD done,20,0.9986737847389792
+Streak Agent(14),M  JCommTable8.R0C0,1,2.348909309468775e-60
+Streak Agent(14),M  JCommTable4.R1C0,1,4.168365412242469e-11
+Streak Agent(14),M  JCommTable5.R0C0,1,2.700541860094342e-10
+Streak Agent(14),M  JCommTable6.R0C0,15,0.9912796936455189
+Streak Agent(14),M  done,15,0.9983117886433969
+Streak Agent(14),M  JCommTable6.R1C0,15,0.9844380436649086
+Streak Agent(14),AS JCommTable8.R0C0,4,7.894125189343868e-14
+Streak Agent(14),AS JCommTable5.R0C0,1,2.9620857684175534e-10
+Streak Agent(14),AS JCommTable6.R0C0,15,0.954231884538661
+Streak Agent(14),AS JCommTable6.R1C0,15,0.863697804537367
+Streak Agent(14),AS done,15,0.9985717357515322
+Streak Agent(15),AD JCommTable8.R0C0,20,0.919714463555757
+Streak Agent(15),AD JCommTable4.R1C0,20,0.9920800051764956
+Streak Agent(15),AD JCommTable4.R0C0,20,0.9887192591766379
+Streak Agent(15),AD JCommTable5.R1C0,20,0.9942726652714736
+Streak Agent(15),AD JCommTable5.R0C0,20,0.9853567007654737
+Streak Agent(15),AD JCommTable6.R1C0,20,0.8229187318879257
+Streak Agent(15),AD JCommTable6.R0C0,20,0.8885045959556429
+Streak Agent(15),AD done,20,0.9986737744338706
+Streak Agent(15),M  JCommTable8.R0C0,1,1.701224028607199e-60
+Streak Agent(15),M  JCommTable4.R1C0,1,3.0189856078388335e-11
+Streak Agent(15),M  JCommTable4.R0C0,1,2.5544641861910955e-10
+Streak Agent(15),M  JCommTable5.R0C0,1,1.9558978648003373e-10
+Streak Agent(15),M  JCommTable6.R0C0,14,0.9911511232590171
+Streak Agent(15),M  JCommTable6.R1C0,14,0.9843054165075364
+Streak Agent(15),M  done,14,0.9983117886360166
+Streak Agent(15),AS JCommTable8.R0C0,3,5.717409098260487e-14
+Streak Agent(15),AS JCommTable4.R1C0,1,1.2964387473917584e-10
+Streak Agent(15),AS JCommTable6.R0C0,17,0.9542319608461269
+Streak Agent(15),AS JCommTable6.R1C0,17,0.8637117036525
+Streak Agent(15),AS done,17,0.9985717363592668
+Streak Agent(16),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(16),AD JCommTable4.R1C0,16,0.9920800019066385
+Streak Agent(16),AD JCommTable4.R0C0,16,0.9887155892713991
+Streak Agent(16),AD JCommTable5.R1C0,16,0.9942726575885352
+Streak Agent(16),AD JCommTable5.R0C0,16,0.9852499196972202
+Streak Agent(16),AD JCommTable6.R1C0,16,0.8153889516603624
+Streak Agent(16),AD JCommTable6.R0C0,16,0.8880201875651077
+Streak Agent(16),AD done,16,0.9986725002695085
+Streak Agent(16),AS JCommTable8.R0C0,3,8.408239596546847e-14
+Streak Agent(16),AS JCommTable4.R1C0,1,1.906592203268821e-10
+Streak Agent(16),AS JCommTable4.R0C0,1,1.1003737577143745e-10
+Streak Agent(16),AS JCommTable6.R1C0,7,0.854951108734145
+Streak Agent(16),AS JCommTable6.R0C0,7,0.9529711662546703
+Streak Agent(16),AS done,7,0.9985413568508844
+Streak Agent(16),M  JCommTable6.R1C0,15,0.9844424018093979
+Streak Agent(16),M  JCommTable6.R0C0,15,0.9912837543452658
+Streak Agent(16),M  done,15,0.9983117886434532
+Streak Agent(16),M  JCommTable8.R0C0,1,2.5018848562515057e-60
+Streak Agent(16),M  JCommTable4.R0C0,1,3.756692331532692e-10
+Streak Agent(17),AD JCommTable8.R0C0,14,0.919714463555757
+Streak Agent(17),AD JCommTable4.R1C0,14,0.9920799675350475
+Streak Agent(17),AD JCommTable4.R0C0,14,0.9887012435897298
+Streak Agent(17),AD JCommTable5.R1C0,14,0.9942725836676994
+Streak Agent(17),AD JCommTable5.R0C0,14,0.9849896813181901
+Streak Agent(17),AD JCommTable6.R1C0,14,0.8097831116380859
+Streak Agent(17),AD JCommTable6.R0C0,14,0.8872255961439528
+Streak Agent(17),AD done,14,0.9986667584555353
+Streak Agent(17),AS JCommTable8.R0C0,4,1.1231912944893917e-13
+Streak Agent(17),AS JCommTable4.R0C0,1,1.4699036714065424e-10
+Streak Agent(17),AS JCommTable6.R1C0,5,0.8337872625605922
+Streak Agent(17),AS done,5,0.998234717095203
+Streak Agent(17),AS JCommTable6.R0C0,5,0.943812108078487
+Streak Agent(17),M  JCommTable6.R0C0,9,0.9870471698710109
+Streak Agent(17),M  JCommTable6.R1C0,9,0.9805593953492875
+Streak Agent(17),M  done,9,0.9983117389829607
+Streak Agent(17),M  JCommTable8.R0C0,2,3.3420732819158046e-60
+Streak Agent(18),AD JCommTable8.R0C0,18,0.919714463555757
+Streak Agent(18),AD JCommTable4.R1C0,18,0.9920800050125387
+Streak Agent(18),AD JCommTable4.R0C0,18,0.9887188842159624
+Streak Agent(18),AD JCommTable5.R1C0,18,0.9942726648575577
+Streak Agent(18),AD JCommTable5.R0C0,18,0.9853428417466354
+Streak Agent(18),AD JCommTable6.R1C0,18,0.8222440630073308
+Streak Agent(18),AD JCommTable6.R0C0,18,0.8884342133742285
+Streak Agent(18),AD done,18,0.9986736551677361
+Streak Agent(18),AS JCommTable8.R0C0,3,9.799875686847033e-14
+Streak Agent(18),AS JCommTable6.R1C0,11,0.8633702173129926
+Streak Agent(18),AS JCommTable6.R0C0,11,0.9542232541913129
+Streak Agent(18),AS done,11,0.998571617798691
+Streak Agent(18),M  JCommTable8.R0C0,2,2.91596835372524e-60
+Streak Agent(18),M  JCommTable6.R1C0,6,0.9456652641037566
+Streak Agent(18),M  JCommTable6.R0C0,6,0.9459346254461203
+Streak Agent(18),M  done,6,0.9982960392212866
+Streak Agent(18),M  JCommTable5.R0C0,1,3.352489842702734e-10
+Streak Agent(19),AD JCommTable8.R0C0,24,0.919714463555757
+Streak Agent(19),AD JCommTable4.R1C0,24,0.9920800051971468
+Streak Agent(19),AD JCommTable4.R0C0,24,0.988719395317614
+Streak Agent(19),AD JCommTable5.R1C0,24,0.9942726653286202
+Streak Agent(19),AD JCommTable5.R0C0,24,0.9853654786239409
+Streak Agent(19),AD JCommTable6.R1C0,24,0.8269545402830736
+Streak Agent(19),AD JCommTable6.R0C0,24,0.8885803602233816
+Streak Agent(19),AD done,24,0.9986738113924464
+Streak Agent(19),M  JCommTable8.R0C0,2,2.9745701047384044e-60
+Streak Agent(19),M  JCommTable4.R1C0,1,5.278660649331898e-11
+Streak Agent(19),M  JCommTable6.R0C0,14,0.9912345831749143
+Streak Agent(19),M  done,14,0.9983117886395708
+Streak Agent(19),M  JCommTable6.R1C0,14,0.9843926948171472
+Streak Agent(19),AS JCommTable8.R0C0,3,9.996822225799227e-14
+Streak Agent(19),AS JCommTable4.R1C0,1,2.266807825065286e-10
+Streak Agent(19),AS JCommTable6.R1C0,19,0.863716814438176
+Streak Agent(19),AS JCommTable6.R0C0,19,0.9542319710806906
+Streak Agent(19),AS done,19,0.9985717364192787
+Streak Agent(20),AD JCommTable8.R0C0,17,0.919714463555757
+Streak Agent(20),AD JCommTable4.R1C0,17,0.9920800046187904
+Streak Agent(20),AD JCommTable4.R0C0,17,0.9887183601145293
+Streak Agent(20),AD JCommTable5.R1C0,17,0.9942726639116656
+Streak Agent(20),AD JCommTable5.R0C0,17,0.9853275261424111
+Streak Agent(20),AD JCommTable6.R1C0,17,0.821591330199579
+Streak Agent(20),AD JCommTable6.R0C0,17,0.8883684019066167
+Streak Agent(20),AD done,17,0.9986734754856227
+Streak Agent(20),M  JCommTable8.R0C0,1,3.640083361176091e-60
+Streak Agent(20),M  JCommTable4.R1C0,2,6.459677910461534e-11
+Streak Agent(20),M  JCommTable5.R0C0,2,4.1850051213046e-10
+Streak Agent(20),M  JCommTable6.R0C0,18,0.9913416531248295
+Streak Agent(20),M  JCommTable6.R1C0,18,0.9845041547286046
+Streak Agent(20),M  done,18,0.9983117886443175
+Streak Agent(20),AS JCommTable8.R0C0,5,1.2233453900044244e-13
+Streak Agent(20),AS JCommTable6.R0C0,10,0.9542086567981231
+Streak Agent(20),AS JCommTable6.R1C0,10,0.8631160461590774
+Streak Agent(20),AS JCommTable5.R0C0,1,4.590317333557955e-10
+Streak Agent(20),AS done,10,0.9985713705592166
+Streak Agent(21),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(21),AD JCommTable4.R1C0,16,0.9920800001246313
+Streak Agent(21),AD JCommTable4.R0C0,16,0.9887135270588496
+Streak Agent(21),AD JCommTable5.R1C0,16,0.9942726533967909
+Streak Agent(21),AD JCommTable5.R0C0,16,0.9851872009529801
+Streak Agent(21),AD JCommTable6.R1C0,16,0.8088915547157539
+Streak Agent(21),AD JCommTable6.R0C0,16,0.8877147269162579
+Streak Agent(21),AD done,16,0.9986717900060136
+Streak Agent(21),M  JCommTable8.R0C0,1,1.62296542753459e-60
+Streak Agent(21),M  JCommTable4.R1C0,3,2.880108195841394e-11
+Streak Agent(21),M  JCommTable6.R0C0,8,0.972792306735892
+Streak Agent(21),M  done,8,0.9983111222495148
+Streak Agent(21),M  JCommTable6.R1C0,8,0.9678731507574165
+Streak Agent(21),AS JCommTable6.R1C0,7,0.8502775153483498
+Streak Agent(21),AS JCommTable6.R0C0,7,0.9522897648846582
+Streak Agent(21),AS JCommTable4.R1C0,1,1.236800815509564e-10
+Streak Agent(21),AS done,7,0.9985249055190619
+Streak Agent(21),AS JCommTable8.R0C0,3,5.4544005642487536e-14
+Streak Agent(21),M  JCommTable4.R0C0,1,2.436955386473802e-10
+Streak Agent(22),AD JCommTable8.R0C0,21,0.919714463555757
+Streak Agent(22),AD JCommTable4.R1C0,21,0.9920800051949377
+Streak Agent(22),AD JCommTable4.R0C0,21,0.9887193739093946
+Streak Agent(22),AD JCommTable5.R1C0,21,0.9942726653222692
+Streak Agent(22),AD JCommTable5.R0C0,21,0.9853638985509408
+Streak Agent(22),AD JCommTable6.R1C0,21,0.8262120464991962
+Streak Agent(22),AD JCommTable6.R0C0,21,0.8885657081755214
+Streak Agent(22),AD done,21,0.998673805855226
+Streak Agent(22),AS JCommTable8.R0C0,3,1.3395345212630025e-13
+Streak Agent(22),AS JCommTable6.R1C0,6,0.8518608696947215
+Streak Agent(22),AS JCommTable6.R0C0,6,0.9515935186554906
+Streak Agent(22),AS done,6,0.9984983202577117
+Streak Agent(22),M  JCommTable8.R0C0,3,3.98580594034273e-60
+Streak Agent(22),M  JCommTable6.R1C0,9,0.9811951862960657
+Streak Agent(22),M  JCommTable6.R0C0,9,0.9877389492921084
+Streak Agent(22),M  done,9,0.9983117470035815
+Streak Agent(23),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(23),AD JCommTable4.R1C0,16,0.9920800016384674
+Streak Agent(23),AD JCommTable4.R0C0,16,0.9887152789319672
+Streak Agent(23),AD JCommTable5.R1C0,16,0.9942726569577268
+Streak Agent(23),AD JCommTable5.R0C0,16,0.9852404807489323
+Streak Agent(23),AD JCommTable6.R1C0,16,0.8144045053573566
+Streak Agent(23),AD JCommTable6.R0C0,16,0.8879742058716612
+Streak Agent(23),AD done,16,0.9986723933830906
+Streak Agent(23),AS JCommTable8.R0C0,2,7.774629263821415e-14
+Streak Agent(23),AS JCommTable4.R1C0,1,1.7629192612460032e-10
+Streak Agent(23),AS JCommTable6.R1C0,7,0.8542445061998039
+Streak Agent(23),AS JCommTable6.R0C0,7,0.9528685609888227
+Streak Agent(23),AS done,7,0.9985388810831044
+Streak Agent(23),M  JCommTable4.R1C0,2,4.105267517176992e-11
+Streak Agent(23),M  JCommTable6.R1C0,9,0.978813072138504
+Streak Agent(23),M  JCommTable6.R0C0,9,0.9851474366141262
+Streak Agent(23),M  done,9,0.9983117168991564
+Streak Agent(23),M  JCommTable8.R0C0,3,2.3133531097416594e-60
+Streak Agent(24),AD JCommTable8.R0C0,13,0.919714463555757
+Streak Agent(24),AD JCommTable4.R1C0,13,0.9920798814514674
+Streak Agent(24),AD JCommTable4.R0C0,13,0.9886809026147699
+Streak Agent(24),AD JCommTable5.R1C0,13,0.9942724077247918
+Streak Agent(24),AD JCommTable5.R0C0,13,0.9847077481643239
+Streak Agent(24),AD JCommTable6.R1C0,13,0.8067120217622746
+Streak Agent(24),AD JCommTable6.R0C0,13,0.8865373283122121
+Streak Agent(24),AD done,13,0.9986579260540925
+Streak Agent(24),AS JCommTable8.R0C0,2,1.33665901291006e-13
+Streak Agent(24),AS JCommTable6.R1C0,6,0.8518357137654035
+Streak Agent(24),AS JCommTable6.R0C0,6,0.9515878583706094
+Streak Agent(24),AS done,6,0.9984981623316916
+Streak Agent(24),M  JCommTable8.R0C0,1,3.977249820218375e-60
+Streak Agent(24),M  JCommTable6.R1C0,10,0.9829036906577654
+Streak Agent(24),M  JCommTable6.R0C0,10,0.9896429615089687
+Streak Agent(24),M  done,10,0.9983117822404108
+Streak Agent(25),AD JCommTable8.R0C0,17,0.919714463555757
+Streak Agent(25),AD JCommTable4.R1C0,17,0.9920800044113017
+Streak Agent(25),AD JCommTable4.R0C0,17,0.9887179880642074
+Streak Agent(25),AD JCommTable5.R1C0,17,0.9942726634033104
+Streak Agent(25),AD JCommTable5.R0C0,17,0.9853138137005576
+Streak Agent(25),AD JCommTable6.R1C0,17,0.8194341719766968
+Streak Agent(25),AD JCommTable6.R0C0,17,0.8882908048162032
+Streak Agent(25),AD done,17,0.9986733548392416
+Streak Agent(25),AS JCommTable8.R0C0,2,9.003633619541895e-14
+Streak Agent(25),AS JCommTable6.R1C0,11,0.863339516240737
+Streak Agent(25),AS JCommTable6.R0C0,11,0.9542224832663708
+Streak Agent(25),AS done,11,0.9985716073081922
+Streak Agent(25),M  JCommTable6.R1C0,8,0.9743635492363292
+Streak Agent(25),M  JCommTable6.R0C0,8,0.9800226757535788
+Streak Agent(25),M  done,8,0.9983113849422912
+Streak Agent(25),M  JCommTable8.R0C0,2,2.679045279967998e-60
+Streak Agent(26),AD JCommTable8.R0C0,19,0.919714463555757
+Streak Agent(26),AD JCommTable4.R1C0,19,0.9920800051215946
+Streak Agent(26),AD JCommTable4.R0C0,19,0.9887190717977802
+Streak Agent(26),AD JCommTable5.R1C0,19,0.9942726651278361
+Streak Agent(26),AD JCommTable5.R0C0,19,0.9853481430744683
+Streak Agent(26),AD JCommTable6.R1C0,19,0.8214708983860941
+Streak Agent(26),AD JCommTable6.R0C0,19,0.8884504245304186
+Streak Agent(26),AD done,19,0.9986737182495634
+Streak Agent(26),M  JCommTable8.R0C0,1,1.8214735465948755e-60
+Streak Agent(26),M  JCommTable4.R0C0,2,2.7350242311091013e-10
+Streak Agent(26),M  JCommTable5.R0C0,2,2.0941487779489593e-10
+Streak Agent(26),M  JCommTable6.R0C0,6,0.9205950199585782
+Streak Agent(26),M  done,6,0.9982865758796898
+Streak Agent(26),M  JCommTable6.R1C0,6,0.9237646166730654
+Streak Agent(26),AS JCommTable8.R0C0,4,6.121539110912009e-14
+Streak Agent(26),AS JCommTable6.R0C0,13,0.9542307196593584
+Streak Agent(26),AS JCommTable6.R1C0,13,0.8635986029492665
+Streak Agent(26),AS done,13,0.998571723610963
+Streak Agent(27),AD JCommTable8.R0C0,16,0.919714463555757
+Streak Agent(27),AD JCommTable4.R1C0,16,0.9920800020099082
+Streak Agent(27),AD JCommTable4.R0C0,16,0.988715708779413
+Streak Agent(27),AD JCommTable5.R1C0,16,0.9942726578314521
+Streak Agent(27),AD JCommTable5.R0C0,16,0.985253554570274
+Streak Agent(27),AD JCommTable6.R1C0,16,0.8157686850387115
+Streak Agent(27),AD JCommTable6.R0C0,16,0.8880378958291356
+Streak Agent(27),AD done,16,0.9986725414301811
+Streak Agent(27),AS JCommTable8.R0C0,2,8.680670073553864e-14
+Streak Agent(27),AS JCommTable4.R0C0,1,1.136026327342466e-10
+Streak Agent(27),AS JCommTable6.R1C0,7,0.8552235246722711
+Streak Agent(27),AS JCommTable6.R0C0,7,0.9530106841948688
+Streak Agent(27),AS done,7,0.9985423102423858
+Streak Agent(27),M  JCommTable8.R0C0,3,2.582946971213758e-60
+Streak Agent(27),M  JCommTable6.R1C0,6,0.9408790160193883
+Streak Agent(27),M  JCommTable6.R0C0,6,0.9403806913322218
+Streak Agent(27),M  JCommTable4.R0C0,1,3.8784107330712567e-10
+Streak Agent(27),M  done,6,0.9982940086719649
+Streak Agent(27),AS JCommTable5.R1C0,1,1.0983848157636454e-13
+Streak Agent(28),AD JCommTable8.R0C0,14,0.919714463555757
+Streak Agent(28),AD JCommTable4.R1C0,14,0.9920799587498821
+Streak Agent(28),AD JCommTable4.R0C0,14,0.9886970091145744
+Streak Agent(28),AD JCommTable5.R1C0,14,0.9942725646192352
+Streak Agent(28),AD JCommTable5.R0C0,14,0.9849019990214741
+Streak Agent(28),AD JCommTable6.R1C0,14,0.8057224878871522
+Streak Agent(28),AD JCommTable6.R0C0,14,0.8869091456590157
+Streak Agent(28),AD done,14,0.9986651131878094
+Streak Agent(28),M  JCommTable8.R0C0,2,2.7099448627279796e-60
+Streak Agent(28),M  JCommTable4.R1C0,1,4.809057714263482e-11
+Streak Agent(28),M  JCommTable6.R0C0,7,0.9678364548911859
+Streak Agent(28),M  JCommTable6.R1C0,7,0.9639480373165243
+Streak Agent(28),M  done,7,0.9983091879689315
+Streak Agent(28),M  JCommTable4.R0C0,1,4.0691037634788306e-10
+Streak Agent(28),M  JCommTable5.R1C0,1,2.459682842076672e-10
+Streak Agent(28),AS JCommTable8.R0C0,2,9.10747976363213e-14
+Streak Agent(28),AS JCommTable4.R1C0,1,2.0651468965776521e-10
+Streak Agent(28),AS JCommTable6.R0C0,5,0.9414141937020398
+Streak Agent(28),AS JCommTable6.R1C0,5,0.8271016292563153
+Streak Agent(28),AS JCommTable4.R0C0,1,1.1918822740063427e-10
+Streak Agent(28),AS done,5,0.9981561358550302
+Streak Agent(29),AD JCommTable8.R0C0,21,0.919714463555757
+Streak Agent(29),AD JCommTable4.R1C0,21,0.9920800051940486
+Streak Agent(29),AD JCommTable4.R0C0,21,0.9887193647220743
+Streak Agent(29),AD JCommTable5.R1C0,21,0.994272665319706
+Streak Agent(29),AD JCommTable5.R0C0,21,0.9853631687774541
+Streak Agent(29),AD JCommTable6.R1C0,21,0.8256418398056602
+Streak Agent(29),AD JCommTable6.R0C0,21,0.888558203169723
+Streak Agent(29),AD done,21,0.9986738035141517
+Streak Agent(29),M  JCommTable8.R0C0,2,2.8605568345875383e-60
+Streak Agent(29),M  JCommTable4.R1C0,1,5.076333139330719e-11
+Streak Agent(29),M  JCommTable5.R0C0,1,3.288783199666518e-10
+Streak Agent(29),M  JCommTable6.R0C0,13,0.9910995197302415
+Streak Agent(29),M  JCommTable6.R1C0,13,0.9842580563886908
+Streak Agent(29),M  done,13,0.9983117886121419
+Streak Agent(29),AS JCommTable8.R0C0,6,9.613650758008339e-14
+Streak Agent(29),AS JCommTable4.R1C0,1,2.1799226067709846e-10
+Streak Agent(29),AS JCommTable6.R0C0,21,0.9542319715825645
+Streak Agent(29),AS JCommTable6.R1C0,21,0.8637173682182122
+Streak Agent(29),AS done,21,0.9985717364215179
+Streak Agent(30),AD JCommTable8.R0C0,20,0.919714463555757
+Streak Agent(30),AD JCommTable4.R1C0,20,0.992080005184469
+Streak Agent(30),AD JCommTable4.R0C0,20,0.9887193123616546
+Streak Agent(30),AD JCommTable5.R1C0,20,0.9942726652935473
+Streak Agent(30),AD JCommTable5.R0C0,20,0.9853601875231679
+Streak Agent(30),AD JCommTable6.R1C0,20,0.8247403657418833
+Streak Agent(30),AD JCommTable6.R0C0,20,0.888535480236595
+Streak Agent(30),AD done,20,0.9986737888280567
+Streak Agent(30),M  JCommTable8.R0C0,2,2.7669024269349786e-60
+Streak Agent(30),M  JCommTable6.R0C0,11,0.9901942471306836
+Streak Agent(30),M  JCommTable6.R1C0,11,0.9833949283256397
+Streak Agent(30),M  done,11,0.9983117872316924
+Streak Agent(30),AS JCommTable8.R0C0,4,9.298900582016862e-14
+Streak Agent(30),AS JCommTable6.R0C0,23,0.9542319716294101
+Streak Agent(30),AS JCommTable6.R1C0,23,0.863717491558571
+Streak Agent(30),AS done,23,0.9985717364216751
