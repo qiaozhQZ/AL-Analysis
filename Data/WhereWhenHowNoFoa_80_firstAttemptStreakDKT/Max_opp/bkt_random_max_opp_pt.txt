@@ -1,0 +1,33 @@
+	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max
+KC (ptype_selection)	AD JCommTable4.R0C0	AD JCommTable4.R1C0	AD JCommTable5.R0C0	AD JCommTable5.R1C0	AD JCommTable6.R0C0	AD JCommTable6.R1C0	AD JCommTable8.R0C0	AD done	AS JCommTable4.R0C0	AS JCommTable4.R1C0	AS JCommTable5.R0C0	AS JCommTable5.R1C0	AS JCommTable6.R0C0	AS JCommTable6.R1C0	AS JCommTable8.R0C0	AS done	M  JCommTable4.R0C0	M  JCommTable4.R1C0	M  JCommTable5.R0C0	M  JCommTable6.R0C0	M  JCommTable6.R1C0	M  JCommTable8.R0C0	M  done
+Anon Student Id																							
+BKT Controller_random(1)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0		1.0			7.0	7.0	3.0	7.0	1.0	2.0		10.0	10.0	1.0	10.0
+BKT Controller_random(10)	7.0	7.0	7.0	7.0	7.0	7.0	7.0	7.0		2.0			7.0	7.0	2.0	7.0		2.0		9.0	9.0	2.0	9.0
+BKT Controller_random(11)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	1.0	1.0			4.0	4.0	2.0	4.0		2.0	1.0	6.0	6.0	2.0	6.0
+BKT Controller_random(12)	11.0	11.0	11.0	11.0	11.0	11.0	11.0	11.0	2.0	1.0			5.0	5.0	2.0	5.0				7.0	7.0	4.0	7.0
+BKT Controller_random(13)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0					6.0	6.0	4.0	6.0				6.0	6.0	1.0	6.0
+BKT Controller_random(14)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0	1.0				4.0	4.0	4.0	4.0	2.0			10.0	10.0	2.0	10.0
+BKT Controller_random(15)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0		2.0	1.0	1.0	8.0	8.0	2.0	8.0		1.0	1.0	9.0	9.0	2.0	9.0
+BKT Controller_random(16)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	3.0	1.0			6.0	6.0	4.0	6.0	1.0	1.0		5.0	5.0	1.0	5.0
+BKT Controller_random(17)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	1.0				3.0	3.0	3.0	3.0	1.0			6.0	6.0	2.0	6.0
+BKT Controller_random(18)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0					4.0	4.0	1.0	4.0				7.0	7.0	3.0	7.0
+BKT Controller_random(19)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	3.0	2.0			7.0	7.0	3.0	7.0		2.0	1.0	8.0	8.0	2.0	8.0
+BKT Controller_random(2)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0		2.0			7.0	7.0	2.0	7.0				5.0	5.0	1.0	5.0
+BKT Controller_random(20)	7.0	7.0	7.0	7.0	7.0	7.0	7.0	7.0					5.0	5.0	2.0	5.0				4.0	4.0	2.0	4.0
+BKT Controller_random(21)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	1.0	1.0	1.0		8.0	8.0	3.0	8.0	1.0	1.0		8.0	8.0	2.0	8.0
+BKT Controller_random(22)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	1.0	1.0			4.0	4.0	1.0	4.0	1.0	1.0		5.0	5.0	1.0	5.0
+BKT Controller_random(23)	11.0	11.0	11.0	11.0	11.0	11.0	11.0	11.0					3.0	3.0	1.0	3.0				8.0	8.0	3.0	8.0
+BKT Controller_random(24)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0					6.0	6.0	3.0	6.0				6.0	6.0	1.0	6.0
+BKT Controller_random(25)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0		1.0			6.0	6.0	3.0	6.0		2.0		8.0	8.0	2.0	8.0
+BKT Controller_random(26)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0			1.0		5.0	5.0	3.0	5.0				5.0	5.0	1.0	5.0
+BKT Controller_random(27)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0					7.0	7.0	4.0	7.0				6.0	6.0	2.0	6.0
+BKT Controller_random(28)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0					3.0	3.0	3.0	3.0	1.0		3.0	8.0	8.0	2.0	8.0
+BKT Controller_random(29)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	1.0		1.0		6.0	6.0	2.0	6.0			1.0	5.0	5.0	2.0	5.0
+BKT Controller_random(3)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0					6.0	6.0	2.0	6.0		1.0		7.0	7.0	1.0	7.0
+BKT Controller_random(30)	20.0	20.0	20.0	20.0	20.0	20.0	20.0	20.0		1.0	2.0		7.0	7.0	3.0	7.0				7.0	7.0	1.0	7.0
+BKT Controller_random(4)	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	1.0	1.0			7.0	7.0	3.0	7.0		1.0		6.0	6.0	2.0	6.0
+BKT Controller_random(5)	15.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0	1.0	2.0			8.0	8.0	3.0	8.0	1.0	1.0	1.0	5.0	5.0	1.0	5.0
+BKT Controller_random(6)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0		1.0			6.0	6.0	3.0	6.0		1.0		8.0	8.0	2.0	8.0
+BKT Controller_random(7)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0			1.0		7.0	7.0	3.0	7.0				5.0	5.0	2.0	5.0
+BKT Controller_random(8)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0		1.0			7.0	7.0	2.0	7.0		2.0		6.0	6.0	2.0	6.0
+BKT Controller_random(9)	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	2.0	2.0	1.0		9.0	9.0	3.0	9.0	1.0	2.0		9.0	9.0	2.0	9.0

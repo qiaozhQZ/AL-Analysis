@@ -1,0 +1,33 @@
+	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max	max
+KC (ptype_selection)	AD JCommTable4.R0C0	AD JCommTable4.R1C0	AD JCommTable5.R0C0	AD JCommTable5.R1C0	AD JCommTable6.R0C0	AD JCommTable6.R1C0	AD JCommTable8.R0C0	AD done	AS JCommTable4.R0C0	AS JCommTable4.R1C0	AS JCommTable5.R0C0	AS JCommTable6.R0C0	AS JCommTable6.R1C0	AS JCommTable8.R0C0	AS done	M  JCommTable4.R0C0	M  JCommTable4.R1C0	M  JCommTable5.R0C0	M  JCommTable6.R0C0	M  JCommTable6.R1C0	M  JCommTable8.R0C0	M  done
+Anon Student Id																						
+BKT Controller_human(1)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0			1.0	8.0	8.0	5.0	8.0	1.0			10.0	10.0	2.0	10.0
+BKT Controller_human(10)	20.0	20.0	20.0	20.0	20.0	20.0	20.0	20.0				5.0	5.0	3.0	5.0	2.0	1.0		10.0	10.0	3.0	10.0
+BKT Controller_human(11)	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0			1.0	7.0	7.0	4.0	7.0				10.0	10.0	2.0	10.0
+BKT Controller_human(12)	19.0	19.0	19.0	19.0	19.0	19.0	19.0	19.0		1.0	1.0	5.0	5.0	4.0	5.0		2.0	1.0	8.0	8.0	2.0	8.0
+BKT Controller_human(13)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0	1.0	1.0		8.0	8.0	3.0	8.0	1.0	3.0	1.0	10.0	10.0	2.0	10.0
+BKT Controller_human(14)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0		1.0		7.0	7.0	2.0	7.0		1.0	2.0	9.0	9.0	2.0	9.0
+BKT Controller_human(15)	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0				7.0	7.0	4.0	7.0				7.0	7.0	2.0	7.0
+BKT Controller_human(16)	16.0	16.0	16.0	16.0	16.0	16.0	16.0	16.0	1.0			7.0	7.0	2.0	7.0	1.0			11.0	11.0	2.0	11.0
+BKT Controller_human(17)	22.0	22.0	22.0	22.0	22.0	22.0	22.0	22.0			1.0	7.0	7.0	4.0	7.0				6.0	6.0	2.0	6.0
+BKT Controller_human(18)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0				10.0	10.0	2.0	10.0				11.0	11.0	2.0	11.0
+BKT Controller_human(19)	18.0	18.0	18.0	18.0	18.0	18.0	18.0	18.0				5.0	5.0	2.0	5.0				7.0	7.0	3.0	7.0
+BKT Controller_human(2)	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0		1.0		6.0	6.0	3.0	6.0	1.0	1.0		8.0	8.0	2.0	8.0
+BKT Controller_human(20)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0	1.0	1.0		7.0	7.0	4.0	7.0	2.0	2.0		13.0	13.0	1.0	13.0
+BKT Controller_human(21)	13.0	13.0	13.0	13.0	13.0	13.0	13.0	13.0				3.0	3.0	2.0	3.0			2.0	13.0	13.0	2.0	13.0
+BKT Controller_human(22)	14.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0		1.0		5.0	5.0	4.0	5.0		1.0		8.0	8.0	2.0	8.0
+BKT Controller_human(23)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0			1.0	4.0	4.0	3.0	4.0	1.0			4.0	4.0	1.0	4.0
+BKT Controller_human(24)	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0		1.0		6.0	6.0	2.0	6.0		1.0		11.0	11.0	2.0	11.0
+BKT Controller_human(25)	15.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0				6.0	6.0	4.0	6.0			1.0	9.0	9.0	1.0	9.0
+BKT Controller_human(26)	17.0	17.0	17.0	17.0	17.0	17.0	17.0	17.0				5.0	5.0	2.0	5.0				9.0	9.0	1.0	9.0
+BKT Controller_human(27)	12.0	12.0	12.0	12.0	12.0	12.0	12.0	12.0				5.0	5.0	2.0	5.0				11.0	11.0	3.0	11.0
+BKT Controller_human(28)	15.0	15.0	15.0	15.0	15.0	15.0	15.0	15.0				5.0	5.0	2.0	5.0				7.0	7.0	3.0	7.0
+BKT Controller_human(29)	17.0	17.0	17.0	17.0	17.0	17.0	17.0	17.0				8.0	8.0	3.0	8.0				11.0	11.0	2.0	11.0
+BKT Controller_human(3)	17.0	17.0	17.0	17.0	17.0	17.0	17.0	17.0		1.0		7.0	7.0	4.0	7.0		1.0		7.0	7.0	2.0	7.0
+BKT Controller_human(30)	18.0	18.0	18.0	18.0	18.0	18.0	18.0	18.0	3.0			8.0	8.0	6.0	8.0	3.0	1.0		12.0	12.0	2.0	12.0
+BKT Controller_human(4)	14.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0	2.0			5.0	5.0	4.0	5.0			1.0	9.0	9.0	2.0	9.0
+BKT Controller_human(5)	11.0	11.0	11.0	11.0	11.0	11.0	11.0	11.0			2.0	8.0	8.0	3.0	8.0			4.0	11.0	11.0	2.0	11.0
+BKT Controller_human(6)	17.0	17.0	17.0	17.0	17.0	17.0	17.0	17.0		2.0		6.0	6.0	3.0	6.0	1.0	1.0		7.0	7.0	2.0	7.0
+BKT Controller_human(7)	14.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0		2.0		5.0	5.0	4.0	5.0	1.0	2.0		7.0	7.0	1.0	7.0
+BKT Controller_human(8)	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0		2.0		9.0	9.0	3.0	9.0				7.0	7.0	3.0	7.0
+BKT Controller_human(9)	14.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0				5.0	5.0	2.0	5.0				7.0	7.0	2.0	7.0
