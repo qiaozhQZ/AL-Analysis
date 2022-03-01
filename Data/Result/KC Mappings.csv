@@ -1,0 +1,15 @@
+KC (ptype_selection),Label
+AD JCommTable4.R0C0,AD Left Convert Numerator
+AD JCommTable4.R1C0,AD Left Convert Denominator
+AD JCommTable5.R0C0,AD Right Convert Numerator
+AD JCommTable5.R1C0,AD Right Convert Denominator
+AD JCommTable6.R0C0,AD Answer Numerator
+AD JCommTable6.R1C0,AD Answer Denominator
+AD JCommTable8.R0C0,AD Convert Checkbox
+AD done,AD Done
+AS JCommTable6.R0C0,AS Answer Numerator
+AS JCommTable6.R1C0,AS Answer Denominator
+AS done,AS Done
+M  JCommTable6.R0C0,M Answer Numerator
+M  JCommTable6.R1C0,M Answer Denominator
+M  done,M Done
